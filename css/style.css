@@ -1,10 +1,116 @@
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
-Date:        <dd-mm-yyyy>
+Author name: Tejas;
+E-mail ID:   tej.sourceus@gmail.com
+Date:        12-12-2017
 */
 
 html {
     margin:0px;
     padding: 0px;
+}
+
+.left-bar{
+   height: 100%;
+   position: fixed;
+   width: 112px;
+   background: #025863;
+   color: #ffffff;
+}
+
+.image1{
+ /*padding: 5px 0px;*/
+ /*margin-bottom: 10px;*/
+ background: #fff;
+ }
+
+ul{
+  padding: 0px;
+}
+
+ul>li>a{
+  padding: 10px 0px;
+  display: block;
+  border-bottom:  2px solid #06f;
+  text-align: left;
+  text-align: center;
+  font-weight: bold;
+  transition: 1s;
+  color: #fff;
+  text-decoration: none;
+}
+
+ul>li:hover a{
+    background: #f00;
+    border-bottom:  2px solid #f00;
+    color: #fff;
+    text-decoration: none;
+  }
+
+.right-bars {
+	position: fixed;
+	right: 0;
+	height: 100%;
+	width: 224px;
+	background-color: #333;
+	color: #fff;
+}
+
+.righ-col-1 {
+	float: right;
+	width: 50%;
+}
+.righ-col-2 {
+	float: left;
+	width: 50%;
+}
+.righ-col-1, .righ-col-2 {
+	height: 100%;
+}
+
+.rightMenuBlocks {
+	height: 12.5%;
+	border-bottom: 1px solid #fff;
+	border-left: 1px solid #fff;
+	background-color: #333;
+}
+.rightMenuBlocks:hover {
+	/*border-bottom: 1px solid #666;
+	border-left: 1px solid #666;*/
+	background-color: #666;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: #025863;
+    color: #ffffff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    font-size: 36px;
+	text-decoration: none;
+	color: #fff;
+}
+
+.sidenav .closebtn:hover {
+	color: #f00;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
