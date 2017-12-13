@@ -22,11 +22,11 @@ Date:        <dd-mm-yyyy>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-<?php include_once("header.php"); ?>
+<?php //include_once("header.php"); ?>
 <!-- BODY START -->
     
 <!-- BODY END -->
-<?php include_once("footer.php"); ?>
+<?php //include_once("footer.php"); ?>
 <?php include_once("script.php"); ?>
 </body>
 </html>

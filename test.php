@@ -61,7 +61,7 @@ Date:        <dd-mm-yyyy>
      <!-- Right bar starts -->
      <div class="right-bars">
      	<div class="righ-col-1">
-     		<div class="rightMenuBlocks"></div>
+     		<div class="rightMenuBlocks">About</div>
      		<div class="rightMenuBlocks"></div>
      		<div class="rightMenuBlocks"></div>
      		<div class="rightMenuBlocks"></div>
