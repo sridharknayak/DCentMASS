@@ -61,8 +61,8 @@ Date:        <dd-mm-yyyy>
      <!-- Right bar starts -->
      <div class="right-bars">
      	<div class="righ-col-1">
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
+     		<div class="rightMenuBlocks">Gallery</div>
+     		<div class="rightMenuBlocks">Contact us</div>
      		<div class="rightMenuBlocks"></div>
      		<div class="rightMenuBlocks"></div>
      		<div class="rightMenuBlocks"></div>
@@ -71,14 +71,14 @@ Date:        <dd-mm-yyyy>
      		<div class="rightMenuBlocks"></div>
      	</div>
      	<div class="righ-col-2">
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
+     		<div class="rightMenuBlocks">About Us</div>
+     		<div class="rightMenuBlocks">How It Works</div>
+     		<div class="rightMenuBlocks">Out team</div>
+     		<div class="rightMenuBlocks">Why us?</div>
+     		<div class="rightMenuBlocks">testimonials</div>
+     		<div class="rightMenuBlocks">Partners</div>
+     		<div class="rightMenuBlocks">Trainers profiles</div>
+     		<div class="rightMenuBlocks">Branches</div>
      	</div>
      </div>
      
