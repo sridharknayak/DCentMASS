@@ -9,6 +9,11 @@ html {
     padding: 0px;
 }
 
+.mainContainer {
+    margin-left: 112px;
+    margin-right: 224px;
+}
+
 .left-bar{
    height: 100%;
    position: fixed;
