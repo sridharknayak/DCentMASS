@@ -46,7 +46,7 @@ Date:        <dd-mm-yyyy>
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <ul> <!-- User class="activeLink" to make links active -->
         <li><a href="#">Home</a></li>
-        <li>"><a href="#">DCent MASS</a></li>
+        <li><a href="#">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
         <li><a href="#">Student Hub</a></li>
         <li><a href="#">Courses</a></li>
@@ -84,22 +84,35 @@ Date:        <dd-mm-yyyy>
      	</div>
      </div>
      
-<div class="mainContainer">  <!-- DO NOT REMOVE THIS -->
+<div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-    <div class="row">
-      <div class="col-md-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. A ab perspiciatis doloribus deserunt quibusdam natus amet culpa in dicta maiores, aperiam numquam, necessitatibus officiis non officia perferendis aspernatur, maxime autem?</div>
-      <div class="col-md-5">Lorem6 </div>
-    </div>
+
+
+
+
+
+
+
+
+<!-- WRITE MAIN CONTENT HERE -->
+
+
+
+<!-- NOTE: Please keep your code clean + readable and add comments -->
+
+
+
+
+
+
+
 
 
 
 <!-- MAIN CONTENT ENDS -->
 	</div>
 </div>
-
-
-
 <?php include_once("script.php"); ?>
 </body>
 </html>
