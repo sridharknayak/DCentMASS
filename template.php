@@ -23,7 +23,7 @@ Date:        <dd-mm-yyyy>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/Logo.png" class="img-responsive">
+        <img src="images/dcentmass_png.png" class="img-responsive">
       </div>
       <ul>
         <li><a href="#">Home</a></li>
