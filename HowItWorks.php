@@ -45,7 +45,7 @@ Date:        <dd-mm-yyyy>
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">DCent MASS</a></li>
+        <li><a href="#" class="active">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
         <li><a href="#">Student Hub</a></li>
         <li><a href="#">Courses</a></li>
@@ -72,7 +72,7 @@ Date:        <dd-mm-yyyy>
      	</div>
      	<div class="righ-col-2">
      		<div class="rightMenuBlocks">About Us</div>
-     		<div class="rightMenuBlocks">How It Works</div>
+     		<div class="rightMenuBlocks active  ">How It Works</div>
      		<div class="rightMenuBlocks">Out team</div>
      		<div class="rightMenuBlocks">Why us?</div>
      		<div class="rightMenuBlocks">testimonials</div>
@@ -83,17 +83,23 @@ Date:        <dd-mm-yyyy>
      </div>
      
 <div class="mainContainer">  <!-- DO NOT REMOVE THIS -->
-	<div class="container-fluid">
+  <div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-         
-<!-- MAIN CONTENT ENDS -->
-	</div>
-</div>
+<div class="row">
+<div class="col-md-12">
 
+<h1> How It Works </h1>
+</div>
+</div>
+       
+<!-- MAIN CONTENT ENDS -->
+	
+  </div>
+</div>
 
 
 <?php include_once("script.php"); ?>
