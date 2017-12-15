@@ -88,10 +88,16 @@ Date:        14/12/17
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-
+<div class="row" id="box-search">
+<div class="thumbnail text-center">
+    <img src="images/bghiw.jpeg" alt="" class="bgimg1 img-responsive">
+    <div class="caption">
+        <h1>How It Works</h1>
+    </div>
+</div>
+</div>
 <div class="row">
 <div class="col-md-12">
-<h1> How It Works </h1>
 <img src="images/i1.png" class="img-responsive">
 <p>What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -126,7 +132,17 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </div>
 <hr>
 <div class="col-md-12">
-
+<h2>Documentation</h2>
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius culpa, nisi officia laboriosam quis aperiam quod odio delectus dolores ab doloribus quasi impedit perspiciatis dolorum. Tenetur esse architecto officiis explicabo.
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam ex quam asperiores vitae, libero repellendus incidunt debitis quasi tempore similique, suscipit sunt possimus esse quia totam ullam odio delectus officiis!
+  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae minima reiciendis placeat officiis voluptatem ullam quisquam, voluptatibus sapiente omnis possimus? Porro repellat minima nostrum, facere quo esse at tenetur consequuntur?
+  </p>
+  <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea sit nesciunt, veritatis, deleniti adipisci iusto corrupti dicta ratione inventore dolorem eveniet quisquam eum eligendi dignissimos enim, blanditiis saepe
+     eaque cupiditate.
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis voluptates qui dolorum quis nemo ratione eius praesentium, magni odio, est provident, veritatis enim nulla. Alias amet eaque quas repellat obcaecati!
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima optio illo, nisi blanditiis placeat iste? Maxime hic nemo doloribus accusantium, aspernatur magni soluta, fugit, quis mollitia expedita culpa nisi ab. 
+</p>
 </div>       
 <!-- MAIN CONTENT ENDS -->
 	
