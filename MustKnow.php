@@ -29,7 +29,7 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Home</a></li>
         <li><a href="#">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
-        <li><a href="#">Student Hub</a></li>
+        <li><a href="#" class="activeLink">Student Hub</a></li>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
@@ -61,24 +61,24 @@ Date:        <dd-mm-yyyy>
      <!-- Right bar starts -->
      <div class="right-bars">
      	<div class="righ-col-1">
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Carrer Path</span></div></a>
+       <a href="#"><div class="rightMenuBlocks activeLink"><span class="linkText">Must Know</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Projects</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Upcoming Technologies</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Market Trend</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Alumni</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
      	</div>
      	<div class="righ-col-2">
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
      	</div>
      </div>
      
