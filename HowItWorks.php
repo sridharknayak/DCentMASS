@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
-Date:        <dd-mm-yyyy>
+Author name: Nadeem;
+E-mail ID:  nadeem566sourceus@gmail.com
+Date:        14/12/17
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -23,11 +23,11 @@ Date:        <dd-mm-yyyy>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/DM Logo - PNG.png" class="img-responsive">
+        <img src="images/dcentmass_png.png" class="img-responsive">
       </div>
       <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">DCent MASS</a></li>
+        <li class="activeLink"><a href="#">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
         <li><a href="#">Student Hub</a></li>
         <li><a href="#">Courses</a></li>
@@ -45,7 +45,7 @@ Date:        <dd-mm-yyyy>
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#" class="active">DCent MASS</a></li>
+        <li><a href="#">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
         <li><a href="#">Student Hub</a></li>
         <li><a href="#">Courses</a></li>
@@ -61,28 +61,28 @@ Date:        <dd-mm-yyyy>
      <!-- Right bar starts -->
      <div class="right-bars">
      	<div class="righ-col-1">
-     		<div class="rightMenuBlocks">Gallery</div>
-     		<div class="rightMenuBlocks">Contact us</div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Contact Us</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
      	</div>
      	<div class="righ-col-2">
-     		<div class="rightMenuBlocks">About Us</div>
-     		<div class="rightMenuBlocks active  ">How It Works</div>
-     		<div class="rightMenuBlocks">Out team</div>
-     		<div class="rightMenuBlocks">Why us?</div>
-     		<div class="rightMenuBlocks">testimonials</div>
-     		<div class="rightMenuBlocks">Partners</div>
-     		<div class="rightMenuBlocks">Trainers profiles</div>
-     		<div class="rightMenuBlocks">Branches</div>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">About Us</span></div></a>
+       <a href="#"><div class="rightMenuBlocks activeLink"><span class="linkText">How It Works</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Out team</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Testimonials</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Partners</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Trainers profiles</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Branches</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Gallery</span></div></a>
      	</div>
      </div>
-     
-<div class="mainContainer">  <!-- DO NOT REMOVE THIS -->
+
+<div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
   <div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
@@ -91,15 +91,49 @@ Date:        <dd-mm-yyyy>
 
 <div class="row">
 <div class="col-md-12">
-
 <h1> How It Works </h1>
+<img src="images/i1.png" class="img-responsive">
+<p>What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+</p>
+<div class="col-md-4">
+<div class="jumbotron">
+<h4>Step 1</h4>
+<p>What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has  of Lorem Ipsum.
+</p>
 </div>
 </div>
-       
+<div class="col-md-4">
+<div class="jumbotron">
+<h4>Step 2</h4>
+<p>What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has  of Lorem Ipsum.
+</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="jumbotron">
+<h4>Step 3</h4>
+<p>What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has  of Lorem Ipsum.
+</p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<div class="col-md-12">
+
+</div>       
 <!-- MAIN CONTENT ENDS -->
 	
   </div>
+
 </div>
+
 
 
 <?php include_once("script.php"); ?>
