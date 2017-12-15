@@ -11,13 +11,16 @@ Date:        12-12-2017
 				{
 				   	$(".right-bars").css("display","none");
 				   	$(".left-bar").css("display","none");
-				   	$("#openNavID").css("display","inline-block");
+					$("#openNavID").css("display","inline-block");
+					$("#mainContainer").removeClass( "mainContainer", 1000, "easeInBack" );
 				}
 				else if(wdth>="880")
 				{
 				   	$(".right-bars").css("display","block");
 				   	$(".left-bar").css("display","block");
-				   	$("#openNavID").css("display","none");
+					$("#openNavID").css("display","none");
+					$("#mainContainer").addClass("mainContainer");
+					   
 				}
 		});
 		// Read window width change
@@ -28,13 +31,15 @@ Date:        12-12-2017
 				{
 				   	$(".right-bars").css("display","none");
 				   	$(".left-bar").css("display","none");
-				   	$("#openNavID").css("display","inline-block");
+					$("#openNavID").css("display","inline-block");
+					$("#mainContainer").removeClass( "mainContainer", 1000, "easeInBack" );
 				}
 				else if(wdth>="880")
 				{
 				   	$(".right-bars").css("display","block");
 				   	$(".left-bar").css("display","block");
-				   	$("#openNavID").css("display","none");
+					$("#openNavID").css("display","none");
+					$("#mainContainer").addClass("mainContainer");
 				}
 		   }
 		});
@@ -47,3 +52,5 @@ function openNav() {
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
+
+

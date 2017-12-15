@@ -26,6 +26,7 @@ Date:        <dd-mm-yyyy>
         <img src="images/dcentmass_png.png" class="img-responsive">
       </div>
       <ul>
+        <!-- User class="activeLink" to make links active -->
         <li><a href="#">Home</a></li>
         <li><a href="#">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
@@ -43,7 +44,7 @@ Date:        <dd-mm-yyyy>
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <ul>
+  <ul> <!-- User class="activeLink" to make links active -->
         <li><a href="#">Home</a></li>
         <li><a href="#">DCent MASS</a></li>
         <li><a href="#">Our Services</a></li>
@@ -60,40 +61,58 @@ Date:        <dd-mm-yyyy>
 <!-- Mobile bar ends here -->
      <!-- Right bar starts -->
      <div class="right-bars">
-     	<div class="righ-col-1">
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     	</div>
-     	<div class="righ-col-2">
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
-     		<div class="rightMenuBlocks"></div>
+     	<div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 1</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 2</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 3</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 4</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 5</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 6</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 7</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 8</span></div></a>
+         
+      </div>
+     	<div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 9</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 10</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 11</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 12</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 13</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 14</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 15</span></div></a>
+        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 16</span></div></a>
      	</div>
      </div>
      
-<div class="mainContainer">  <!-- DO NOT REMOVE THIS -->
+<div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-    <div class="row">
-    
-    </div>
+
+
+
+
+
+
+
+
+<!-- WRITE MAIN CONTENT HERE -->
+
+
+
+<!-- NOTE: Please keep your code clean + readable and add comments -->
+
+
+
+
+
+
+
+
+
+
 <!-- MAIN CONTENT ENDS -->
 	</div>
 </div>
-
-
-
 <?php include_once("script.php"); ?>
 </body>
 </html>
