@@ -6,9 +6,21 @@
     position: relative;
 }
 
+.img2{
+    width: 15%;
+}
+
 .caption {
     position: absolute;
     top: 45%;
     left: 0;
     width: 100%;
+}
+
+.nadj p{
+    font-size: 15px;
+}
+
+.btnpad{
+    margin:1px auto;
 }

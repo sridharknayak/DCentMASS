@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
-Date:        <dd-mm-yyyy>
+Author name: Nadeem
+E-mail ID:   nadeem566sourceus@gmail.com
+Date:        15/12/17
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <title>Must Know</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -88,6 +88,32 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
+<div class="container-fluid">
+<div class="col-md-12">
+<img src="images/i2.png" alt="" class="img2 img-responsive pull-right">
+<h2>Must Know</h2>
+</div>
+
+
+<div class="row">
+<div class="col-md-3">
+<ul>
+<button class="btn btn-success btnpad" type="submit">Interview Skills</button><br />
+<button class="btn btn-success btnpad" type="submit">Aptitude</button><br />
+<button class="btn btn-success btnpad" type="submit">Technical Education</button><br />
+<button class="btn btn-success btnpad" type="submit">Resume Preperation</button><br />
+<button class="btn btn-success btnpad" type="submit">Soft Skills</button><br />
+</ul>
+</div>
+<div class="col-md-9">
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel maxime quidem enim delectus labore similique at, obcaecati soluta tempora facilis, eum vitae? Sint eligendi cumque doloribus! Atque excepturi libero eaque!
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit optio delectus quidem veniam, ad excepturi incidunt, nisi non harum ut cumque ipsa, eum tempore et vitae doloremque? Aut, quia. Quas!
+</div>
+</div>
+
+
+
 
 
          
