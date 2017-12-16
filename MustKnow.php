@@ -114,9 +114,10 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit optio delectus q
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati eligendi sed veritatis fugiat ipsa temporibus. Quasi aspernatur magnam doloremque, architecto harum deleniti nobis hic, expedita, inventore non ut et consequatur!
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maiores consequuntur error maxime? Officiis aspernatur provident consectetur. Ea voluptatum sit adipisci ipsum quaerat rem facere quos eius a.
 </p>
+<hr>
 </div>
 </div>
-<hr><hr>
+<hr>
 <div class="row">
   <div class="col-md-12">
 

@@ -12,7 +12,7 @@
 
 .imgr{
     width: 100%;
-    opacity: 0.3;
+    opacity: 0.8;
 }
 
 .caption {
@@ -35,8 +35,8 @@
     float: right;
 }
 
-#section1 {padding-top:50px;min-height:100%;color: #fff; background-color: #1E88E5;}
-#section2 {padding-top:50px;min-height:100%;color: #fff; background-color: #673ab7;}
-#section3 {padding-top:50px;min-height:100%;color: #fff; background-color: #ff9800;}
-#section4 {padding-top:50px;min-height:100%;color: #fff; background-color: #00bcd4;}
-#section5 {padding-top:50px;min-height:100%;color: #fff; background-color: #009688;}
+#section1 {padding-top:10px;min-height:100%;color: black; background-color: #f1a3b4;}
+#section2 {padding-top:10px;min-height:100%;color: black; background-color: #c9bbf5;}
+#section3 {padding-top:10px;min-height:100%;color: black; background-color: #a4f0ca;}
+#section4 {padding-top:10px;min-height:100%;color: black; background-color: #e9c378;}
+#section5 {padding-top:10px;min-height:100%;color: black; background-color: #edeea7;}
