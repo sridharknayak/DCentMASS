@@ -97,6 +97,7 @@ Date:        15/12/17
 
 <div class="row">
 <div class="col-md-3">
+<hr>
 <ul>
 <a href="#section1"><button class="btn btn-success btnpad" type="submit">Interview Skills</button></a><br />
 <a href="#section2"><button class="btn btn-success btnpad" type="submit">Aptitude</button></a><br />
@@ -106,6 +107,7 @@ Date:        15/12/17
 </ul>
 </div>
 <div class="col-md-9">
+<hr>
  <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel maxime quidem enim delectus labore similique at, obcaecati soluta tempora facilis, eum vitae? Sint eligendi cumque doloribus! Atque excepturi libero eaque!
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit optio delectus quidem veniam, ad excepturi incidunt, nisi non harum ut cumque ipsa, eum tempore et vitae doloremque? Aut, quia. Quas!
@@ -114,7 +116,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 </p>
 </div>
 </div>
-
+<hr><hr>
 <div class="row">
   <div class="col-md-12">
   <div id="section1" class="container-fluid">
@@ -154,8 +156,43 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 </div>
 <div id="section2" class="container-fluid">
   <h1>Aptitude</h1>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+<p>1. Your competitors will be fully prepared so you must be too. Don’t fool yourself and think you don’t need to practice as many questions as possible.
+</p>
+<p>2. Maintain a positive mental attitude, think of your aptitude test as an opportunity to demonstrate your ability and outcompete other applicants, not as an onerous mandatory task.
+</p>
+<p>3. Focus on the areas you find hardest, focus the majority of your time on these questions.
+</p>
+<p>4. Be committed – get practicing as soon as possible and make time for practice, get started now.
+</p>
+<p>5. Keep practicing, once you’ve practiced as many tests as possible maintain your skills through question practice right up until the day before your assessment.
+</p>
+<p>6. Contact the company you’re applying to and find out what sort of format your tests you’ll be expected to sit and what format they will be in. Employers are increasingly testing candidates using computers so it’s most important to practice questions in this format.
+</p>
+<p>7. Practice under timed conditions and in exam conditions. This will improve your speed and confidence as well as performance on the day of your examination.
+</p>
+<p>8. Stick to your timings, if you get stuck move on. Further to this don’t simply guess, the more practice you undertake the easier you’ll find it to make educated guesses by ruling out unlikely answers – this will come with practice though.
+</p>
+<p>9. Embrace any anxiety you feel on the day of the examination, while adrenaline and nervousness can be distracting if you’ve prepared sufficiently you can calmly reflect on your practice and be confident you can beat the competition.
+</p>
+<p>10. Follow the formulas below to ace your numerical reasoning test</p>
+<h5>Practice reasoning test questions</h5>
+<p>
+To improve your problem solving skills it is essential that you practice answering the types of questions that are likely to appear in your official numeracy test. When you go through your practice materials do not guess the answer but rather think about the solution and try to arrive at the correct answer yourself. At first, study the challenge that you are struggling with slowly. Make sure that you understand the logic and important concepts to work out the problem. Once you gain understanding of such challenge practice the concept on similar sets of questions and see whether you can work them out swiftly. 
+
+Remember, if you do not fully understand the logic behind the challenge and you don’t make enough effort to go properly over the explanation then you are likely to fail in further tests. Checking up on your understanding of each of the question and getting the point behind it improves your numerical aptitude skills.
+</p>
+ 
+
+<h5>Practice multiple-step solutions</h5>
+
+<p>In order to advance your aptitude further you need to have regular exposure to the types of questions that cannot by merely solved by applying single routine arithmetic operations to one step problems; but rather you need to be confronted with set of challenges that require you to tackle multiple-step solutions where you have to get through various stages of calculations or mental computations to get to the final answer. You can see numerical problem solving section where you can find good example of such questions. Hence, to advance your problem solving competence for numerical reasoning you have to be faced with challenging tasks of various difficulty levels.
+</p>
+ <h5>Improve in your weak areas</h5>
+<p>
+To get ahead in your preparation you need to analyse any weaknesses in your knowledge of maths, mental arithmetic and problem solving. Any deficiencies in any of these areas may significantly impact on your ability to solve the questions and ultimately will lower your score. For example, if you have gaps in knowledge of sums and you have good mental or reasoning intellect then you are likely to fail because numbers cannot be manipulated except the rules of maths. Contrary, if you have good knowledge of arithmetic, that is, you know how to use percentages, fractions or other related arithmetic operations whereas your mental or reasoning abilities are not developed to the level that is required for numerical aptitude test, then your score is not likely to be high. 
+
+Therefore, to improve your performance you need to acquire, develop or strengthen math, mental arithmetic and problem solving skills and work through types of exam papers that may come up in your official numerical aptitude exercise
+</p>
   <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
   </div>
   
