@@ -10,7 +10,10 @@
     width: 15%;
 }
 
-
+.imgr{
+    width: 100%;
+    opacity: 0.3;
+}
 
 .caption {
     position: absolute;

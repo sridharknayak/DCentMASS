@@ -102,7 +102,7 @@ Date:        15/12/17
 <a href="#section1"><button class="btn btn-success btnpad" type="submit">Interview Skills</button></a><br />
 <a href="#section2"><button class="btn btn-success btnpad" type="submit">Aptitude</button></a><br />
 <a href="#section3"><button class="btn btn-success btnpad" type="submit">Technical Education</button></a><br />
-<a href="#section4"><button class="btn btn-success btnpad" type="submit">Resume Preperation</button></a><br />
+<a href="#section4"><button class="btn btn-success btnpad" type="submit">Resume Preparation</button></a><br />
 <a href="#section5"><button class="btn btn-success btnpad" type="submit">Soft Skills</button></a><br />
 </ul>
 </div>
@@ -119,6 +119,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <hr><hr>
 <div class="row">
   <div class="col-md-12">
+
   <div id="section1" class="container-fluid">
   <h1>Interview Skills</h1>
   <h4>1) Practice good nonverbal communication</h4>
@@ -153,6 +154,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 </p>
 <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
+
 <div id="section2" class="container-fluid">
   <h1>Aptitude</h1>
 <p>1. Your competitors will be fully prepared so you must be too. Don’t fool yourself and think you don’t need to practice as many questions as possible.
@@ -176,24 +178,19 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <p>10. Follow the formulas below to ace your numerical reasoning test</p>
 <h4>Practice reasoning test questions</h4>
 <p>
-To improve your problem solving skills it is essential that you practice answering the types of questions that are likely to appear in your official numeracy test. When you go through your practice materials do not guess the answer but rather think about the solution and try to arrive at the correct answer yourself. At first, study the challenge that you are struggling with slowly. Make sure that you understand the logic and important concepts to work out the problem. Once you gain understanding of such challenge practice the concept on similar sets of questions and see whether you can work them out swiftly. 
-
+To improve your problem solving skills it is essential that you practice answering the types of questions that are likely to appear in your official numeracy test. When you go through your practice materials do not guess the answer but rather think about the solution and try to arrive at the correct answer yourself. At first, study the challenge that you are struggling with slowly. Make sure that you understand the logic and important concepts to work out the problem. Once you gain understanding of such challenge practice the concept on similar sets of questions and see whether you can work them out swiftly.
 Remember, if you do not fully understand the logic behind the challenge and you don’t make enough effort to go properly over the explanation then you are likely to fail in further tests. Checking up on your understanding of each of the question and getting the point behind it improves your numerical aptitude skills.
 </p>
- 
-
 <h4>Practice multiple-step solutions</h4>
-
 <p>In order to advance your aptitude further you need to have regular exposure to the types of questions that cannot by merely solved by applying single routine arithmetic operations to one step problems; but rather you need to be confronted with set of challenges that require you to tackle multiple-step solutions where you have to get through various stages of calculations or mental computations to get to the final answer. You can see numerical problem solving section where you can find good example of such questions. Hence, to advance your problem solving competence for numerical reasoning you have to be faced with challenging tasks of various difficulty levels.
 </p>
  <h4>Improve in your weak areas</h4>
 <p>
-To get ahead in your preparation you need to analyse any weaknesses in your knowledge of maths, mental arithmetic and problem solving. Any deficiencies in any of these areas may significantly impact on your ability to solve the questions and ultimately will lower your score. For example, if you have gaps in knowledge of sums and you have good mental or reasoning intellect then you are likely to fail because numbers cannot be manipulated except the rules of maths. Contrary, if you have good knowledge of arithmetic, that is, you know how to use percentages, fractions or other related arithmetic operations whereas your mental or reasoning abilities are not developed to the level that is required for numerical aptitude test, then your score is not likely to be high. 
-
+To get ahead in your preparation you need to analyse any weaknesses in your knowledge of maths, mental arithmetic and problem solving. Any deficiencies in any of these areas may significantly impact on your ability to solve the questions and ultimately will lower your score. For example, if you have gaps in knowledge of sums and you have good mental or reasoning intellect then you are likely to fail because numbers cannot be manipulated except the rules of maths. Contrary, if you have good knowledge of arithmetic, that is, you know how to use percentages, fractions or other related arithmetic operations whereas your mental or reasoning abilities are not developed to the level that is required for numerical aptitude test, then your score is not likely to be high
 Therefore, to improve your performance you need to acquire, develop or strengthen math, mental arithmetic and problem solving skills and work through types of exam papers that may come up in your official numerical aptitude exercise
 </p>
-  <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
-  </div>
+<a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+</div>
   
 <div id="section3" class="container-fluid">
   <h1>Technical Education</h1>
@@ -207,16 +204,61 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
 </p>
   <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
+
 <div id="section4" class="container-fluid">
-  <h1>Resume Preperation</h1>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <h1>Resume Preparation</h1>
+  <img src="images/i3.png" alt="" class="imgr img-responsive">
+  <ol>Important Note:
+  <li>Choose the resume format that highlights your skills and achievments.</li>
+<li>Research the company to find out who the best candidate is.</li>
+<li>Include the right resume sections to stand out among other candidates.</li>
+<li>Impress employers by highlighting your achievements and skillls.</li>
+<li>Personalize your resume to get more job offers.</li>
+<li>Decide which information you should delete from your resume.</li>
+<li>Send it to the right person and make sure that your resume gets read.</li>
+  </ol>
+  <h3> FORMAT </h3>
+  <img src="images/r1.png" alt="" class="img-responsive"><br/>
+  <center><img src="images/r2.png" alt="" class="img-responsive"></center>
   <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
+
 <div id="section5" class="container-fluid">
   <h1>Soft Skills</h1>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Whereas hard skills are the tangible and technical skills easily demonstrated by a candidate’s qualifications and specific professional experiences, soft skills is a term used by employers to refer to the more intangible and non-technical abilities that are sought from candidates.
+  </p>
+  <p>Soft skills are sometimes referred to as transferable skills or professional skills. As this term implies, these are skills that are less specialised, less rooted in specific vocations, and more aligned with the general disposition and personality of a candidate. Examples of important soft skills are communication, teamwork and problem solving.
+  </p>
+  <h4>Communication</h4>
+<p>As a soft skill, communication is not about multiple syllables or rousing speeches. Able communicators can adjust their tone and style according to their audience, comprehend and act efficiently on instructions, and explain complex issues to colleagues and clients alike. Communication is also an important aspect of leadership, since leaders must be able to delegate clearly and comprehensibly.
+</p>
+<h4>Self-Motivation</h4>
+<p>Having the positive attitude and the initiative to work well without round-the-clock supervision is a vital soft skill for any employee. Not only does it demonstrate reliability and commitment, but it shows that you can fit efficiently into an organisational structure without the need for constant oversight.
+</p>
+<h4>Leadership</h4>
+<p>Leadership is a soft skill you can show even if you’re not directly managing others. Leadership can be thought of as a collection of various other soft skills, such as a general positive attitude and outlook, the ability to communicate effectively, and an aptitude for both self-motivating and motivating others.
+</p>
+<h4>Responsibility</h4>
+<p>Self-awareness is a seldom talked about but highly valued soft skill; knowing when to accept responsibility for any mistakes you have made demonstrates a healthy level of humility, and a willingness to learn and progress.
+</p>
+<h4>Teamwork</h4>
+<p>Like leadership, good teamwork involves a combination of other soft skills. Working in a team towards a common goal requires the intuition and interpersonal acumen to know when to be a leader, and when to be a listener. Good team players are perceptive, as well as receptive to the needs and responsibilities of others.
+</p>
+<h4>Problem Solving</h4>
+<p>Problem solving does not just require analytical, creative and critical skills, but a particular mindset: those who can approach a problem with a cool and level head will often reach a solution more efficiently than those who cannot. This is a soft skill which can often rely on strong teamwork too. Problems need not always be solved alone. The ability to know who can help you reach a solution, and how they can do it, can be a great advantage.
+</p>
+<h4>Decisiveness</h4>
+<p>Knowing the distinction between decisiveness and recklessness implies a soft skill in itself. Decisiveness combines a number of different abilities: the ability to put things into perspective, to weigh up the options, to assess all relevant information and, crucially, to anticipate the consequences, good and bad.
+</p>
+<h4>Ability to Work Under Pressure and Time Management</h4>
+<p>Many jobs come with demanding deadlines and occasionally high stakes. Recruiters prize candidates who show a decisive attitude, an unfaltering ability to think clearly, and a capacity to compartmentalise and set stress aside. Time management is closely related to the ability to work under pressure, as well as within tight deadlines. Employees who manage their time well are able to efficiently prioritise tasks and organise their diaries, while adopting an attitude which allows them to take on new tasks and deadlines.
+</p>
+<h4>Flexibility</h4>
+<p>Naturally, people can be wary of leaving the comfort zone formed by their repertoire of hard skills. Flexibility is an important soft skill, inasmuch as it demonstrates an ability and willingness to acquire new hard skills, and an open-mindedness to new tasks and new challenges. Employers often seek candidates who can show a willing and upbeat attitude, since many jobs come with the possibility of secondments.
+</p>
+<h4>Negotiation and Conflict Resolution</h4>
+<p>This is another of those soft skills which employers look for in potential leaders. To be an adept negotiator is to know how to be persuasive and exert influence, while sensitively seeking a solution which will benefit all parties. Similarly, conflict resolution depends on strong interpersonal skills and the ability to establish a rapport with colleagues and clients alike.
+</p>
   <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
   </div>
