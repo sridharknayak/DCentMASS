@@ -33,23 +33,26 @@ ul{
   padding: 0px;
 }
 
-ul>li>a{
+.left-bar ul>li>a{
   padding: 10px 0px;
   display: block;
   border-bottom:  2px solid #06f;
   text-align: left;
   text-align: center;
   font-weight: bold;
+  transition-timing-function: linear;
   transition: 1s;
   color: #fff;
   text-decoration: none;
 }
 
-ul>li:hover a{
+.left-bar ul>li:hover a{
     background: #f00;
     border-bottom:  2px solid #f00;
     color: #fff;
     text-decoration: none;
+    transition-timing-function: ease;
+    transition: 0.1s;
   }
 
 .right-bars {
@@ -79,10 +82,16 @@ ul>li:hover a{
 	border-bottom: 1px solid #fff;
 	border-left: 1px solid #fff;
     background-color: #333;
+    transition-timing-function: linear;
+    transition: 1s;
 }
 
+  
+
 .rightMenuBlocks:hover {
-	background-color: #666;
+    background-color: #666;
+    transition-timing-function: ease;
+    transition: 0.1s;
 }
 
 .linkText {

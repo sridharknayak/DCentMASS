@@ -36,7 +36,7 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Media</a></li>
         <li><a href="#">Forum</a></li>
         <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
+        <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li>
       </ul>
      </div>
      <!-- Left bar ends -->

@@ -88,7 +88,7 @@ Date:        15/12/17
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="container-fluid">
+
 <div class="col-md-12">
 <img src="images/i2.png" alt="" class="img2 img-responsive pull-right">
 <h2>Must Know</h2>
@@ -106,10 +106,21 @@ Date:        15/12/17
 </ul>
 </div>
 <div class="col-md-9">
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
+ <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel maxime quidem enim delectus labore similique at, obcaecati soluta tempora facilis, eum vitae? Sint eligendi cumque doloribus! Atque excepturi libero eaque!
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit optio delectus quidem veniam, ad excepturi incidunt, nisi non harum ut cumque ipsa, eum tempore et vitae doloremque? Aut, quia. Quas!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati eligendi sed veritatis fugiat ipsa temporibus. Quasi aspernatur magnam doloremque, architecto harum deleniti nobis hic, expedita, inventore non ut et consequatur!
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maiores consequuntur error maxime? Officiis aspernatur provident consectetur. Ea voluptatum sit adipisci ipsum quaerat rem facere quos eius a.
+</p>
 </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, exercitationem! Quibusdam vel consequatur incidunt reiciendis aspernatur dolorum atque dicta quas? Quia, accusamus laudantium cumque laborum quisquam asperiores ex suscipit magni?
+</p>
+  </div>
 </div>
 
 
