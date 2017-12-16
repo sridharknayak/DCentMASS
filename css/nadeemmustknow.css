@@ -1,0 +1,13 @@
+.sb2{
+    background-color: #fff;
+}
+
+.sbi{
+    color: black;
+}
+
+.sb2:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    
+}

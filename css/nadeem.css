@@ -35,8 +35,16 @@
     float: right;
 }
 
-#section1 {padding-top:10px;min-height:100%;color: black; background-color: #f1a3b4;}
+.nav1{
+    position: fixed;
+    z-index: 4;
+    background-color: #a4f0ca;
+}
+
+#section1 {padding-top:10px;min-height:100%;color: black; background-color: #f7d3dc;}
 #section2 {padding-top:10px;min-height:100%;color: black; background-color: #c9bbf5;}
 #section3 {padding-top:10px;min-height:100%;color: black; background-color: #a4f0ca;}
 #section4 {padding-top:10px;min-height:100%;color: black; background-color: #e9c378;}
 #section5 {padding-top:10px;min-height:100%;color: black; background-color: #edeea7;}
+
+

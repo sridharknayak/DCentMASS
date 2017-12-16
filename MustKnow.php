@@ -18,6 +18,7 @@ Date:        15/12/17
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Must Know</title>
     <?php include_once("stylesAndFont.php"); ?>
+    <link rel="stylesheet" type="text/css" href="css/nadeemmustknow.css">
 </head>
 <body>
   	<!-- Left bar starts -->
@@ -71,14 +72,14 @@ Date:        15/12/17
        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
      	</div>
      	<div class="righ-col-2">
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
+        <a href="#section1"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Interview Skills</span></div></a>
+        <a href="#section2"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Aptitude</span></div></a>
+        <a href="#section3"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Technical Evaluation</span></div></a>
+        <a href="#section4"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Resume Preparation</span></div></a>
+        <a href="#section5"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Soft Skills</span></div></a>
+        <a href="#"><div class="rightMenuBlocks sb2"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks sb2"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks sb2"><span class="linkText"></span></div></a>
      	</div>
      </div>
      
@@ -91,22 +92,13 @@ Date:        15/12/17
 
 <div class="col-md-12">
 <img src="images/i2.png" alt="" class="img2 img-responsive pull-right">
-<h2>Must Know</h2>
+<h1>Must Know</h1>
 </div>
 
 
 <div class="row">
-<div class="col-md-3">
-<hr>
-<ul>
-<a href="#section1"><button class="btn btn-success btnpad" type="submit">Interview Skills</button></a><br />
-<a href="#section2"><button class="btn btn-success btnpad" type="submit">Aptitude</button></a><br />
-<a href="#section3"><button class="btn btn-success btnpad" type="submit">Technical Education</button></a><br />
-<a href="#section4"><button class="btn btn-success btnpad" type="submit">Resume Preparation</button></a><br />
-<a href="#section5"><button class="btn btn-success btnpad" type="submit">Soft Skills</button></a><br />
-</ul>
-</div>
-<div class="col-md-9">
+ 
+<div class="col-md-12">
 <hr>
  <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel maxime quidem enim delectus labore similique at, obcaecati soluta tempora facilis, eum vitae? Sint eligendi cumque doloribus! Atque excepturi libero eaque!
@@ -117,6 +109,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <hr>
 </div>
 </div>
+
 <hr>
 <div class="row">
   <div class="col-md-12">
@@ -203,7 +196,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h4>Technical Evaluators (TEs) </h4> 
   <p>Responsible for ensuring a complete, fair, and impartial technical evaluation of all proposals.  TEs will conduct an autonomous in‑depth review and evaluation of the merits of each proposal against the approved factors / subfactors and standards of the RFQ and the SOW.  Prepare written assessments that are consistent with and conclusively support their evaluations.  This information may be utilized for debriefing unsuccessful offerors as well as helping the Contracting Officer determine the overall best value.  
 </p>
-  <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+  <a href="#section2" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
 
 <div id="section4" class="container-fluid">
@@ -221,7 +214,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h3> FORMAT </h3>
   <img src="images/r1.png" alt="" class="img-responsive"><br/>
   <center><img src="images/r2.png" alt="" class="img-responsive"></center>
-  <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+  <a href="#section3" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
 
 <div id="section5" class="container-fluid">
@@ -260,7 +253,8 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
 <h4>Negotiation and Conflict Resolution</h4>
 <p>This is another of those soft skills which employers look for in potential leaders. To be an adept negotiator is to know how to be persuasive and exert influence, while sensitively seeking a solution which will benefit all parties. Similarly, conflict resolution depends on strong interpersonal skills and the ability to establish a rapport with colleagues and clients alike.
 </p>
-  <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<a href="#section4" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>  
+<a href="#" class="btnpad1"><button class="btn btn-success" type="submit">Top</button></a>
 </div>
   </div>
 </div>
