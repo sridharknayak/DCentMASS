@@ -121,35 +121,34 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
   <div class="col-md-12">
   <div id="section1" class="container-fluid">
   <h1>Interview Skills</h1>
-  <h3> 10 Tips </h3>
-  <h5>1) Practice good nonverbal communication</h5>
+  <h4>1) Practice good nonverbal communication</h4>
 <p>It's about demonstrating confidence: standing straight, making eye contact and connecting with a firm handshake. That first nonverbal impression can be a great beginning—or quick ending—to your interview.
 </p>
-<h5>2) Dress for the job or company</h5>
+<h4>2) Dress for the job or company</h4>
 <p>Today's casual dress codes do not give you permission to dress as "they" do when you interview. It is important to know what to wear to an interview and to be well-groomed. Whether you wear a suit or something less formal depends on the company culture and the position you are seeking. If possible, call to find out about the company dress code before the interview.
 </p>
-<h5>3) Listen</h5>
+<h4>3) Listen</h4>
 <p>From the very beginning of the interview, your interviewer is giving you information, either directly or indirectly. If you are not hearing it, you are missing a major opportunity. Good communication skills include listening and letting the person know you heard what was said. Observe your interviewer, and match that style and pace.
 </p>
-<h5>4) Don't talk too much</h5>
+<h4>4) Don't talk too much</h4>
 <p>Telling the interviewer more than he needs to know could be a fatal mistake. When you have not prepared ahead of time, you may ramble when answering interview questions, sometimes talking yourself right out of the job. Prepare for the interview by reading through the job posting, matching your skills with the position's requirements and relating only that information.
 </p>
-<h5>5) Don't be too familiar</h5>
+<h4>5) Don't be too familiar</h4>
 <p>The interview is a professional meeting to talk business. This is not about making a new friend. Your level of familiarity should mimic the interviewer's demeanor. It is important to bring energy and enthusiasm to the interview and to ask questions, but do not overstep your place as a candidate looking for a job.
 </p>
-<h5>6) Use appropriate language</h5>
+<h4>6) Use appropriate language</h4>
 <p>It's a given that you should use professional language during the interview. Be aware of any inappropriate slang words or references to age, race, religion, politics or sexual orientation—these topics could send you out the door very quickly.
 </p>
-<h5>7) Don't be cocky</h5>
+<h4>7) Don't be cocky</h4>
 <p>Attitude plays a key role in your interview success. There is a fine balance between confidence, professionalism and modesty. Even if you're putting on a performance to demonstrate your ability, overconfidence is as bad, if not worse, as being too reserved.
 </p>
-<h5>8) Take care to answer the questions</h5>
+<h4>8) Take care to answer the questions</h4>
 <p>When interviewers ask for an example of a time when you did something, they are asking behavioral interview questions, which are designed to elicit a sample of your past behavior. If you fail to relate a specific example, you not only don't answer the question, but you also miss an opportunity to prove your ability and talk about your skills.
 </p>
-<h5>9) Ask questions</h5>
+<h4>9) Ask questions</h4>
 <p>When asked if they have any questions, most candidates answer, "No." Wrong answer. Part of knowing how to interview is being ready to ask questions that demonstrate an interest in what goes on in the company. Asking questions also gives you the opportunity to find out if this is the right place for you. The best questions come from listening to what you're asked during the interview and asking for additional information.
 </p>
-<h5>10) Don't appear desperate</h5>
+<h4>10) Don't appear desperate</h4>
 <p>When you interview with the "please, please hire me" approach, you appear desperate and less confident. Reflect the three Cs during the interview: cool, calm and confidence. You know you can do the job; make sure the interviewer believes you can, too.
 </p>
 <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
@@ -175,7 +174,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <p>9. Embrace any anxiety you feel on the day of the examination, while adrenaline and nervousness can be distracting if you’ve prepared sufficiently you can calmly reflect on your practice and be confident you can beat the competition.
 </p>
 <p>10. Follow the formulas below to ace your numerical reasoning test</p>
-<h5>Practice reasoning test questions</h5>
+<h4>Practice reasoning test questions</h4>
 <p>
 To improve your problem solving skills it is essential that you practice answering the types of questions that are likely to appear in your official numeracy test. When you go through your practice materials do not guess the answer but rather think about the solution and try to arrive at the correct answer yourself. At first, study the challenge that you are struggling with slowly. Make sure that you understand the logic and important concepts to work out the problem. Once you gain understanding of such challenge practice the concept on similar sets of questions and see whether you can work them out swiftly. 
 
@@ -183,11 +182,11 @@ Remember, if you do not fully understand the logic behind the challenge and you 
 </p>
  
 
-<h5>Practice multiple-step solutions</h5>
+<h4>Practice multiple-step solutions</h4>
 
 <p>In order to advance your aptitude further you need to have regular exposure to the types of questions that cannot by merely solved by applying single routine arithmetic operations to one step problems; but rather you need to be confronted with set of challenges that require you to tackle multiple-step solutions where you have to get through various stages of calculations or mental computations to get to the final answer. You can see numerical problem solving section where you can find good example of such questions. Hence, to advance your problem solving competence for numerical reasoning you have to be faced with challenging tasks of various difficulty levels.
 </p>
- <h5>Improve in your weak areas</h5>
+ <h4>Improve in your weak areas</h4>
 <p>
 To get ahead in your preparation you need to analyse any weaknesses in your knowledge of maths, mental arithmetic and problem solving. Any deficiencies in any of these areas may significantly impact on your ability to solve the questions and ultimately will lower your score. For example, if you have gaps in knowledge of sums and you have good mental or reasoning intellect then you are likely to fail because numbers cannot be manipulated except the rules of maths. Contrary, if you have good knowledge of arithmetic, that is, you know how to use percentages, fractions or other related arithmetic operations whereas your mental or reasoning abilities are not developed to the level that is required for numerical aptitude test, then your score is not likely to be high. 
 
@@ -198,8 +197,14 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   
 <div id="section3" class="container-fluid">
   <h1>Technical Education</h1>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Tests or studies conducted to investigate and determine the technical suitability of an equipment, material, product, process, or system for the intended objectives.
+</p>
+<center><img src="images/tb1.png" alt="table" class="tb1 img-responsive"></center>
+  <p>The Technical Evaluation Panel shall be provided each offeror’s technical proposal, other relevant documents, the Individual Technical Evaluation Document (template) and the Statement of Work.  The TE Panel usually consists of three people (to include the TE Panel Chairman).  The panel will provide an orderly, impartial, timely, yet comprehensive and discriminating technical evaluation of each prospective offeror’s technical proposal.  
+  </p>
+  <h4>Technical Evaluators (TEs) </h4> 
+  <p>Responsible for ensuring a complete, fair, and impartial technical evaluation of all proposals.  TEs will conduct an autonomous in‑depth review and evaluation of the merits of each proposal against the approved factors / subfactors and standards of the RFQ and the SOW.  Prepare written assessments that are consistent with and conclusively support their evaluations.  This information may be utilized for debriefing unsuccessful offerors as well as helping the Contracting Officer determine the overall best value.  
+</p>
   <a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
 <div id="section4" class="container-fluid">
