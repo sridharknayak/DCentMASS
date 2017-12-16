@@ -91,6 +91,112 @@ Date:        <dd-mm-yyyy>
 
 <!-- WRITE MAIN CONTENT HERE -->
 
+<div class="container-fluid c1">
+
+    <div class="col-md-2"></div>
+    
+    <div class="col-md-8">
+     <h1>Get In Touch With Us</h1>
+     <p><b>Fill the form and get in touch with us</b></p>
+    
+  
+<form action="/action_page.php">
+    <div class="form-group">
+      <label for="Name">Name:</label>
+      <input type="text" class="form-control" id="email" placeholder="Enter Name" name="name">
+    </div>
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="text" class="form-control" id="email" placeholder="Enter email" name="email">
+    </div>
+    <div class="form-group">
+      <label for="subject">Subject:</label>
+      <input type="text" class="form-control" id="sub" placeholder="Enter the Subject" name="subject">
+    </div>
+    <div class="form-group">
+    <label for="Message">Message</label>
+    <textarea type="text" class="form-control" id="exampleFormControlTextarea1" placeholder="Your Message" rows="4"></textarea>
+  </div>
+   <div class="submit">
+        <input type="submit" value="SEND" id="button-blue"/>
+        <div class="ease"></div>
+      </div>
+   
+  </form>
+
+</div>  
+
+ 
+
+
+    <div class="col-md-2"></div>
+
+</div> 
+
+<!--second container-->
+<div class="container-fluid c2">
+  <div class="row">
+     <h1>Branches</h1>
+
+    <div class="row">
+        <div class="col-md-4 sab">
+            <h2>Americas</h2>
+         <ul> 
+          <li><a href="#"><b>Brazil</b></a></li>
+          <li>  <a href="#"><b>Caneda</b></a> </li>
+            <li> <a href="#"><b>Mexico</b></a></li>
+            <li> <a href="#"><b>United States</b></a></li>     
+        </ul>
+         </div>
+
+
+         <div class="col-md-4 sab1"> 
+            <h2>Asia Pacific</h2>
+            <ul> 
+          <li><a href="#"><b>Australia</b></a></li>
+          <li>  <a href="#"><b>China</b></a> </li>
+            <li> <a href="#"><b>Hongkong</b></a></li>
+            <li> <a href="#"><b>India</b></a></li>     
+            </ul>
+        </div>
+         <div class="col-md-4  sab2 ">
+            <h2>Europe</h2>
+
+             <ul> 
+          <li><a href="#"><b>Belgium</b></a></li>
+          <li>  <a href="#"><b>Denmark</b></a> </li>
+            <li> <a href="#"><b>Finland</b></a></li>
+            <li> <a href="#"><b>France</b></a></li>     
+            </ul> 
+        </div>
+        
+
+ </div>
+      
+</div>
+      
+</div>
+
+<div class="container-fluid c3">
+  <div class="row">
+    <div class="col-md-4 sab4">
+      helfmskdjnf
+      sdfnsdljfn
+      sfhsdjfkb
+      safkjhsdfjbdsw
+      'kjbdsafjbdslkjfb'
+    </div>
+
+    <div class="col-md-8 sab5">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15382.948574187954!2d74.97346909999999!3d15.44473205!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d2ae0bc927a9%3A0xb0743364a41b4f73!2sAkkamahadevi+Ashrama!5e0!3m2!1sen!2sin!4v1513422036953"  frameborder="0" style="border:0;" allowfullscreen ></iframe>
+    </div>
+  </div>
+</div>
+
+
+
+
+
 
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->

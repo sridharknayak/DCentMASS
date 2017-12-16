@@ -1,0 +1,110 @@
+
+
+#button-blue{
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	float:left;
+	width: 30%;
+	border: #fbfbfb solid 4px;
+	cursor:pointer;
+	background-color:black;
+	color:white;
+	font-size:24px;
+	padding-top:15px;
+	padding-bottom:15px;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+
+#button-blue:hover{
+	background-color: rgba(0,0,0,0);
+	color: #0493bd;
+}
+	
+.submit:hover {
+	color: #3498db;
+}
+	
+.ease {
+	margin-top: 30px;
+	width: 0px;
+	height: 64px;
+	background-color: #fbfbfb;
+	-webkit-transition: .3s ease;
+	-moz-transition: .3s ease;
+	-o-transition: .3s ease;
+	-ms-transition: .3s ease;
+	transition: .3s ease;
+}
+
+.submit:hover .ease{
+  width:30%;
+  background-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+.c1{
+	background-color:#fff; 
+
+	height:662px; 
+}
+
+.c2 h2{
+	margin-left:35%;
+	color:white;
+}
+.c2{
+	background-color:#3681AC; 
+}
+
+.c2  .sab li {
+	margin-left:50%;
+	line-height:40px;
+	  
+}
+.c2  .sab li a{
+	color:#ddd; 
+}
+
+
+.c2  .sab1 li{
+	margin-left:50%;  
+	line-height:40px;  
+
+}
+.c2  .sab1 li a
+{
+ color:#ddd; 
+}
+.c2  .sab2 li{
+	margin-left:50%;  
+	line-height:40px;  
+}
+.c2  .sab2 li a
+{
+  color:#ddd; 	
+}
+.c3 .sab4{
+
+	background-color:silver; 
+	height:300px;
+
+
+}
+.c3 .sab5 iframe{
+	position:absolute;
+	left:0px;
+	width:100%;height:300px;	
+	
+	
+}
