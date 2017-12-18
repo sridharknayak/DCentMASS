@@ -33,11 +33,11 @@ ul{
   padding: 0px;
 }
  
-.left-bar, .sidenav ul>li>a{
+.left-bar ul>li>a, .sidenav ul>li>a{
   padding: 10px 0px;
   display: block;
   border-bottom:  2px solid #06f;
-  text-align: left;
+  /* text-align: left; */
   text-align: center;
   font-weight: bold;
   transition-timing-function: linear;
@@ -45,8 +45,7 @@ ul{
   color: #fff;
   text-decoration: none;
 }
-
-.left-bar, .sidenav ul>li:hover a{
+.left-bar ul>li:hover a, .sidenav ul>li:hover a{
     background: #f00;
     border-bottom:  2px solid #f00;
     color: #fff;
@@ -108,7 +107,7 @@ a .rightMenuBlocks {
 
 .sidenav {
     height: 100%;
-    width: 100%;
+    width: 0;
     position: fixed;
     z-index: 1;
     top: 0;

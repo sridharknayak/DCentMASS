@@ -1,21 +1,21 @@
-.bgimg1{
+.nad-bgimg1{
    opacity: 0.4;
 }
 
-.thumbnail {
+.nad-thumbnail {
     position: relative;
 }
 
-.img2{
+.nad-img2{
     width: 15%;
 }
 
-.imgr{
+.nad-imgr{
     width: 100%;
     opacity: 0.8;
 }
 
-.caption {
+.nad-caption {
     position: absolute;
     top: 45%;
     left: 0;
@@ -26,25 +26,23 @@
     font-size: 15px;
 }
 
-.btnpad{
+.nad-btnpad{
     margin:1px auto;
 }
 
-.btnpad1{
+.nad-nad-btnpad1{
     position: relative;
     float: right;
 }
 
-.nav1{
+.nad-nav1{
     position: fixed;
     z-index: 4;
     background-color: #a4f0ca;
 }
 
-#section1 {padding-top:10px;min-height:100%;color: black; background-color: #f7d3dc;}
-#section2 {padding-top:10px;min-height:100%;color: black; background-color: #c9bbf5;}
-#section3 {padding-top:10px;min-height:100%;color: black; background-color: #a4f0ca;}
-#section4 {padding-top:10px;min-height:100%;color: black; background-color: #e9c378;}
-#section5 {padding-top:10px;min-height:100%;color: black; background-color: #edeea7;}
-
-
+#nad-section1 {padding-top:10px;min-height:100%;color: black; background-color: #f7d3dc;}
+#nad-section2 {padding-top:10px;min-height:100%;color: black; background-color: #c9bbf5;}
+#nad-section3 {padding-top:10px;min-height:100%;color: black; background-color: #a4f0ca;}
+#nad-section4 {padding-top:10px;min-height:100%;color: black; background-color: #e9c378;}
+#nad-section5 {padding-top:10px;min-height:100%;color: black; background-color: #edeea7;}

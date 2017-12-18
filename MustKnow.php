@@ -72,14 +72,14 @@ Date:        15/12/17
        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
      	</div>
      	<div class="righ-col-2">
-        <a href="#section1"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Interview Skills</span></div></a>
-        <a href="#section2"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Aptitude</span></div></a>
-        <a href="#section3"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Technical Evaluation</span></div></a>
-        <a href="#section4"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Resume Preparation</span></div></a>
-        <a href="#section5"><div class="rightMenuBlocks sb2"><span class="linkText sbi">Soft Skills</span></div></a>
-        <a href="#"><div class="rightMenuBlocks sb2"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks sb2"><span class="linkText"></span></div></a>
-        <a href="#"><div class="rightMenuBlocks sb2"><span class="linkText"></span></div></a>
+        <a href="#nad-section1"><div class="rightMenuBlocks nad-sb2"><span class="linkText nad-sbi">Interview Skills</span></div></a>
+        <a href="#nad-section2"><div class="rightMenuBlocks nad-sb2"><span class="linkText nad-sbi">Aptitude</span></div></a>
+        <a href="#nad-section3"><div class="rightMenuBlocks nad-sb2"><span class="linkText nad-sbi">Technical Evaluation</span></div></a>
+        <a href="#nad-section4"><div class="rightMenuBlocks nad-sb2"><span class="linkText nad-sbi">Resume Preparation</span></div></a>
+        <a href="#nad-section5"><div class="rightMenuBlocks nad-sb2"><span class="linkText nad-sbi">Soft Skills</span></div></a>
+        <a href="#"><div class="rightMenuBlocks nad-sb2"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks nad-sb2"><span class="linkText"></span></div></a>
+        <a href="#"><div class="rightMenuBlocks nad-sb2"><span class="linkText"></span></div></a>
      	</div>
      </div>
      
@@ -91,7 +91,7 @@ Date:        15/12/17
 <!-- WRITE MAIN CONTENT HERE -->
 
 <div class="col-md-12">
-<img src="images/i2.png" alt="" class="img2 img-responsive pull-right">
+<img src="images/i2.png" alt="" class="nad-img2 img-responsive pull-right">
 <h1>Must Know</h1>
 </div>
 
@@ -114,7 +114,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <div class="row">
   <div class="col-md-12">
 
-  <div id="section1" class="container-fluid">
+  <div id="nad-section1" class="container-fluid">
   <h1>Interview Skills</h1>
   <h4>1) Practice good nonverbal communication</h4>
 <p>It's about demonstrating confidence: standing straight, making eye contact and connecting with a firm handshake. That first nonverbal impression can be a great beginning—or quick ending—to your interview.
@@ -146,10 +146,10 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <h4>10) Don't appear desperate</h4>
 <p>When you interview with the "please, please hire me" approach, you appear desperate and less confident. Reflect the three Cs during the interview: cool, calm and confidence. You know you can do the job; make sure the interviewer believes you can, too.
 </p>
-<a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
 
-<div id="section2" class="container-fluid">
+<div id="nad-section2" class="container-fluid">
   <h1>Aptitude</h1>
 <p>1. Your competitors will be fully prepared so you must be too. Don’t fool yourself and think you don’t need to practice as many questions as possible.
 </p>
@@ -183,10 +183,10 @@ Remember, if you do not fully understand the logic behind the challenge and you 
 To get ahead in your preparation you need to analyse any weaknesses in your knowledge of maths, mental arithmetic and problem solving. Any deficiencies in any of these areas may significantly impact on your ability to solve the questions and ultimately will lower your score. For example, if you have gaps in knowledge of sums and you have good mental or reasoning intellect then you are likely to fail because numbers cannot be manipulated except the rules of maths. Contrary, if you have good knowledge of arithmetic, that is, you know how to use percentages, fractions or other related arithmetic operations whereas your mental or reasoning abilities are not developed to the level that is required for numerical aptitude test, then your score is not likely to be high
 Therefore, to improve your performance you need to acquire, develop or strengthen math, mental arithmetic and problem solving skills and work through types of exam papers that may come up in your official numerical aptitude exercise
 </p>
-<a href="#" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
   
-<div id="section3" class="container-fluid">
+<div id="nad-section3" class="container-fluid">
   <h1>Technical Education</h1>
   <p>Tests or studies conducted to investigate and determine the technical suitability of an equipment, material, product, process, or system for the intended objectives.
 </p>
@@ -196,12 +196,12 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h4>Technical Evaluators (TEs) </h4> 
   <p>Responsible for ensuring a complete, fair, and impartial technical evaluation of all proposals.  TEs will conduct an autonomous in‑depth review and evaluation of the merits of each proposal against the approved factors / subfactors and standards of the RFQ and the SOW.  Prepare written assessments that are consistent with and conclusively support their evaluations.  This information may be utilized for debriefing unsuccessful offerors as well as helping the Contracting Officer determine the overall best value.  
 </p>
-  <a href="#section2" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+  <a href="#nad-section2" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
 
-<div id="section4" class="container-fluid">
+<div id="nad-section4" class="container-fluid">
   <h1>Resume Preparation</h1>
-  <img src="images/i3.png" alt="" class="imgr img-responsive">
+  <img src="images/i3.png" alt="" class=".nad-imgr img-responsive">
   <ol>Important Note:
   <li>Choose the resume format that highlights your skills and achievments.</li>
 <li>Research the company to find out who the best candidate is.</li>
@@ -214,10 +214,10 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h3> FORMAT </h3>
   <img src="images/r1.png" alt="" class="img-responsive"><br/>
   <center><img src="images/r2.png" alt="" class="img-responsive"></center>
-  <a href="#section3" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+  <a href="#nad-section3" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
 
-<div id="section5" class="container-fluid">
+<div id="nad-section5" class="container-fluid">
   <h1>Soft Skills</h1>
   <p>Whereas hard skills are the tangible and technical skills easily demonstrated by a candidate’s qualifications and specific professional experiences, soft skills is a term used by employers to refer to the more intangible and non-technical abilities that are sought from candidates.
   </p>
@@ -253,8 +253,8 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
 <h4>Negotiation and Conflict Resolution</h4>
 <p>This is another of those soft skills which employers look for in potential leaders. To be an adept negotiator is to know how to be persuasive and exert influence, while sensitively seeking a solution which will benefit all parties. Similarly, conflict resolution depends on strong interpersonal skills and the ability to establish a rapport with colleagues and clients alike.
 </p>
-<a href="#section4" class="btnpad1"><button class="btn btn-success" type="submit">UP</button></a>  
-<a href="#" class="btnpad1"><button class="btn btn-success" type="submit">Top</button></a>
+<a href="#nad-section4" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>  
+<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">Top</button></a>
 </div>
   </div>
 </div>
