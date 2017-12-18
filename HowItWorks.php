@@ -91,7 +91,7 @@ Date:        14/12/17
 <div class="row" id="box-search">
 <div class="nad-thumbnail text-center">
     <img src="images/bghiw.jpeg" alt="image HIW" class="nad-bgimg1 img-responsive">
-    <div class="caption">
+    <div class="nad-caption">
         <h1>How It Works</h1>
     </div>
 </div>
