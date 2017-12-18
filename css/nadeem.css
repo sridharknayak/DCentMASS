@@ -26,7 +26,11 @@
     width: 100%;
 }
 
-.nadj, .nadj1, .nadj2 p{
+.nadj, .nadj2 p{
+    font-size: 15px;
+}
+
+.nadj1 p{
     font-size: 15px;
 }
 

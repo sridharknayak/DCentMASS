@@ -34,9 +34,9 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -52,9 +52,9 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>

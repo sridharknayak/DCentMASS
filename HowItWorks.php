@@ -19,7 +19,7 @@ Date:        14/12/17
     <title>How It Works</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
-<body>
+<body background="images/bghit.png">
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">

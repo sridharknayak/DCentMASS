@@ -122,10 +122,15 @@ Other services may also include legal counseling, global initiatives, investment
 <center><h2>Keep up with Resource Consulting Pte Ltd</h2></center><br/>
 <div class="row">
 <div class="col-md-4">
-<p>
-Stay up to date with company news</p>
-</div>
+<div class="row">
+  <div class="col-md-3">
+<i class="material-icons">message</i></div>
+<div class="col-md-9">
+<p>Stay up to date with company news</p>
+</div></div> </div>
 <div class="col-md-4">
+
+<div class="col-md-9">
 <p>
 Discover new job opportunities</p>
 </div>
