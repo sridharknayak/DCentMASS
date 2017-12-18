@@ -26,18 +26,19 @@ Date:        16/12/17
         <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
-        <!-- User class="activeLink" to make links active -->
-        <li><a href="#">Home</a></li>
-        <li><a href="#">DCent MASS</a></li>
-        <li class="activeLink"><a href="#">Our Services</a></li>
-        <li><a href="#">Student Hub</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li>
-      </ul>
+      <!-- User class="activeLink" to make links active -->
+      <li><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
+      <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
+      <li  class="activeLink"><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
+      <li><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
+      <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
+      <li><a href="#"><i class="material-icons">event</i><span class="menuText">Events</span></a></li>
+      <li><a href="#"><i class="material-icons">perm_media</i><span class="menuText">Media</span></a></li>
+      <!-- <li><a href="#">Forum</a></li> -->
+      <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
+      <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
+      <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
+    </ul>
      </div>
      <!-- Left bar ends -->
 <!-- Mobile bar starts here -->
