@@ -1,0 +1,48 @@
+.nad-bgimg1{
+   opacity: 0.4;
+}
+
+.nad-thumbnail {
+    position: relative;
+}
+
+.nad-img2{
+    width: 15%;
+}
+
+.nad-imgr{
+    width: 100%;
+    opacity: 0.8;
+}
+
+.nad-caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.nadj p{
+    font-size: 15px;
+}
+
+.nad-btnpad{
+    margin:1px auto;
+}
+
+.nad-nad-btnpad1{
+    position: relative;
+    float: right;
+}
+
+.nad-nav1{
+    position: fixed;
+    z-index: 4;
+    background-color: #a4f0ca;
+}
+
+#nad-section1 {padding-top:10px;min-height:100%;color: black; background-color: #f7d3dc;}
+#nad-section2 {padding-top:10px;min-height:100%;color: black; background-color: #c9bbf5;}
+#nad-section3 {padding-top:10px;min-height:100%;color: black; background-color: #a4f0ca;}
+#nad-section4 {padding-top:10px;min-height:100%;color: black; background-color: #e9c378;}
+#nad-section5 {padding-top:10px;min-height:100%;color: black; background-color: #edeea7;}
