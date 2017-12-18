@@ -56,6 +56,7 @@ Date:        <dd-mm-yyyy>
         <!-- <li><a href="#">Forum</a></li> -->
         <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
         <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
+  </ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
