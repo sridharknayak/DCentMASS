@@ -56,6 +56,7 @@ Date:        16/12/17
         <li><a href="#">Forum</a></li>
         <li><a href="#">Contact Us</a></li>
         <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
+</ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
@@ -124,30 +125,51 @@ Other services may also include legal counseling, global initiatives, investment
 <div class="row">
 <div class="col-md-4">
 <div class="row">
-  <div class="col-md-3">
+  <div class="col-md-2">
 <i class="material-icons">message</i></div>
-<div class="col-md-9">
+<div class="col-md-10">
 <p>Stay up to date with company news</p>
 </div></div> </div>
 <div class="col-md-4">
-
-<div class="col-md-9">
-<p>
-Discover new job opportunities</p>
-</div>
+<div class="row">
+<div class="col-md-2">
+<i class="material-icons">work</i></div>
+<div class="col-md-10">
+<p>Discover new job opportunities</p>
+</div></div> </div>
 <div class="col-md-4">
+<div class="row">
+  <div class="col-md-2">
+  <i class="material-icons">people</i></div>
+<div class="col-md-10">
 <p>See how you're connected to employees</p>
+</div></div> </div>
 </div>
 </div>
 </div>
 
+<div class="row"> 
+<div class="col-md-8">
 <div class="jumbotron nadj2">
- <img src="images/i6.png" alt="" class="nadi6 img-responsive">
+ <img src="images/i6.png" alt="" class="nadi6 img-fluid">
  <p>
  Resource Consulting is a Recruitment and HR Consulting company, offering job search services and strategic people solutions to Multinational Companies and Small-and-Medium Sized Enterprises in Singapore and the Asia Pacific region.
 </p><p>
 Our team of experienced and dedicated professionals are committed to provide prompt and reliable services to our clients and candidates. We believe that our acute ability to understand our clients' needs and comprehensive approach to talent acquisition, assessment, management and development, have enabled us to support our clients in making people their sustainable source of competitive advantage.
  </p>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="jumbotron nadj3">
+<i class="material-icons float-right">mail</i>
+<h3>Help recruiters find you</h3>
+<p>
+  Members with position get 3 times more profile views
+</p>
+<button href="#" type="button" class="btn btn-primary btn-lg">Update your resume </button>
+</div>
+
 </div>
 
 
