@@ -23,7 +23,7 @@ Date:        14/12/17
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-responsive">
+        <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
         <li><a href="#">Home</a></li>
@@ -90,7 +90,7 @@ Date:        14/12/17
 <!-- WRITE MAIN CONTENT HERE -->
 <div class="row" id="box-search">
 <div class="nad-thumbnail text-center">
-    <img src="images/bghiw.jpeg" alt="image HIW" class="nad-bgimg1 img-responsive">
+    <img src="images/bghiw.jpeg" alt="image HIW" class="nad-bgimg1 img-fluid">
     <div class="nad-caption">
         <h1>How It Works</h1>
     </div>
@@ -98,7 +98,7 @@ Date:        14/12/17
 </div>
 <div class="row">
 <div class="col-md-12">
-<img src="images/i1.png" class="img-responsive">
+<img src="images/i1.png" class="img-fluid">
 <p>What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Why do we use it?

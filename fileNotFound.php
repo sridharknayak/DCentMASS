@@ -44,7 +44,7 @@ Date:        <dd-mm-yyyy>
     <div class="row">
         <div class="col-md-6" style="text-align:center; padding-top: 10%;">
             <h1>Uhhmm.. 404.</h1>
-                <img style="height:300px; display:inline-block" src="images/shrug.png" alt="Shrug" class="img-responsive">
+                <img style="height:300px; display:inline-block" src="images/shrug.png" alt="Shrug" class="img-fluid">
             <h1>SORRY.</h1> 
         </div>
         <div class="col-md-6" style="text-align:center; padding-top: 20%;">

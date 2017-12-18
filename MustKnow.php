@@ -24,7 +24,7 @@ Date:        15/12/17
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-responsive">
+        <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
         <li><a href="#">Home</a></li>
@@ -91,7 +91,7 @@ Date:        15/12/17
 <!-- WRITE MAIN CONTENT HERE -->
 
 <div class="col-md-12">
-<img src="images/i2.png" alt="" class="nad-img2 img-responsive pull-right">
+<img src="images/i2.png" alt="" class="nad-img2 img-fluid pull-right">
 <h1>Must Know</h1>
 </div>
 
@@ -190,7 +190,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h1>Technical Education</h1>
   <p>Tests or studies conducted to investigate and determine the technical suitability of an equipment, material, product, process, or system for the intended objectives.
 </p>
-<center><img src="images/tb1.png" alt="table" class="tb1 img-responsive"></center>
+<center><img src="images/tb1.png" alt="table" class="tb1 img-fluid"></center>
   <p>The Technical Evaluation Panel shall be provided each offeror’s technical proposal, other relevant documents, the Individual Technical Evaluation Document (template) and the Statement of Work.  The TE Panel usually consists of three people (to include the TE Panel Chairman).  The panel will provide an orderly, impartial, timely, yet comprehensive and discriminating technical evaluation of each prospective offeror’s technical proposal.  
   </p>
   <h4>Technical Evaluators (TEs) </h4> 
@@ -201,7 +201,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
 
 <div id="nad-section4" class="container-fluid">
   <h1>Resume Preparation</h1>
-  <img src="images/i3.png" alt="" class=".nad-imgr img-responsive">
+  <img src="images/i3.png" alt="" class=".nad-imgr img-fluid">
   <ol>Important Note:
   <li>Choose the resume format that highlights your skills and achievments.</li>
 <li>Research the company to find out who the best candidate is.</li>
@@ -212,8 +212,8 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
 <li>Send it to the right person and make sure that your resume gets read.</li>
   </ol>
   <h3> FORMAT </h3>
-  <img src="images/r1.png" alt="" class="img-responsive"><br/>
-  <center><img src="images/r2.png" alt="" class="img-responsive"></center>
+  <img src="images/r1.png" alt="" class="img-fluid"><br/>
+  <center><img src="images/r2.png" alt="" class="img-fluid"></center>
   <a href="#nad-section3" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
 </div>
 
