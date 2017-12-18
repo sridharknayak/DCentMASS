@@ -20,7 +20,7 @@ Date:        14/12/17
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-<img src="images/bghit.png" style="position:fixed;">
+<img src="images/bghit.png" style="position:fixed;" class="img-fluid">
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">

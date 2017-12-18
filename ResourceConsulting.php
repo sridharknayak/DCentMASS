@@ -98,7 +98,7 @@ Date:        16/12/17
 
 <div class="col=md-12">
 <!-- WRITE MAIN CONTENT HERE -->
-
+<br>
 <h1>Resource Consulting</h1><hr>
 <p>RESOURCE CONSULTING is a Recruitment and HR Consulting company, offering job search services and strategic people solutions to Multinational Companies and Small-and-Medium Sized Enterprises in Singapore and the Asia Pacific region. Our team of experienced and dedicated professionals are committed to provide prompt and reliable services to our clients and candidates. We believe that our acute ability to understand our clients' needs and comprehensive approach to talent acquisition, assessment, management and development, have enabled us to support our clients in making people their sustainable source of competitive advantag
 </p>
@@ -167,9 +167,11 @@ Our team of experienced and dedicated professionals are committed to provide pro
 <p>
   Members with position get 3 times more profile views
 </p>
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ad quo, quidem inventore quod minus molestias sunt! Voluptatem ullam id consequatur impedit ratione quam in error similique aut nulla. Et.
+  Lorem ipsum dolor sasdakjdhja
 <button href="#" type="button" class="btn btn-primary btn-lg">Update your resume </button>
 </div>
-
 </div>
 
 
