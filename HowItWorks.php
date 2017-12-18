@@ -89,8 +89,8 @@ Date:        14/12/17
 
 <!-- WRITE MAIN CONTENT HERE -->
 <div class="row" id="box-search">
-<div class="thumbnail text-center">
-    <img src="images/bghiw.jpeg" alt="image HIW" class="bgimg1 img-responsive">
+<div class="nad-thumbnail text-center">
+    <img src="images/bghiw.jpeg" alt="image HIW" class="nad-bgimg1 img-responsive">
     <div class="caption">
         <h1>How It Works</h1>
     </div>
