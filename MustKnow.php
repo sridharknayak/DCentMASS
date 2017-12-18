@@ -24,7 +24,7 @@ Date:        15/12/17
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
+      <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
         <li><a href="#">Home</a></li>
@@ -89,10 +89,13 @@ Date:        15/12/17
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-
-<div class="col-md-12">
-<img src="images/i2.png" alt="" class="nad-img2 img-fluid pull-right">
-<h1>Must Know</h1>
+<div class="row">
+<div class="col-md-9">
+<h1 class="nad-h1">Must Know</h1>
+</div>
+<div class="col-md-3">
+<img src="images/i2.png" alt="" class="nad-img2 img-fluid float-right">
+</div>
 </div>
 
 
@@ -146,7 +149,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <h4>10) Don't appear desperate</h4>
 <p>When you interview with the "please, please hire me" approach, you appear desperate and less confident. Reflect the three Cs during the interview: cool, calm and confidence. You know you can do the job; make sure the interviewer believes you can, too.
 </p>
-<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<hr>
 </div>
 
 <div id="nad-section2" class="container-fluid">
@@ -183,7 +186,7 @@ Remember, if you do not fully understand the logic behind the challenge and you 
 To get ahead in your preparation you need to analyse any weaknesses in your knowledge of maths, mental arithmetic and problem solving. Any deficiencies in any of these areas may significantly impact on your ability to solve the questions and ultimately will lower your score. For example, if you have gaps in knowledge of sums and you have good mental or reasoning intellect then you are likely to fail because numbers cannot be manipulated except the rules of maths. Contrary, if you have good knowledge of arithmetic, that is, you know how to use percentages, fractions or other related arithmetic operations whereas your mental or reasoning abilities are not developed to the level that is required for numerical aptitude test, then your score is not likely to be high
 Therefore, to improve your performance you need to acquire, develop or strengthen math, mental arithmetic and problem solving skills and work through types of exam papers that may come up in your official numerical aptitude exercise
 </p>
-<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<hr>
 </div>
   
 <div id="nad-section3" class="container-fluid">
@@ -196,7 +199,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h4>Technical Evaluators (TEs) </h4> 
   <p>Responsible for ensuring a complete, fair, and impartial technical evaluation of all proposals.  TEs will conduct an autonomous in‑depth review and evaluation of the merits of each proposal against the approved factors / subfactors and standards of the RFQ and the SOW.  Prepare written assessments that are consistent with and conclusively support their evaluations.  This information may be utilized for debriefing unsuccessful offerors as well as helping the Contracting Officer determine the overall best value.  
 </p>
-  <a href="#nad-section2" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<hr>
 </div>
 
 <div id="nad-section4" class="container-fluid">
@@ -214,7 +217,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h3> FORMAT </h3>
   <img src="images/r1.png" alt="" class="img-fluid"><br/>
   <center><img src="images/r2.png" alt="" class="img-fluid"></center>
-  <a href="#nad-section3" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+  <hr>
 </div>
 
 <div id="nad-section5" class="container-fluid">
@@ -253,8 +256,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
 <h4>Negotiation and Conflict Resolution</h4>
 <p>This is another of those soft skills which employers look for in potential leaders. To be an adept negotiator is to know how to be persuasive and exert influence, while sensitively seeking a solution which will benefit all parties. Similarly, conflict resolution depends on strong interpersonal skills and the ability to establish a rapport with colleagues and clients alike.
 </p>
-<a href="#nad-section4" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>  
-<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">Top</button></a>
+<hr>
 </div>
   </div>
 </div>
