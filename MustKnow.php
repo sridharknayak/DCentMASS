@@ -21,6 +21,7 @@ Date:        15/12/17
     <link rel="stylesheet" type="text/css" href="css/nadeemmustknow.css">
 </head>
 <body>
+<img src="images/bgmk.png" style="position:fixed;" class="img-fluid">
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">

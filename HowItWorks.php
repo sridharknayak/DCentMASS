@@ -65,6 +65,16 @@ Date:        14/12/17
      <!-- Right bar starts -->
      <div class="right-bars">
      	<div class="righ-col-1">
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">About Us</span></div></a>
+       <a href="#"><div class="rightMenuBlocks  activeLink"><span class="linkText">How It Works</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Out Team</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Testimonials</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Partners<</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Trainers Profiles</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Branches</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Gallery</span></div></a>
+     	</div>
+     	<div class="righ-col-2">
        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Contact Us</span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
@@ -73,16 +83,6 @@ Date:        14/12/17
        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText"></span></div></a>
-     	</div>
-     	<div class="righ-col-2">
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">About Us</span></div></a>
-       <a href="#"><div class="rightMenuBlocks activeLink"><span class="linkText">How It Works</span></div></a>
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Out team</span></div></a>
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Testimonials</span></div></a>
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Partners</span></div></a>
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Trainers profiles</span></div></a>
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Branches</span></div></a>
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Gallery</span></div></a>
      	</div>
      </div>
 
@@ -101,8 +101,8 @@ Date:        14/12/17
 </div>
 </div>
 <div class="row">
-<div class="col-md-12">
-<h1>How It Works</h1>
+<div class="col-md-12"><br/>
+<h1>How It Works</h1><hr>
 <img src="images/i1.png" class="img-fluid">
 <p>What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
