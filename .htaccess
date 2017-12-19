@@ -6,5 +6,5 @@
 #
 
 
-ErrorDocument 404 /fileNootFound.php
+ErrorDocument 404 /DCentMASS/fileNotFound.php
 IndexIgnore *
