@@ -109,7 +109,7 @@ Date:        19/12/17
 <frameset cols="50%,50%">
 <frame src="frame_a.htm" name="frame_a">
 <frame src="frame_d.htm">
-</frameset>
+</frameset>   
 </div>
 
 <div class="col-md-4">
