@@ -10,6 +10,10 @@
     position: relative;
 }
 
+.nad-btnrc{
+    margin-top: 2px;
+}
+
 .nad-img2{
     width: 50%;
     margin-top: 10px;

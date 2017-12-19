@@ -100,6 +100,13 @@ Date:        16/12/17
 <!-- WRITE MAIN CONTENT HERE -->
 <br>
 <h1>Resource Consulting</h1><hr>
+<div class="list-group">
+<list><button href="#" type="button" class="btn btn-primary btn-md">Contract to Hire </button></list>
+<list class="nad-btnrc"><button href="#" type="button" class="btn btn-primary btn-md">Recruiting </button></list>
+<list class="nad-btnrc"><button href="#" type="button" class="btn btn-primary btn-md">Talent Search </button></list>
+<list class="nad-btnrc"><button href="#" type="button" class="btn btn-primary btn-md">Campus Drive </button></list>
+</div>
+<hr>
 <p>RESOURCE CONSULTING is a Recruitment and HR Consulting company, offering job search services and strategic people solutions to Multinational Companies and Small-and-Medium Sized Enterprises in Singapore and the Asia Pacific region. Our team of experienced and dedicated professionals are committed to provide prompt and reliable services to our clients and candidates. We believe that our acute ability to understand our clients' needs and comprehensive approach to talent acquisition, assessment, management and development, have enabled us to support our clients in making people their sustainable source of competitive advantag
 </p>
 <p>
