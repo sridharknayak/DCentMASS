@@ -23,7 +23,7 @@ Date:        <dd-mm-yyyy>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-responsive">
+        <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
@@ -55,6 +55,7 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Forum</a></li>
         <li><a href="#">Contact Us</a></li>
         <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
+      </ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
@@ -92,10 +93,11 @@ Date:        <dd-mm-yyyy>
 <!-- WRITE MAIN CONTENT HERE -->
 
 <div class="container-fluid c1">
+  <div class="row">
 
-    <div class="col-md-2"></div>
-    
-    <div class="col-md-8">
+      
+    <div class="col col-md-6 col-sm-6 sab-header">
+    <img src="images/pexels-photo.jpg">   
      <h1>Get In Touch With Us</h1>
      <p><b>Fill the form and get in touch with us</b></p>
     
@@ -107,35 +109,52 @@ Date:        <dd-mm-yyyy>
     </div>
     <div class="form-group">
       <label for="email">Email:</label>
-      <input type="text" class="form-control" id="email" placeholder="Enter email" name="email">
+      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
     </div>
     <div class="form-group">
       <label for="subject">Subject:</label>
-      <input type="text" class="form-control" id="sub" placeholder="Enter the Subject" name="subject">
+      <input type="subject" class="form-control" id="sub" placeholder="Enter the Subject" name="subject">
     </div>
     <div class="form-group">
     <label for="Message">Message</label>
-    <textarea type="text" class="form-control" id="exampleFormControlTextarea1" placeholder="Your Message" rows="4"></textarea>
-  </div>
+    <textarea type="Message" class="form-control" id="exampleFormControlTextarea1" placeholder="Your Message" rows="4"></textarea>
+  </div><br>
    <div class="submit">
-        <input type="submit" value="SEND" id="button-blue"/>
-        <div class="ease"></div>
-      </div>
-   
+          <button type="button" class="btn"><b>SEND</b></button>
+        
+   </div><br><br>
   </form>
 
 </div>  
 
- 
+    <div class="col-md-6 col-sm-6 col-xs-6 map">
+      
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15382.948574187954!2d74.97346909999999!3d15.44473205!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d2ae0bc927a9%3A0xb0743364a41b4f73!2sAkkamahadevi+Ashrama!5e0!3m2!1sen!2sin!4v1513422036953"  frameborder="0" style="border:0;" allowfullscreen ></iframe>
+<div class="contactus">
+<h1>Contact Info</h1>
+    <p>  <i class="material-icons ">location_on</i> 
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
+    <i class="material-icons">call</i>
+    <span class="shakeelclass">+91-8025864585</span><br>
+    <i class="material-icons">call</i>
+   <span class="shakeelclass1"> +91-8025864585</span><br>
+   
+    <i class="material-icons">email</i>
+   <span class="shakeelclass2">dcentmass@gmail.com</span></p>
+  </div> 
+    
 
 
-    <div class="col-md-2"></div>
+    </div>
 
-</div> 
+    </div>
+    
+
+
 
 <!--second container-->
 <div class="container-fluid c2">
-  <div class="row">
+  
      <h1>Branches</h1>
 
     <div class="row">
@@ -173,25 +192,10 @@ Date:        <dd-mm-yyyy>
 
  </div>
       
-</div>
+
       
 </div>
 
-<div class="container-fluid c3">
-  <div class="row">
-    <div class="col-md-4 sab4">
-      helfmskdjnf
-      sdfnsdljfn
-      sfhsdjfkb
-      safkjhsdfjbdsw
-      'kjbdsafjbdslkjfb'
-    </div>
-
-    <div class="col-md-8 sab5">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15382.948574187954!2d74.97346909999999!3d15.44473205!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d2ae0bc927a9%3A0xb0743364a41b4f73!2sAkkamahadevi+Ashrama!5e0!3m2!1sen!2sin!4v1513422036953"  frameborder="0" style="border:0;" allowfullscreen ></iframe>
-    </div>
-  </div>
-</div>
 
 
 
