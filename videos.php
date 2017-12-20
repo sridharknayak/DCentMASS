@@ -85,15 +85,224 @@ Date:        <dd-mm-yyyy>
      </div>
      
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
-	<div class="container-fluid">
+<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
+<div class="row">
+  <div class="col-md-12"><h1>OUR VIDEOS</h1></div>
+</div>
+                        
+<div class="row">
+
+  <div class="col-md-4">
+        <a href="#Modal1" role="button" data-toggle="modal"><img src="images/sumaiya_images/1.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+        <a href="#Modal2" role="button" data-toggle="modal"><img src="images/sumaiya_images/2.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+        <a href="#Modal3" role="button" data-toggle="modal"><img src="images/sumaiya_images/3.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+        <a href="#Modal4" role="button" data-toggle="modal"><img src="images/sumaiya_images/4.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+  </div>
+  <div class="col-md-4">
+        <a href="#Modal5" role="button" data-toggle="modal"><img src="images/sumaiya_images/5.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br> 
+        <a href="#Modal6" role="button" data-toggle="modal"><img src="images/sumaiya_images/6.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+        <a href="#Modal7" role="button" data-toggle="modal"><img src="images/sumaiya_images/7.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+        <a href="#Modal8" role="button" data-toggle="modal"><img src="images/sumaiya_images/8.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+  </div>
+  <div class="col-md-4">
+        <a href="#Modal9" role="button" data-toggle="modal"><img src="images/sumaiya_images/5.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br> 
+        <a href="#Modal10" role="button" data-toggle="modal"><img src="images/sumaiya_images/6.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+        <a href="#Modal11" role="button" data-toggle="modal"><img src="images/sumaiya_images/7.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+        <a href="#Modal12" role="button" data-toggle="modal"><img src="images/sumaiya_images/8.jpeg" height="100px" width="170px"></a><span>Lorem Ipsum</span><br><br>
+  </div>
+</div>
 
 
 
 
 
+<div class="modal fade" id="Modal1" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="550" height="281" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
 
+
+<div class="modal fade" id="Modal2" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/0z6E_1KonbA" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="Modal3" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="Modal4" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="Modal5" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="Modal6" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="modal fade" id="Modal7" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="modal fade" id="Modal8" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="modal fade" id="Modal9" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="modal fade" id="Modal10" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="modal fade" id="Modal11" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="modal fade" id="Modal12" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3>Modal Body</h3>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VreG1iC65Lc" frameborder="0" allowfullscreen></iframe><br>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> 
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- WRITE MAIN CONTENT HERE -->
 

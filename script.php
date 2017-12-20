@@ -4,3 +4,7 @@
 <script src="js/bootstrap.min.js"></script>
 <!-- custom script -->
 <script src="js/script.js"></script>
+
+<script src="http://pupunzi.com/mb.components/mb.YTPlayer/demo/inc/jquery.mb.YTPlayer.js"></script>
+
+<script src="js/sumaiya.js"></script>
