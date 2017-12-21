@@ -106,13 +106,97 @@ Date:        19/12/17
 
 <div class="row">
 <div class="col-md-8">
-<frameset cols="50%,50%">
-<frame src="frame_a.htm" name="frame_a">
-<frame src="frame_d.htm">
-</frameset>   
+<div class="conatiner-fluid" id="nad-secfaq1">
+   <p>
+   Download the Baker E-Book Framework from http://bakerframework.com/.
+</p><p>
+   A good idea is to immediately download the Baker HPub example book as well, “A Study in Scarlet,” by Arthur Conan Doyle. You can also download Laker, another book example available at http://www.lakercompendium.com/.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, accusamus consequuntur dolore, minus dignissimos reprehenderit, asperiores harum aliquam deserunt accusantium et autem? Veritatis a eius laborum veniam aliquid saepe cumque.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde quaerat cum voluptatum debitis cupiditate reiciendis, sapiente mollitia dolorem magni laboriosam? Provident facilis veniam voluptates! Eum adipisci aut a quos? Ab!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio minima maxime voluptatum dolorem enim necessitatibus qui nostrum deserunt aliquam iure eaque officia laudantium, suscipit natus dolores ducimus architecto totam nesciunt?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum sed corporis reiciendis blanditiis magni quas veritatis nihil porro, fugiat dignissimos molestias beatae esse nemo placeat velit officiis, laboriosam quasi ipsa?
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam nobis quo suscipit repudiandae voluptatibus minima eius, laudantium, recusandae delectus dolore expedita deleniti voluptate. Ea atque laborum, labore possimus eos aperiam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum eius aliquid inventore atque, perspiciatis deserunt necessitatibus officia consectetur voluptatem doloribus quaerat neque provident impedit dicta similique quidem excepturi quasi est.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ad autem doloremque eligendi, vel nisi temporibus tenetur minima praesentium deleniti cupiditate quia voluptates nihil. Quis, consequuntur! Voluptate ea mollitia corporis!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit adipisci ipsam quae soluta inventore, mollitia odit, tempora eaque excepturi veniam doloremque quasi consectetur pariatur iusto repellat! Culpa dolore ea eligendi?
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, velit, provident aliquid ratione id quibusdam maxime neque adipisci, non porro minima sed culpa reprehenderit doloribus architecto nihil sapiente obcaecati perferendis.
+
+  </p>
+  </div>
+
+  <div class="conatiner-fluid" id="nad-secfaq2">
+  <p>
+  Laker is a nicely formatted book that you can use instead of the formatting used in Baker. It also has example code for slideshows, YouTube videos and other things. You can find an entire section on how to use Laker here: http://www.lakercompendium.com/how-to-use/
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, accusamus consequuntur dolore, minus dignissimos reprehenderit, asperiores harum aliquam deserunt accusantium et autem? Veritatis a eius laborum veniam aliquid saepe cumque.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde quaerat cum voluptatum debitis cupiditate reiciendis, sapiente mollitia dolorem magni laboriosam? Provident facilis veniam voluptates! Eum adipisci aut a quos? Ab!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio minima maxime voluptatum dolorem enim necessitatibus qui nostrum deserunt aliquam iure eaque officia laudantium, suscipit natus dolores ducimus architecto totam nesciunt?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum sed corporis reiciendis blanditiis magni quas veritatis nihil porro, fugiat dignissimos molestias beatae esse nemo placeat velit officiis, laboriosam quasi ipsa?
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam nobis quo suscipit repudiandae voluptatibus minima eius, laudantium, recusandae delectus dolore expedita deleniti voluptate. Ea atque laborum, labore possimus eos aperiam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum eius aliquid inventore atque, perspiciatis deserunt necessitatibus officia consectetur voluptatem doloribus quaerat neque provident impedit dicta similique quidem excepturi quasi est.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ad autem doloremque eligendi, vel nisi temporibus tenetur minima praesentium deleniti cupiditate quia voluptates nihil. Quis, consequuntur! Voluptate ea mollitia corporis!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit adipisci ipsam quae soluta inventore, mollitia odit, tempora eaque excepturi veniam doloremque quasi consectetur pariatur iusto repellat! Culpa dolore ea eligendi?
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, velit, provident aliquid ratione id quibusdam maxime neque adipisci, non porro minima sed culpa reprehenderit doloribus architecto nihil sapiente obcaecati perferendis.
+  </p>
 </div>
 
-<div class="col-md-4">
+<div class="conatiner-fluid" id="nad-secfaq3">
+<p>
+If you open up the Baker folder, you'll notice lots of files with names like IndexViewController.h and main.m. Those are the files that Xcode uses, which you can mostly ignore. The important files you need to know are Baker.xcodeproj which is the file you open with Xcode, and a folder called books.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, accusamus consequuntur dolore, minus dignissimos reprehenderit, asperiores harum aliquam deserunt accusantium et autem? Veritatis a eius laborum veniam aliquid saepe cumque.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde quaerat cum voluptatum debitis cupiditate reiciendis, sapiente mollitia dolorem magni laboriosam? Provident facilis veniam voluptates! Eum adipisci aut a quos? Ab!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio minima maxime voluptatum dolorem enim necessitatibus qui nostrum deserunt aliquam iure eaque officia laudantium, suscipit natus dolores ducimus architecto totam nesciunt?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum sed corporis reiciendis blanditiis magni quas veritatis nihil porro, fugiat dignissimos molestias beatae esse nemo placeat velit officiis, laboriosam quasi ipsa?
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam nobis quo suscipit repudiandae voluptatibus minima eius, laudantium, recusandae delectus dolore expedita deleniti voluptate. Ea atque laborum, labore possimus eos aperiam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum eius aliquid inventore atque, perspiciatis deserunt necessitatibus officia consectetur voluptatem doloribus quaerat neque provident impedit dicta similique quidem excepturi quasi est.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ad autem doloremque eligendi, vel nisi temporibus tenetur minima praesentium deleniti cupiditate quia voluptates nihil. Quis, consequuntur! Voluptate ea mollitia corporis!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit adipisci ipsam quae soluta inventore, mollitia odit, tempora eaque excepturi veniam doloremque quasi consectetur pariatur iusto repellat! Culpa dolore ea eligendi?
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, velit, provident aliquid ratione id quibusdam maxime neque adipisci, non porro minima sed culpa reprehenderit doloribus architecto nihil sapiente obcaecati perferendis.
+</p>
+</div>
+
+<div class="conatiner-fluid" id="nad-secfaq4">
+<p>
+When you're using Baker in Standalone mode, the book folder is where your book or magazine files go, so it's where you'll be doing almost all your work. Make SURE you keep everything inside the books folder, or else you'll find Baker will stop working.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, accusamus consequuntur dolore, minus dignissimos reprehenderit, asperiores harum aliquam deserunt accusantium et autem? Veritatis a eius laborum veniam aliquid saepe cumque.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde quaerat cum voluptatum debitis cupiditate reiciendis, sapiente mollitia dolorem magni laboriosam? Provident facilis veniam voluptates! Eum adipisci aut a quos? Ab!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio minima maxime voluptatum dolorem enim necessitatibus qui nostrum deserunt aliquam iure eaque officia laudantium, suscipit natus dolores ducimus architecto totam nesciunt?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum sed corporis reiciendis blanditiis magni quas veritatis nihil porro, fugiat dignissimos molestias beatae esse nemo placeat velit officiis, laboriosam quasi ipsa?
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam nobis quo suscipit repudiandae voluptatibus minima eius, laudantium, recusandae delectus dolore expedita deleniti voluptate. Ea atque laborum, labore possimus eos aperiam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum eius aliquid inventore atque, perspiciatis deserunt necessitatibus officia consectetur voluptatem doloribus quaerat neque provident impedit dicta similique quidem excepturi quasi est.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ad autem doloremque eligendi, vel nisi temporibus tenetur minima praesentium deleniti cupiditate quia voluptates nihil. Quis, consequuntur! Voluptate ea mollitia corporis!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit adipisci ipsam quae soluta inventore, mollitia odit, tempora eaque excepturi veniam doloremque quasi consectetur pariatur iusto repellat! Culpa dolore ea eligendi?
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, velit, provident aliquid ratione id quibusdam maxime neque adipisci, non porro minima sed culpa reprehenderit doloribus architecto nihil sapiente obcaecati perferendis.
+</p>
+</div>
+
+<div class="conatiner-fluid" id="nad-secfaq5">
+<p>
+The books folder is empty because you haven't created any book yet. If you want to see what a sample book looks like, download the example from the Baker website.
+
+Also, note that if you're using Baker in Newsstand mode, your books folder will always be empty (you can even delete it if you want).
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, accusamus consequuntur dolore, minus dignissimos reprehenderit, asperiores harum aliquam deserunt accusantium et autem? Veritatis a eius laborum veniam aliquid saepe cumque.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde quaerat cum voluptatum debitis cupiditate reiciendis, sapiente mollitia dolorem magni laboriosam? Provident facilis veniam voluptates! Eum adipisci aut a quos? Ab!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio minima maxime voluptatum dolorem enim necessitatibus qui nostrum deserunt aliquam iure eaque officia laudantium, suscipit natus dolores ducimus architecto totam nesciunt?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum sed corporis reiciendis blanditiis magni quas veritatis nihil porro, fugiat dignissimos molestias beatae esse nemo placeat velit officiis, laboriosam quasi ipsa?
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam nobis quo suscipit repudiandae voluptatibus minima eius, laudantium, recusandae delectus dolore expedita deleniti voluptate. Ea atque laborum, labore possimus eos aperiam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum eius aliquid inventore atque, perspiciatis deserunt necessitatibus officia consectetur voluptatem doloribus quaerat neque provident impedit dicta similique quidem excepturi quasi est.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ad autem doloremque eligendi, vel nisi temporibus tenetur minima praesentium deleniti cupiditate quia voluptates nihil. Quis, consequuntur! Voluptate ea mollitia corporis!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit adipisci ipsam quae soluta inventore, mollitia odit, tempora eaque excepturi veniam doloremque quasi consectetur pariatur iusto repellat! Culpa dolore ea eligendi?
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, velit, provident aliquid ratione id quibusdam maxime neque adipisci, non porro minima sed culpa reprehenderit doloribus architecto nihil sapiente obcaecati perferendis.
+</p>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-4">
+<div class="nad-listg list-group position-fixed">
+<a href="#nad-secfaq1" class="list-group-item list-group-item-action active">
+How do I get started?
+</a>
+<a href="#nad-secfaq2" class="list-group-item list-group-item-action">What is Laker?</a>
+<a href="#nad-secfaq3" class="list-group-item list-group-item-action">Ok, I've downloaded all that, now what am I looking at?</a>
+<a href="#nad-secfaq4" class="list-group-item list-group-item-action">What is the books folder? Why is it so important?</a>
+<a href="#nad-secfaq5" class="list-group-item list-group-item-action">HELP! My books folder is empty! What do I do?</a>
+</div>
 </div>
 
 </div>
