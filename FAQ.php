@@ -104,6 +104,7 @@ Date:        19/12/17
 </div>
 </div><br/>
 
+<div class="container-fluid">
 <div class="row">
 <div class="col-md-8">
 <div class="conatiner-fluid" id="nad-secfaq1">
@@ -187,7 +188,7 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, velit, providen
 </div>
 </div>
 
-<div class="col-md-4 col-sm-4">
+<div class="col-md-4">
 <div class="nad-listg list-group position-fixed">
 <a href="#nad-secfaq1" class="list-group-item list-group-item-action active">
 How do I get started?
@@ -198,7 +199,7 @@ How do I get started?
 <a href="#nad-secfaq5" class="list-group-item list-group-item-action">HELP! My books folder is empty! What do I do?</a>
 </div>
 </div>
-
+  </div>
 </div>
 
 

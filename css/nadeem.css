@@ -73,11 +73,13 @@
 #nad-section5 {padding-top:10px;color: black; background-color: #ffffff;}
 
 .nad-listg{
-    width: 310px;
+    width: 23%;
     height: 100%;
     text-align: center;
     display:table-cell;
     vertical-align:middle;
+    position: relative;
+
 }
 
 #nad-secfaq1{padding-top:10px;color: black; background-color: #dd1313;}
