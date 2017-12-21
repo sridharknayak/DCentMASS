@@ -20,7 +20,6 @@ Date:        14/12/17
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-<img src="images/bghit.png" style="position:fixed;" class="img-fluid">
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
@@ -69,7 +68,7 @@ Date:        14/12/17
        <a href="#"><div class="rightMenuBlocks  activeLink"><span class="linkText">How It Works</span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Out Team</span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Testimonials</span></div></a>
-       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Partners<</span></div></a>
+       <a href="#"><div class="rightMenuBlocks"><span class="linkText">Partners</span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Trainers Profiles</span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Branches</span></div></a>
        <a href="#"><div class="rightMenuBlocks"><span class="linkText">Gallery</span></div></a>
