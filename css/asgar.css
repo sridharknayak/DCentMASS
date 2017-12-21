@@ -1,0 +1,195 @@
+
+
+ font styles
+
+#h-font
+{            
+              font-size: 50px;
+              font-family: Titillium Web;
+              color: #000;
+              font-weight: bold;
+              text-align: left;
+}
+
+#Sub-h
+       {
+              font-size: 30px;
+              font-family: Poppins;
+              color: #000;
+              text-align: left;
+        }      
+#P-heading
+{
+              font-size: 20px;
+              font-family: Roboto;
+              color: #000;
+             font-weight: bold;
+}
+
+#icon-Paragraph
+{
+              font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align: justify;
+            }
+            
+/* icons style 
+
+#icon-headding
+{
+	padding: 5px;
+	margin-left:-12px;
+}
+#icon-para
+{
+	padding-top:0px;
+	margin-left:-37px; 
+	text-align: center;
+}
+
+#icon-img
+{
+	margin-left:35px; 
+}
+*/
+#back-img{
+   background: url("http://localhost/dcent/DCentMASS/images/background.png");
+  
+  top: 0;
+  left: 0;
+  bottom: 0.5;
+  right: 0;
+
+  z-index: -2;
+  margin:center; 
+  border-image-outset: 2px;
+  margin: auto; 
+  margin-right: 0px;
+ 
+ 
+}
+#icon-img
+{
+  border: 4px solid #000;
+  border-radius: 100px; 
+}
+#button-ex
+{
+  border: 3px solid #000;
+  border-radius: 50px;
+}
+/*
+.div-scroll {
+  padding: 16px;
+  margin-top: 30px;
+  left: 10px;
+  top: 50px;
+  height: 1500px; /* Used in this example to enable scrolling */
+
+
+#v-line
+{
+	border-left:3px red solid; 
+ padding-left: 10px;
+}
+
+/* contact form 
+input[type=text]
+ {
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid red;
+    background-color:#0FA581;
+    color: solid white;
+}*/
+
+form-line:focus
+{
+    outline: none;
+}
+input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #ccc;
+}
+
+
+#form-line 
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color:#115a94;
+    border-bottom: 02px white solid;
+    color: #fff;
+    outline: none;
+    color: #ccc;
+    
+    
+}
+
+#sub-button
+{
+	
+   padding: 10px;
+  width:150px;
+  float: center;
+
+}
+#button-1
+{
+hover
+}
+#color1
+{
+  color:white ;
+  color:#a8cccc;
+}
+
+/* JobFair**/
+
+#r-div
+{
+    min-height: 1495px;
+    background-color:#115a94;
+    position: fixed right;
+
+   }
+
+
+
+#b-img
+{ 
+  background: url('http://localhost/dcent/DCentMASS/images/meeting.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#container{
+padding: 25px;   
+}    
+
+
+
+
+
+#hr-line
+{
+  color: black solid;
+}
+
+
+#P-heading2
+{
+              font-size: 20px;
+              font-family: Roboto;
+              color: #000;
+             font-weight: normal;
+}
