@@ -89,3 +89,12 @@
 #nad-secfaq5{padding-top:10px;color: black; background-color: #e1f71c;}
 
 
+.bgtext{
+    font-size: 100px;
+    opacity: 0.2;
+    position: fixed;
+    margin-top: 150px;
+    z-index: -1;
+    font-weight: bold;
+    display: block;
+}

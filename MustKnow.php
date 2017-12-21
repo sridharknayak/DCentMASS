@@ -90,7 +90,7 @@ Date:        15/12/17
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
-
+<span class="bgtext"> Must Know</span>
 <!-- WRITE MAIN CONTENT HERE -->
 <div class="row">
 <div class="col-md-9">

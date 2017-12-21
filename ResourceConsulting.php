@@ -98,7 +98,7 @@ Date:        16/12/17
 
 <div class="col=md-12">
 <!-- WRITE MAIN CONTENT HERE -->
-
+<span class="bgtext"> Resource Consulting </span>
 <span class="main-heading">Resource Consulting</span><hr>
 <div class="list-group">
 <list><button href="#" type="button" class="btn btn-primary btn-md">Contract to Hire </button></list>
