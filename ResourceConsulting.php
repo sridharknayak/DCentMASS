@@ -98,11 +98,22 @@ Date:        16/12/17
 
 <div class="col=md-12">
 <!-- WRITE MAIN CONTENT HERE -->
-<br>
-<h1>Resource Consulting</h1><hr>
-<p>RESOURCE CONSULTING is a Recruitment and HR Consulting company, offering job search services and strategic people solutions to Multinational Companies and Small-and-Medium Sized Enterprises in Singapore and the Asia Pacific region. Our team of experienced and dedicated professionals are committed to provide prompt and reliable services to our clients and candidates. We believe that our acute ability to understand our clients' needs and comprehensive approach to talent acquisition, assessment, management and development, have enabled us to support our clients in making people their sustainable source of competitive advantag
-</p>
-<p>
+<span class="bgtext"> Resource Consulting </span>
+<span class="main-heading">Resource Consulting</span><hr>
+<div class="list-group">
+<list><button href="#" type="button" class="btn btn-primary btn-md">Contract to Hire </button></list>
+<list class="nad-btnrc"><button href="#" type="button" class="btn btn-primary btn-md">Recruiting </button></list>
+<list class="nad-btnrc"><button href="#" type="button" class="btn btn-primary btn-md">Talent Search </button></list>
+<list class="nad-btnrc"><button href="#" type="button" class="btn btn-primary btn-md">Campus Drive </button></list>
+</div>
+<hr>
+<span class="sub-heading"> Details of Resource Consulting </span>
+
+<span class="para-heading">  RESOURCE CONSULTING </span>
+<span class="para">
+RESOURCE CONSULTING is a Recruitment and HR Consulting company, offering job search services and strategic people solutions to Multinational Companies and Small-and-Medium Sized Enterprises in Singapore and the Asia Pacific region. Our team of experienced and dedicated professionals are committed to provide prompt and reliable services to our clients and candidates. We believe that our acute ability to understand our clients' needs and comprehensive approach to talent acquisition, assessment, management and development, have enabled us to support our clients in making people their sustainable source of competitive advantag
+</span>
+<span class="para">
 The following are core fields around which most human resource consultancies are based:
 
 <ul>Employee engagement: measure employee engagement levels through surveys and interviews, define and improve performance in employee engagement and retention. While this area of HR consulting is necessarily broad, encapsulating total rewards strategy, employee performance management, leadership transformation, and organisation structure design,[2] most companies do have very specialised independent practices.[3][4]
@@ -118,7 +129,7 @@ The following are core fields around which most human resource consultancies are
 <ul>Talent mobility: Provides the insight and execution for full international expatriates (usually for executives) or local plus (partial-package expatriates), from pre-move informative guide, to post-move expat management program.[14]
 
 Other services may also include legal counseling, global initiatives, investments consulting, and the implementation of human resource technologies to facilitate human capital management.
-</p>
+</span>
 
 <div class="jumbotron nadj1">
 <center><h2>Keep up with Resource Consulting Pte Ltd</h2></center><br/>
