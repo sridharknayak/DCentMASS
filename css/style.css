@@ -24,6 +24,7 @@ html {
 .left-bar i {
     font-size: 20px;
 }
+
 .left-bar{
    height: 100%;
    position: fixed;
@@ -173,3 +174,41 @@ a .rightMenuBlocks {
 .activeLink>a i {
     color: #fff !important;
 }
+
+
+/* Content Styles */
+
+.main-heading{
+font-size: 50px;
+font-family: "Titillium Web";
+color: #000;
+font-weight: bold;
+text-align: left;
+display: block;
+}
+
+.sub-heading{
+font-size: 30px;
+font-family: "Poppins";
+color: #000;
+text-align: left;
+display: block;
+}
+
+.para-heading{
+font-size: 20px;
+font-family: "Roboto";
+color: #000;
+font-weight: bold;
+display: block;
+}
+
+.para{
+font-size: 15px;
+font-family: "Open Sans";
+color: #333;
+text-align: justify;
+display: inline;
+}
+
+
