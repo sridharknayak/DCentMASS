@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: Sridhar K Nayak
+Author name: SRIDHAR K NAYAK
 E-mail ID:   sridharsourceus@gmail.com
-Date:        15-12-2017
+Date:        19-12-2017
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -16,7 +16,7 @@ Date:        15-12-2017
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Webinar</title>
+    <title>Placement of the Week</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -91,42 +91,58 @@ Date:        15-12-2017
 <!-- MAIN CONTENT STARTS -->
 
 <!-- WRITE MAIN CONTENT HERE -->
+<div class="container-fluid">
 <div class="row">
 <div class="col-md-10">
- <center><img src="images/webinar1.png"  class="img-fluid">  </center>  
+    <img src="images/placement.png"  class="img-fluid">
+    
+     <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
+  
 
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
+    <iframe width="320" height="250" src="https://www.youtube.com/embed/-qsYLHtT-JQ?autoplay=1">
+    </iframe>
 
+    <iframe width="320" height="250" src="https://www.youtube.com/embed/YixNnWMT7y8?autoplay=1">
+    </iframe>
 
-<iframe width="350" height="220" src="https://www.youtube.com/embed/Gz2wBT9gZfo?autoplay=1">
-</iframe>
+    <img src="images/placement3.png" class="img-fluid"/>
 
-<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
+    <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
 
 </div>
+
+
 
 
 <div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
+    <div class="sridhar-card5 card">
+     <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
 
-    <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> 
+        <br><br>
+        <p> &nbsp; New beginning.</p>
+        <p>&nbsp; New mindset.</p>
+        <p>&nbsp; New focus.</p>
+        <p>&nbsp; New start.</p>
+        <p>&nbsp; New intensions.</p>
+        <p>&nbsp; New results.</p>
+        <br><br><br><br><br>
+        <img src="images/placement2.png" class="img-fluid"> 
+        
+</div>
+</div>
 
-    
-
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/webinar2.png" class="sridhar-imglast img-fluid"> 
 
 
+<!-- NOTE: Please keep your code clean + readable and add comments -->
 
 </div>
-<!--   </div> -->
-
 </div>
-</div> 
 
-  
+
+
+
+
+
 
 <!-- MAIN CONTENT ENDS -->
 	</div>

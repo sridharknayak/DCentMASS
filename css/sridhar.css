@@ -28,13 +28,21 @@ width: 30rem;
 
 .sridhar-card4{
      background-color:#3EB6C2;
-    /* margin-left: 740px;*/
     position: fixed;
-    width: 12.5%;
+    width: 11.5%;
     margin-right: 10%;
     height: 100%;
 }
 
 .sridhar-imglast{
-    margin-top: 350px;
+    margin-top: 180px;
+}
+
+
+.sridhar-card5{
+      background-color:#3EB6C2;
+    position: fixed;
+    width: 11.5%;
+    margin-right: 10%;
+    height: 100%;
 }
