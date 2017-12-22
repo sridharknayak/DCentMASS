@@ -1,7 +1,7 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
+Author name: <Shakeel Ahmed>;
+E-mail ID:   <shakeel999sourceus@gmail.com>
 Date:        <dd-mm-yyyy>
 */
 /////////////////////////////////////////////////////////
@@ -97,7 +97,7 @@ Date:        <dd-mm-yyyy>
 
       
     <div class="col col-md-6 col-sm-6 sab-header">
-    <img src="images/pexels-photo.jpg">   
+     
      <h1>Get In Touch With Us</h1>
      <p><b>Fill the form and get in touch with us</b></p>
     
@@ -119,10 +119,13 @@ Date:        <dd-mm-yyyy>
     <label for="Message">Message</label>
     <textarea type="Message" class="form-control" id="exampleFormControlTextarea1" placeholder="Your Message" rows="4"></textarea>
   </div><br>
-   <div class="submit">
+    <div class="submit">
           <button type="button" class="btn"><b>SEND</b></button>
+
+
         
    </div><br><br>
+ 
   </form>
 
 </div>  
@@ -149,7 +152,7 @@ Date:        <dd-mm-yyyy>
 
     </div>
     
-
+ </div>
 
 
 <!--second container-->

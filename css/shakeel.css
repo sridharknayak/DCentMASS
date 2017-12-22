@@ -5,35 +5,36 @@
  .sab-header h1{
  	color:#F4682E; 
  }
-.submit .btn{
-	background-color:black;
-	color:#fff;
 
-
+.contactus{
+	  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
 
-
-.c1{
-	background-color:#fff; 
-	height:662px;
+.c2 h1{
+	border-bottom:2px solid #444;
+	width:18%;
 }
+	
 
 .c2 h2{
 	margin-left:35%;
 	color:white;
 }
 .c2{
+
 	background-color:#3681AC; 
+
+
 }
 
-.	c2  .sab li {
+.c2 .sab li{
 	margin-left:50%;
 	line-height:40px;
 	  
 }
-.c2  .sab li a{
+.c2 .sab li a{
 	color:#ddd; 
 }
 
@@ -87,7 +88,10 @@ color:#CF1218;
  }
  .contactus h1 {
  	margin-left:10px; 
- }
+ 	border-bottom:2px solid #666;
+     width:50%;	
+}
+
  .contactus p{
  	margin-left:10px; 
  }
@@ -107,3 +111,46 @@ color:#CF1218;
 	margin-top:10px;
 	display: inline-block;
 }
+
+
+.btn{
+	background-color:black;
+	color:#fff;
+}
+
+.btn:hover{
+	background-color:grey; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
