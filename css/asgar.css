@@ -1,8 +1,8 @@
 
 
- font styles
+ /* font styles*/
 
-#h-font
+#ad-h-font
 {            
               font-size: 50px;
               font-family: Titillium Web;
@@ -11,28 +11,43 @@
               text-align: left;
 }
 
-#Sub-h
+#ad-Sub-h
        {
               font-size: 30px;
               font-family: Poppins;
               color: #000;
               text-align: left;
         }      
-#P-heading
+#ad-P-heading
 {
-              font-size: 20px;
+              font-size: 18px;
               font-family: Roboto;
               color: #000;
              font-weight: bold;
+
+
+       line-height:22px;
+     vertical-align:baseline;
+    letter-spacing:normal;
+    word-spacing:0px;
 }
 
-#icon-Paragraph
+#ad-icon-Paragraph
 {
               font-size: 18px;
               font-family: Open Sans;
               color: #333;
-              text-align: justify;
+              text-align: center;
             }
+
+  #ad-main-Para
+{
+              font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align:justify;
+            }
+                      
             
 /* icons style 
 
@@ -53,7 +68,7 @@
 	margin-left:35px; 
 }
 */
-#back-img{
+#ad-back-img{
    background: url("http://localhost/dcent/DCentMASS/images/background.png");
   
   top: 0;
@@ -69,29 +84,69 @@
  
  
 }
-#icon-img
-{
-  border: 4px solid #000;
-  border-radius: 100px; 
-}
-#button-ex
+#ad-icon-img
 {
   border: 3px solid #000;
-  border-radius: 50px;
+  border-radius: 100px; 
 }
-/*
-.div-scroll {
-  padding: 16px;
-  margin-top: 30px;
-  left: 10px;
-  top: 50px;
-  height: 1500px; /* Used in this example to enable scrolling */
 
 
-#v-line
+.ad-r-div{
+
+  background-color:#115a94; 
+  position: fixed; 
+   width: 304.7px;
+   height: 100%;
+
+
+}
+#ad-sub-h2
+{
+      margin-bottom:25px;
+      font-family: Poppins;
+    font-weight: bold;
+    line-height: 1.2;
+    color: #000;
+        font-size: 25px;
+            
+              
+              text-align: left;
+
+}
+
+
+
+
+
+
+
+
+#ad-buttonex
+{
+
+width: 375px;
+padding: 10px;
+cursor: pointer;
+font-weight: bold;
+font-size: 100%;
+background: ;
+color: #000;
+border: 2px solid #000;
+border-radius: 50px;
+}
+#ad-buttonex:hover {
+color:green;
+background: #d6d6d6;
+border: 2px solid #fff;
+}
+
+
+
+
+#ad-v-line
 {
 	border-left:3px red solid; 
- padding-left: 10px;
+ padding-left: 5px;
 }
 
 /* contact form 
@@ -107,17 +162,20 @@ input[type=text]
     background-color:#0FA581;
     color: solid white;
 }*/
-
-form-line:focus
+#ad-form-line:focus
 {
     outline: none;
+    line-height:24px
+vertical-align:baseline
+letter-spacing:0px
+word-spacing:0px
 }
 input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   color: #ccc;
 }
 
 
-#form-line 
+#ad-form-line 
 {
     width: 100%;
     padding: 12px 20px;
@@ -125,7 +183,7 @@ input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
     box-sizing: border-box;
     border: none;
     background-color:#115a94;
-    border-bottom: 02px white solid;
+    border-bottom: 1px white solid;
     color: #fff;
     outline: none;
     color: #ccc;
@@ -133,7 +191,7 @@ input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
     
 }
 
-#sub-button
+#ad-sub-button
 {
 	
    padding: 10px;
@@ -141,11 +199,8 @@ input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   float: center;
 
 }
-#button-1
-{
-hover
-}
-#color1
+
+#ad-color1
 {
   color:white ;
   color:#a8cccc;
@@ -153,9 +208,9 @@ hover
 
 /* JobFair**/
 
-#r-div
+#ad-r-div
 {
-    min-height: 1495px;
+    min-height: 1445px;
     background-color:#115a94;
     position: fixed right;
 
@@ -163,7 +218,9 @@ hover
 
 
 
-#b-img
+
+/*
+#ad-backgroundimg
 { 
   background: url('http://localhost/dcent/DCentMASS/images/meeting.jpeg') no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -171,8 +228,12 @@ hover
   -o-background-size: cover;
   background-size: cover;
 }
+*/
 
-#container{
+
+
+
+#ad-container{
 padding: 25px;   
 }    
 
@@ -180,13 +241,13 @@ padding: 25px;
 
 
 
-#hr-line
+#ad-hrline
 {
   color: black solid;
 }
 
 
-#P-heading2
+#ad-P-heading2
 {
               font-size: 20px;
               font-family: Roboto;
