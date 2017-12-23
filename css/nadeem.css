@@ -15,7 +15,7 @@
 }
 
 .nad-img2{
-    width: 50%;
+    width: 30%;
     margin-top: 10px;
 }
 
@@ -97,4 +97,8 @@
     z-index: -1;
     font-weight: bold;
     display: block;
+    font-family: "Roboto";
 }
+
+/* 
+Section Scroll */
