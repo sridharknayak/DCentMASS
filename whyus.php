@@ -118,11 +118,11 @@ Date:        15-12-2017
 
       
       <div id="section1" class="bg-default">    
-        <br><br><h1>What sets us apart</h1><br>
+        <br><h3>What sets us apart</h3>
         <img align="right" src="images\whyus.png" class="img-fluid" height="100px" width="200px" /> <br>
-        <p align="left"> <font size="5px" color="black"> Employee </font> </p><br>
+        <h5> Employee </h5> 
         
-        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p> <br><br>
+        <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> <br>
 
        
 
@@ -135,11 +135,11 @@ Date:        15-12-2017
   
 
       <div id="section2" class="bg-default"> 
-        <br><br><h1>What sets us apart</h1><br>
+        <br><h1>What sets us apart</h1>
          <img  align="right" src="images\whyus.png" class="img-fluid" height="100px" width="200px"/> <br>
-        <p align="left"> <font size="5px" color="black"> Employer </font> </p><br>
+        <p align="left"> <font size="5px" color="black"> Employer </font> </p>
 
-        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br><br>
+        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br>
       
 
 
@@ -153,11 +153,11 @@ Date:        15-12-2017
       
 
      <div id="section3" class="bg-default">         
-       <br><br><h1>What sets us apart</h1><br>
+       <br><h1>What sets us apart</h1>
          <img  align="right" src="images\whyus.png" class="img-fluid" height="100px" width="200px"/> <br>
-        <p align="left"> <font size="5px" color="black"> Student </font> </p><br>
+        <p align="left"> <font size="5px" color="black"> Student </font> </p>
 
-        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br><br>
+        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br>
      
 
 
@@ -172,11 +172,11 @@ Date:        15-12-2017
       
 
       <div id="section4" class="bg-default">         
-        <br><br><h1>What sets us apart</h1><br>
+        <br><h1>What sets us apart</h1>
          <img  align="right" src="images\whyus.png" class="img-fluid" height="100px" width="200px"/> <br>
-        <p align="left"> <font size="5px" color="black"> Faculty </font> </p><br>
+        <p align="left"> <font size="5px" color="black"> Faculty </font> </p>
 
-        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br><br>
+        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br>
      
      
 
@@ -191,18 +191,18 @@ Date:        15-12-2017
       
 
       <div id="section5" class="bg-default">         
-        <br><br><h1>What sets us apart</h1><br>
+        <br><h1>What sets us apart</h1>
          <img  align="right" src="images\whyus.png" class="img-fluid" height="100px" width="200px"/> <br>
-        <p align="left"> <font size="5px" color="black"> College </font> </p><br>
+        <p align="left"> <font size="5px" color="black"> College </font> </p>
 
-        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br><br>
+        <p> <font size="2px" color="black"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </font></p><br>
       
 
 
 <iframe width="340" height="250" src="https://www.youtube.com/embed/yWrQuenntOc?autoplay=1">
 </iframe>
 
-<br><br><br><br><br>
+<br><br>
       </div>
     
    
