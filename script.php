@@ -4,10 +4,6 @@
 <!-- custom script -->
 <script src="js/script.js"></script>
 
-<<<<<<< HEAD
 <script src="http://pupunzi.com/mb.components/mb.YTPlayer/demo/inc/jquery.mb.YTPlayer.js"></script>
 
 <script src="js/sumaiya.js"></script>
-=======
-
->>>>>>> c14db1cdb1fbe6cdefc7101d6824dd25e02bc8a2
