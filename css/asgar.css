@@ -183,7 +183,7 @@ input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
     box-sizing: border-box;
     border: none;
     background-color:#115a94;
-    border-bottom: 1px white solid;
+    border-bottom: 1px white solid; 
     color: #fff;
     outline: none;
     color: #ccc;
@@ -253,4 +253,106 @@ padding: 25px;
               font-family: Roboto;
               color: #000;
              font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* JOB FAIR ANOTHER ONE PAGE*/
+  
+#ad-hrstyle1{
+  border-top: 6px solid red;
+}
+#ad-hrverticle
+{
+  border-left:3px red solid; 
+ padding-left: 3px;
+ padding-top:0px;
+}
+#ad-Paragraph
+{
+              font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align: center;
+            }
+
+
+
+            #panel-event {
+    position: relative;
+    margin: 1em 0;
+    border-color: #ddd;
+    border-style: solid;
+    border-width: 1px;
+}
+#event-date-title {
+    display: table;
+    margin: 15px 20px 10px;
+}
+#event-date {
+    display: table-cell;
+    padding-right: .75em;
+    line-height: 1px;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-right: solid 2px #830065;
+    box-sizing: border-box;
+}
+
+.event-day {
+    font-size: 1.9em;
+    font-weight: 700;
+    color: #830065;
+}
+.event-year {
+    display: block;
+    font-weight: 600;
+    line-height: .8;
+    text-align: center;
+}
+.event-time {
+    display: block;
+    padding-top: .35em;
+    margin-top: .475em;
+    font-size: .9em;
+    line-height: .9em;
+    border-top: solid 1px #ddd;
+}
+.col-second-inner {
+    padding-left: 15px;
+    overflow: hidden;
+    border-left: solid 2px #830065;
+
+
+    box-sizing: border-box;
+  }
+  .panel
+  {
+  box-shadow: 0 4px 6px -5px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.1);
+}
+.event-date-separator {
+    font-size: 1.9em;
+    font-weight: 700;
+    line-height: 1.5em;
+    color: #830065;
+    vertical-align: top;
+}
+.event-month {
+    font-size: 1.05em;
+    text-transform: uppercase;
+}
+
+.event-day, .event-month, .event-year {
+    display: block;
+    font-weight: 600;
+    line-height: .8;
+    text-align: center;
 }

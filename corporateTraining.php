@@ -19,7 +19,7 @@ Date:        <dd-mm-yyyy>
     <title>Corporate training</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
-<body id="ad-back-img">
+<body>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
@@ -91,7 +91,7 @@ Date:        <dd-mm-yyyy>
 <!-- MAIN CONTENT STARTS -->
 
 
-
+<span class="bgtext">corporateTraining</span>
 
 
 
@@ -267,7 +267,7 @@ Date:        <dd-mm-yyyy>
     <div class="col-md-3">
       
    
-     <form class="ad-r-div">
+     <form class="ad-r-div ">
     
 
     <h3 id="ad-color1" align="center">Contact  Us</h3>

@@ -16,12 +16,12 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <title>FAQ one</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
   	<!-- Left bar starts -->
-     <div class="left-bar">
+     <div class="left-bar"> 
       <div class="image1">
         <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext"> Background Text </span>
+
 
 
 
@@ -98,8 +98,79 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
+<span class="bgtext">FAQ's </span>
+<div class="container">
+  <h1>FAQ's</h1>
+  <hr><hr><hr>
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse1">How do I get started?</a>
+        </h4>
+      </div>
+      <div id="collapse1" class="panel-collapse collapse">
+        <div class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dicta iste ipsam. Corrupti odit itaque neque eaque asperiores tempore, perferendis voluptate laboriosam commodi esse ratione! A libero suscipit sint dignissimos.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure iusto maiores, animi aliquam quaerat alias beatae autem harum necessitatibus pariatur doloremque exercitationem possimus aspernatur, sint aperiam. Rem porro doloribus voluptatum.
+        </div>
+      </div>
+    </div>
 
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse2">What is Laker?</a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+        <div class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates nihil eius provident impedit magni minima molestiae ratione, vero, quae eos reiciendis esse tempore quas accusamus facere expedita. Provident, sint vitae.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa reiciendis qui ipsam quos itaque provident libero, molestiae modi hic deserunt, nobis placeat culpa eum accusantium quo voluptate a quod expedita.
+        </div>
+      </div>
+    </div>
 
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse3">Ok, I've downloaded all that, now what am I looking at?</a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, quis voluptatum? Facere cumque ad reiciendis obcaecati exercitationem eius at explicabo repellendus id, voluptatibus libero. Rem quaerat fuga doloremque. Esse, corporis?
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam eos atque sunt repellat quod accusamus corrupti tempore et commodi nulla. Possimus ex aliquid mollitia doloribus deleniti repellendus, exercitationem hic a!
+        </div>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse4">What is the books folder? Why is it so important?</a>
+        </h4>
+      </div>
+      <div id="collapse4" class="panel-collapse collapse">
+        <div class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, iure consequuntur! Officia eaque, ea obcaecati culpa ratione est consectetur explicabo nostrum error ipsum odit dicta. Eligendi iste voluptatem similique quibusdam.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum nam eligendi nobis quis doloremque aspernatur accusamus earum sapiente rem iure expedita, nemo laboriosam, voluptates harum sint dicta voluptate? Adipisci, ab!
+        </div>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse5">HELP! My books folder is empty! What do I do?</a>
+        </h4>
+      </div>
+      <div id="collapse5" class="panel-collapse collapse">
+        <div class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, id? Odio architecto porro amet corporis quidem magnam sapiente quae. Voluptas deleniti eos unde dolore velit in, praesentium eligendi fugiat possimus.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit molestias quasi harum pariatur quod tenetur delectus sequi voluptatum perferendis quis. Dolorem corporis veniam est consequuntur fugiat, expedita fuga quam odit!
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+    
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 
