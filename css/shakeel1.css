@@ -1,10 +1,9 @@
 
-hr{
-
-}
 .sab-heading{
 		margin-top:35px; 
 	}
+
+
 
 
 .sab-heading p{
@@ -22,14 +21,15 @@ hr{
 }
 
 
- .sab-heading h2{
-	margin-top:10px; 
-	text-align:center;
 
 
-}	
-.sab-heading2{
-	margin-top:5%; 
+.jumbotron{
+   text-align:center; 
+	background-image:url("../images/parallax.jpeg");
+	color:white;
+   height:500px;
+    background-size: cover;
+ 
 }
 
 
@@ -39,11 +39,20 @@ hr{
 
 
 
-/*.sab-img img{
- 	transition-duration:1s;
- 	transform:scale(1);
- }*/
 
+
+
+
+
+ .sab-heading h2{
+	margin-top:10px; 
+	text-align:center;
+
+
+}	
+.sab-heading2{
+	margin-top:5%; 
+}
 
 .sab-para{
 position:relative; 
@@ -67,22 +76,30 @@ top:20px;
 }
 
 
-
 .img-class
  {
  margin-top:50px; 
  margin-left:30px; 
  position: relative;
- border: 1px solid #333;
+ border: 2px solid #ccc;
+ border-radius:10px; 
  overflow: hidden;
- width: 400px;
- height:269px;
+ width: 360px;
+ height:230px;
+
  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
  }
 
  .img-class img {
-  max-width: 100%;
+
+
+   bottom:12px; 
+  
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+ height:240px; 
   
 }
  
@@ -96,9 +113,6 @@ top:20px;
 
  }
 
-
-
-
 .sab-img p{
     margin-left:10%;
     margin-top:10px; 
@@ -106,12 +120,9 @@ top:20px;
 
 }
 
-
 .sab-heading2 h2{
 	text-align:center; 
 }
-
-
 
 .sab-span1{
 	color:#D70000;
@@ -121,38 +132,7 @@ top:20px;
 	left:15px;
 	
 }
-#sab-booksimage{
-padding-top:12.3px; 
-height:93.5%;
-}
-
-#sab-images1{
-	margin-top:12.5px; 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
- .imageclass1{
- 	margin-top:12px; 
- 	border: 1px solid #333;
- overflow: hidden;
- width: 300px;
- height:250px;
- box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
- }
-*/
+		
 
 .imageclass1
  {
@@ -168,8 +148,7 @@ margin-top:13px;
  }
 
  .imageclass1 img {
-   position: relative;
-   bottom:12px; 
+   position: relative; 
   width: 100%;
   -moz-transition: all 0.3s;
   -webkit-transition: all 0.3s;
@@ -177,7 +156,7 @@ margin-top:13px;
   height:100%; 
 }
 
-#sab-images1:hover {
+.imageclass1 img:hover {
  	opacity:.5;
    cursor:pointer;
    overflow:hidden;
@@ -186,3 +165,58 @@ margin-top:13px;
  	
 
  }
+
+.imageclass2{
+	margin-top:13px; 
+
+ border: 1px solid #333;
+ overflow: hidden;
+ width: 300px;
+ height:91.5%;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.imageclass2 img {
+   position: relative;
+	 
+  width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  height:100%; 
+}
+.imageclass2 img:hover {
+opacity:.5;
+   cursor:pointer;
+   overflow:hidden;
+ 	transition-duration:1s;
+ 	transform:scale(1.1);
+ }
+
+
+
+
+
+
+
+.wrapper{
+	font-family: sans-serif;
+	width:80%;
+	margin:0 auto;
+	position:relative; 
+}
+.wrapper img{
+	opacity:0.5;
+/*	display: block;*/
+	width: 100%;
+	height: auto;
+	transition: .5s ease;
+
+}
+.centered{
+	position: absolute;		
+	left: 45%;
+	bottom:50%;
+	color:blue;
+
+	
+}

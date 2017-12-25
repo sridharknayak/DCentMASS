@@ -109,13 +109,26 @@ Date:        <dd-mm-yyyy>
 		<p>Tech Talks is an independent community that unites IT professionals</p>
 	     <p>and initiates knowledge-sharing events. First organized in 2015, Tech Talks began as a series of small technology meet-ups and has grown to a vibrant community of IT gurus who are mad about the latest developments in programming languages, frameworks, and technologies that shape the future of software industry.</p>	
     </div>
+
 	
 
 </div>
 </div>
 </div>
 
- <div class="container sab-container2">
+
+<div class="container">
+  <div class="jumbotron">
+     <h1>hello</h1>
+  </div>
+  
+</div>
+
+
+
+
+
+ <div class="container">
  <div class="row">
  	<div class="col-md-12 sab-heading">
         <h2>RECENT TALKS</h2>
@@ -123,6 +136,29 @@ Date:        <dd-mm-yyyy>
       </div>
   </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <div class="container sab-container3">
   <div class="row">
  
@@ -139,11 +175,16 @@ Date:        <dd-mm-yyyy>
 </div>
   	
   	<div class="col-md-5 sab-img">
+ 
 
+  
 
   	<div class="img-class">	
   <img src="images/cellular-education-classroom-159844 (1).jpeg" class="img-fluid">
       </div>
+    <!--   <div class="content" style="position:absolute;top:22%;left:43%;color:#fff;white-space:nowrap;font-size:60px;  ">
+        title<a>ajfba</a>
+       </div> -->
     
       <p class="sab-para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
@@ -163,19 +204,23 @@ Date:        <dd-mm-yyyy>
 
 <div class="container">	
 <div class="row">
-<div class="col-md-4">
-	<img src="images/books.jpeg" id="sab-booksimage">
+<div class="col-md-4 sab-img3">
+  <div class="imageclass2">
+	<img src="images/books.jpeg" class="img-fluid">
+</div>
 </div>
 <div class="col-md-4 sab-img2">
 <div class="row">
   <div class="imageclass1">
-		<img src="images/javacoding.jpeg" class="img-fluid" id="sab-images1" >
+		<img src="images/javacoding.jpeg" class="img-fluid">
 </div>
 		</div>
 
 		<div class="row">
-		<img src="images/photoshop.jpeg"  class="img-fluid" id="sab-images1"  >
-		
+      <div class="imageclass1">
+		<img src="images/photoshop.jpeg" class="img-fluid">
+    <h1>hello</h1>
+		</div>
 		</div>
 	
 	
@@ -184,31 +229,37 @@ Date:        <dd-mm-yyyy>
 <div class="col-md-4 sab-img2">
 	
 	<div class="row">
-		<img src="images/html.jpeg" class="img-fluid" id="sab-images1" >
+    <div class="imageclass1">
+
+		<img src="images/html.jpeg" class="img-fluid">
+  </div>
 		</div>
 		<div class="row">
-		<img src="images/darkness1.jpeg" class="img-fluid" id="sab-images1"  >
+
+       <div class="imageclass1">
+		<img src="images/darkness1.jpeg" class="img-fluid" >
 		</div>
 
+
 </div>
 </div>
 </div>
 
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+  <div class="computer">
 
+  <img src="images/pexels-photo.jpg" class="img-fluid">
+  <div class="row">
 
+ <p style="position:absolute;bottom:34%;font-size:50px;font-weight:bold;left:35%;color:yellow">center</p>
+  </div>
+</div>
+</div>
 
-
-
-
-
-
-
-
-
-
-   
-
-
+</div>
+</div>
 
 
 
