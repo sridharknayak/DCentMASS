@@ -20,6 +20,7 @@ Date:        <dd-mm-yyyy>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
+  <img src="images/sumaiya_images/media.png" style="position: fixed;"/>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
@@ -89,10 +90,11 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
+<br><br><br>
 <div class="row">
-  <div class="col-md-12"><h1>OUR VIDEOS</h1></div>
+  <div class="col-md-12"><center><h1>OUR VIDEOS</h1></div></center>
 </div>
-                        
+ <br>                       
 <div class="row">
 
   <div class="col-md-4">
