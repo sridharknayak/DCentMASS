@@ -24,20 +24,22 @@ Date:        15/12/17
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
+      <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">DCent MASS</a></li>
-        <li><a href="#">Our Services</a></li>
-        <li><a href="#" class="activeLink">Student Hub</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
-      </ul>
+      <!-- User class="activeLink" to make links active -->
+      <li><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
+      <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
+      <li><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
+      <li class="activeLink"><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
+      <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
+      <li><a href="#"><i class="material-icons">event</i><span class="menuText">Events</span></a></li>
+      <li><a href="#"><i class="material-icons">perm_media</i><span class="menuText">Media</span></a></li>
+      <!-- <li><a href="#">Forum</a></li> -->
+      <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
+      <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
+      <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
+    </ul>
      </div>
      <!-- Left bar ends -->
 <!-- Mobile bar starts here -->
@@ -55,6 +57,7 @@ Date:        15/12/17
         <li><a href="#">Forum</a></li>
         <li><a href="#">Contact Us</a></li>
         <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
+  </ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
@@ -87,12 +90,17 @@ Date:        15/12/17
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
-
+<span class="bgtext"> Must Know</span>
 <!-- WRITE MAIN CONTENT HERE -->
-
-<div class="col-md-12">
-<img src="images/i2.png" alt="" class="nad-img2 img-fluid pull-right">
-<h1>Must Know</h1>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-9 col-sm col-xs-6">
+      <span class="main-heading">Must Know</span>
+    </div>
+    <div class="col-md-3 col-sm col-xs-6">
+      <img src="images/i2.png" alt="" class="nad-img2 img-fluid float-right">
+    </div>
+  </div>
 </div>
 
 
@@ -100,12 +108,12 @@ Date:        15/12/17
  
 <div class="col-md-12">
 <hr>
- <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
+ <span class="para"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel maxime quidem enim delectus labore similique at, obcaecati soluta tempora facilis, eum vitae? Sint eligendi cumque doloribus! Atque excepturi libero eaque!
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit optio delectus quidem veniam, ad excepturi incidunt, nisi non harum ut cumque ipsa, eum tempore et vitae doloremque? Aut, quia. Quas!
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati eligendi sed veritatis fugiat ipsa temporibus. Quasi aspernatur magnam doloremque, architecto harum deleniti nobis hic, expedita, inventore non ut et consequatur!
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maiores consequuntur error maxime? Officiis aspernatur provident consectetur. Ea voluptatum sit adipisci ipsum quaerat rem facere quos eius a.
-</p>
+</span>
 <hr>
 </div>
 </div>
@@ -146,7 +154,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maior
 <h4>10) Don't appear desperate</h4>
 <p>When you interview with the "please, please hire me" approach, you appear desperate and less confident. Reflect the three Cs during the interview: cool, calm and confidence. You know you can do the job; make sure the interviewer believes you can, too.
 </p>
-<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<hr>
 </div>
 
 <div id="nad-section2" class="container-fluid">
@@ -183,7 +191,7 @@ Remember, if you do not fully understand the logic behind the challenge and you 
 To get ahead in your preparation you need to analyse any weaknesses in your knowledge of maths, mental arithmetic and problem solving. Any deficiencies in any of these areas may significantly impact on your ability to solve the questions and ultimately will lower your score. For example, if you have gaps in knowledge of sums and you have good mental or reasoning intellect then you are likely to fail because numbers cannot be manipulated except the rules of maths. Contrary, if you have good knowledge of arithmetic, that is, you know how to use percentages, fractions or other related arithmetic operations whereas your mental or reasoning abilities are not developed to the level that is required for numerical aptitude test, then your score is not likely to be high
 Therefore, to improve your performance you need to acquire, develop or strengthen math, mental arithmetic and problem solving skills and work through types of exam papers that may come up in your official numerical aptitude exercise
 </p>
-<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<hr>
 </div>
   
 <div id="nad-section3" class="container-fluid">
@@ -196,7 +204,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h4>Technical Evaluators (TEs) </h4> 
   <p>Responsible for ensuring a complete, fair, and impartial technical evaluation of all proposals.  TEs will conduct an autonomous in‑depth review and evaluation of the merits of each proposal against the approved factors / subfactors and standards of the RFQ and the SOW.  Prepare written assessments that are consistent with and conclusively support their evaluations.  This information may be utilized for debriefing unsuccessful offerors as well as helping the Contracting Officer determine the overall best value.  
 </p>
-  <a href="#nad-section2" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+<hr>
 </div>
 
 <div id="nad-section4" class="container-fluid">
@@ -214,7 +222,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
   <h3> FORMAT </h3>
   <img src="images/r1.png" alt="" class="img-fluid"><br/>
   <center><img src="images/r2.png" alt="" class="img-fluid"></center>
-  <a href="#nad-section3" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>
+  <hr>
 </div>
 
 <div id="nad-section5" class="container-fluid">
@@ -253,8 +261,7 @@ Therefore, to improve your performance you need to acquire, develop or strengthe
 <h4>Negotiation and Conflict Resolution</h4>
 <p>This is another of those soft skills which employers look for in potential leaders. To be an adept negotiator is to know how to be persuasive and exert influence, while sensitively seeking a solution which will benefit all parties. Similarly, conflict resolution depends on strong interpersonal skills and the ability to establish a rapport with colleagues and clients alike.
 </p>
-<a href="#nad-section4" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">UP</button></a>  
-<a href="#" class="nad-nad-btnpad1"><button class="btn btn-success" type="submit">Top</button></a>
+<hr>
 </div>
   </div>
 </div>

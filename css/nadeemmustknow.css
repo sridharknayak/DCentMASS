@@ -1,13 +1,13 @@
 .nad-sb2{
-    background-color: #fff;
+    background-color: rgb(53, 3, 110);
 }
 
 .nad-sbi{
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .nad-sb2:hover{
-    background-color: rgb(255, 0, 0);
-    color: white;
+    background-color: rgb(6, 68, 6);
+    color: rgb(255, 255, 255);
     
 }

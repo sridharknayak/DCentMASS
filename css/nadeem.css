@@ -1,18 +1,39 @@
 .nad-bgimg1{
-   opacity: 0.4;
+   opacity: 0.3;
+}
+
+.nad-h1{
+    margin-top: 15px;
 }
 
 .nad-thumbnail {
     position: relative;
 }
 
+.nad-btnrc{
+    margin-top: 2px;
+}
+
 .nad-img2{
-    width: 15%;
+    width: 30%;
+    margin-top: 10px;
 }
 
 .nad-imgr{
     width: 100%;
-    opacity: 0.8;
+    opacity: 0.5;
+}
+
+.nad-headerfaq{
+    background-color: #67c7ff;
+    color: white;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.nadi6{
+    width: 100%;
 }
 
 .nad-caption {
@@ -22,7 +43,11 @@
     width: 100%;
 }
 
-.nadj p{
+.nadj, .nadj2 p{
+    font-size: 15px;
+}
+
+.nadj1 p{
     font-size: 15px;
 }
 
@@ -41,8 +66,39 @@
     background-color: #a4f0ca;
 }
 
-#nad-section1 {padding-top:10px;min-height:100%;color: black; background-color: #f7d3dc;}
-#nad-section2 {padding-top:10px;min-height:100%;color: black; background-color: #c9bbf5;}
-#nad-section3 {padding-top:10px;min-height:100%;color: black; background-color: #a4f0ca;}
-#nad-section4 {padding-top:10px;min-height:100%;color: black; background-color: #e9c378;}
-#nad-section5 {padding-top:10px;min-height:100%;color: black; background-color: #edeea7;}
+#nad-section1 {padding-top:10px;color: black; background-color: #ffffff;}
+#nad-section2 {padding-top:10px;color: black; background-color: #ffffff;}
+#nad-section3 {padding-top:10px;color: black; background-color: #ffffff;}
+#nad-section4 {padding-top:10px;color: black; background-color: #ffffff;}
+#nad-section5 {padding-top:10px;color: black; background-color: #ffffff;}
+
+.nad-listg{
+    width: 23%;
+    height: 100%;
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+    position: relative;
+
+}
+
+#nad-secfaq1{padding-top:10px;color: black; background-color: #dd1313;}
+#nad-secfaq2{padding-top:10px;color: black; background-color: #7114db;}
+#nad-secfaq3{padding-top:10px;color: black; background-color: #3616c7;}
+#nad-secfaq4{padding-top:10px;color: black; background-color: #eb13d9;}
+#nad-secfaq5{padding-top:10px;color: black; background-color: #e1f71c;}
+
+
+.bgtext{
+    font-size: 100px;
+    opacity: 0.2;
+    position: fixed;
+    margin-top: 100px;
+    z-index: -1;
+    font-weight: bold;
+    display: block;
+    font-family: "Roboto";
+}
+
+/* 
+Section Scroll */
