@@ -89,7 +89,7 @@ Date:        14/12/17
   <div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
-<span class="bgtext">How It Works</span>
+<span class="bgtext">How It Works </span>
 <!-- WRITE MAIN CONTENT HERE -->
 <div class="row" id="box-search">
 <div class="nad-thumbnail text-center">
