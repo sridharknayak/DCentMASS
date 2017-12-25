@@ -14,12 +14,22 @@ html {
     margin-right: 224px;
 }
 
+.menuText {
+    display: block;
+    height: 15px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.left-bar i {
+    font-size: 20px;
+}
 
 .left-bar{
    height: 100%;
    position: fixed;
    width: 112px;
-   background: #025863;
+   background: #000;
    color: #ffffff;
 }
 
@@ -32,12 +42,12 @@ html {
 ul{
   padding: 0px;
 }
-
-.left-bar ul>li>a{
+ 
+.left-bar ul>li>a, .sidenav ul>li>a{
   padding: 10px 0px;
   display: block;
-  border-bottom:  2px solid #06f;
-  text-align: left;
+  border-bottom:  1px solid #333;
+  /* text-align: left; */
   text-align: center;
   font-weight: bold;
   transition-timing-function: linear;
@@ -46,13 +56,22 @@ ul{
   text-decoration: none;
 }
 
-.left-bar ul>li:hover a{
+.left-bar ul>li>a>i, .sidenav ul>li>a>i{
+    color: #f00;
+  }
+
+.left-bar ul>li:hover a, .sidenav ul>li:hover a{
     background: #f00;
-    border-bottom:  2px solid #f00;
+    border-bottom:  1px solid #f00;
     color: #fff;
     text-decoration: none;
     transition-timing-function: ease;
     transition: 0.1s;
+  }
+
+  .left-bar ul>li:hover a i, .sidenav ul>li:hover a i{
+    color: #fff;
+    
   }
 
 .right-bars {
@@ -113,7 +132,7 @@ a .rightMenuBlocks {
     z-index: 1;
     top: 0;
     left: 0;
-    background: #025863;
+    background: #000;
     color: #ffffff;
     overflow-x: hidden;
     transition: 0.5s;
@@ -141,7 +160,55 @@ a .rightMenuBlocks {
     background: #f00;
 }
 
+
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+.activeLink>a {
+    border-bottom:  1px solid #f00 !important;
+    background: #f00;
+}
+.activeLink>a i {
+    color: #fff !important;
+}
+
+
+/* Content Styles */
+
+.main-heading{
+font-size: 50px;
+font-family: "Titillium Web";
+color: #000;
+font-weight: bold;
+text-align: left;
+display: block;
+}
+
+.sub-heading{
+font-size: 30px;
+font-family: "Poppins";
+color: #000;
+text-align: left;
+display: block;
+}
+
+.para-heading{
+font-size: 20px;
+font-family: "Roboto";
+color: #000;
+font-weight: bold;
+display: block;
+}
+
+.para{
+font-size: 15px;
+font-family: "Open Sans";
+color: #333;
+text-align: justify;
+display: inline;
+}
+
+
