@@ -293,7 +293,7 @@ padding: 25px;
     border-style: solid;
     border-width: 1px;
 }
-#event-date-title {
+/*#event-date-title {
     display: table;
     margin: 15px 20px 10px;
 }
@@ -305,7 +305,8 @@ padding: 25px;
     vertical-align: middle;
     border-right: solid 2px #830065;
     box-sizing: border-box;
-}
+}*/
+/*
 
 .event-day {
     font-size: 1.9em;
@@ -356,3 +357,87 @@ padding: 25px;
     line-height: .8;
     text-align: center;
 }
+*/
+
+#ad-boxshadow
+{
+  padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+}
+/*.event-date-seprator {
+    font-size: 1.9em;
+    font-weight: 700;
+    line-height: 0.5em;
+    margin-left: 8px;
+    
+    color: #830065;
+    vertical-align: top;
+}*/
+
+#ad-hrverticle2
+{
+  border-right:1px red solid; 
+ padding-left:5px;
+ padding-top:0px;
+}
+#ad-comma
+{
+  font-size:30px;
+  opacity:0.2;
+}
+#ad-boxshadow
+{
+    padding: 10px;
+    box-shadow: 5px 5px  #888888;
+  }
+  #ad-eventmont
+  {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left:1px;
+  }
+  #ad-fontweight
+  {
+    font-weight: bold;
+  }
+  #ad-hrstyle
+  {
+    width:50px; 
+    float: left;
+  }
+  #ad-eventtime
+  {
+    margin:0.8em;
+    line-height: -5px;
+     margin-top: 0;
+      text-indent: 2em;
+      padding: 0 5px 0 5px;
+  }
+  #ad-eventday
+  {
+    line-height: -5px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  #ad-year
+  {
+    font-weight: bold;
+  }
+  #ad-hrleftside
+  {
+    width: 50px;
+     float: left;
+  }
+  #ad-eventtime2
+  {
+    margin:0em;
+    line-height:0px;
+     margin-top:0; 
+    text-indent:  2em;
+                         padding: 0 5px 0 5px;
+  }
+  #ad-textcenet
+  {
+    padding-top:50px;
+    font-size:20px;
+  }

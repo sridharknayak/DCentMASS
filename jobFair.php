@@ -91,6 +91,7 @@ Date:        18/12/17
 
 
 
+<span class="bgtext">jobFair</span>
 
 
 
@@ -111,7 +112,7 @@ Date:        18/12/17
   <div class="ad-container">
         <h1 id="ad-h-font"> WE WANT TO</h1>
    
-   <h1 id="ad-h-font">GIVE YOU</h1>
+   <h1 id="ad-h-font">GIVE YOU </h1>
    <hr id="ad-hrline">
    
 
