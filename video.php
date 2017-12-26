@@ -20,7 +20,6 @@ Date:        <dd-mm-yyyy>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-  <img src="images/sumaiya_images/media.png" style="position: fixed;"/>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">

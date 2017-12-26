@@ -90,7 +90,7 @@ Date:        <dd-mm-yyyy>
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 <center><h1>Online Training</h1></center><br>
-<!--Video Section-->
+<!--Video Section
 <section class="content-section video-section">
   <div class="pattern-overlay">
   <a id="bgndVideo" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=7mNu1DaTVDY',containment:'.video-section', quality:'large', autoPlay:true, mute:true, opacity:1}">bg</a>
@@ -103,7 +103,7 @@ Date:        <dd-mm-yyyy>
     </div>
   </div>
 </section>
-<!--Video Section Ends Here-->
+Video Section Ends Here-->
 
 
 <h2>Web-based training anytime, anywhere.</h2>
@@ -126,7 +126,7 @@ Date:        <dd-mm-yyyy>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
@@ -136,7 +136,7 @@ Date:        <dd-mm-yyyy>
       </div>
     </div>
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
@@ -146,7 +146,7 @@ Date:        <dd-mm-yyyy>
       </div>      
   </div>
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
@@ -156,7 +156,7 @@ Date:        <dd-mm-yyyy>
     </div>
   </div>
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
@@ -169,7 +169,7 @@ Date:        <dd-mm-yyyy>
   <h4>BACK_END COURSES</h4>
    <div class="row">
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
@@ -179,9 +179,9 @@ Date:        <dd-mm-yyyy>
       </div>
     </div>
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
-        <div class="card-body">
+        <div class="card-body">                    
         <h4 class="card-title">Card title</h4>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         <a href="#" class="btn btn-primary">Explore more</a>
@@ -189,7 +189,7 @@ Date:        <dd-mm-yyyy>
       </div>
   </div>
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
@@ -199,7 +199,7 @@ Date:        <dd-mm-yyyy>
     </div>
   </div>
     <div class="col-md-3">
-      <div class="card" style="width: 15rem;">
+      <div class="onlinecard" style="width: 15rem;">
         <img class="card-img-top" src="images/sumaiya_images/1.jpeg" height="150px" alt="Card image cap">
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
