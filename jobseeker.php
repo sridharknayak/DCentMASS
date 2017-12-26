@@ -232,7 +232,7 @@ Date:        <dd-mm-yyyy>
 	</div>
 </div>
 <?php include_once("script.php"); ?>
-<?php include_once("script.php"); ?>
+
 
 
 </body>
