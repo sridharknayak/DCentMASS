@@ -1,0 +1,59 @@
+.stscardrow{
+  border-spacing:5px;  
+  margin:0px;
+  
+  
+}
+  
+  
+  
+  .stscards { box-shadow: 2px 2px black, 0 6px 20px 0 rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 10px;
+    padding:10px;
+    border-spacing: 0px;
+    background-color:#F1F1F1;  
+  }
+
+  
+
+.stscardcol{padding:5px;
+  
+}
+
+
+
+/*our team*/
+
+.ststcards { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    border-radius: 10px;
+    padding:0px;
+    border-spacing: 0px;
+
+  }
+
+  .ststcardrow{
+           border-spacing:5px;  
+           margin:0px;
+}
+
+.ststcardcol{padding:5px
+}
+
+
+
+                                    /*RPO*/
+.stsiscards { box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    border-radius: none;
+    padding:10px;
+    border-spacing: 0px;
+    margin:0px;
+    background-color:#FFFFFF;
+  }
+
+.stsiscardcol {padding:0px;}
+
+
+                                                   /*project*/
