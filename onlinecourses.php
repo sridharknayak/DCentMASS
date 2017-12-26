@@ -29,7 +29,7 @@ Date:        <dd-mm-yyyy>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
+        <img src="images/dcentmass_png.png"  class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
@@ -43,7 +43,7 @@ Date:        <dd-mm-yyyy>
         <!-- <li><a href="#">Forum</a></li> -->
         <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
         <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
-        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->    
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -128,6 +128,11 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
+
+
+
+
+
 
 
 
