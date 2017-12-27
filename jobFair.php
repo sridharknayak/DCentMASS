@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
-Date:        <dd-mm-yyyy>
+Author name: Asgar
+E-mail ID:   asagardesaisourceus@gmail.com
+Date:        18/12/17
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Single Scrolling</title>
+    <title>Job Fair</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -25,7 +25,7 @@ Date:        <dd-mm-yyyy>
       <div class="image1">
         <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
-      <ul>
+     <ul>
         <!-- User class="activeLink" to make links active -->
         <li class="activeLink"><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
         <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
@@ -53,10 +53,9 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-        <!-- <li><a href="#">Forum</a></li> -->
-        <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
-        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
-  </ul>
+        <li><a href="#">Forum</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
@@ -89,45 +88,72 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext"> Background Text </span>
 
 
+
+<span class="bgtext">jobFair</span>
 
 
 
 
 
 <!-- WRITE MAIN CONTENT HERE -->
+   
+     <div  class="row">
+    
+       <div class="col-md-9 " id="ad-backgroundimg" style="min-height: 780px;" >
+      
+    
+ 
+    
+    <br>
+    <br>
+    <br>
+  <div class="ad-container">
+        <h1 id="ad-h-font"> WE WANT TO</h1>
+   
+   <h1 id="ad-h-font">GIVE YOU </h1>
+   <hr id="ad-hrline">
+   
 
-<nav id="section-menu">
-  <ul></ul>
-</nav>
-<section id="section-one" class="section scroll-item" title="One">
-  <div class="inner">
-    <h2>One</h2>
-  </div>
-</section>
-<section id="section-two" class="section scroll-item" title="Two">
-  <div class="inner">
-    <h2>Two</h2>
-  </div>
-</section>
-<section id="section-three" class="section scroll-item" title="Three">
-  <div class="inner">
-    <h2>Three</h2>
-  </div>
-</section>
-<section id="section-four" class="section scroll-item" title="Four">
-  <div class="inner">
-    <h2>Four</h2>
-  </div>
-</section>
-<section id="section-five" class="section scroll-item" title="Five">
-  <div class="inner">
-    <h2>Five</h2>
-  </div>
-</section>
-<script type="text/javascript" src="script.js"></script>
+   
+   <h1 id="ad-h-font"> A JOB!</h1>
+    <h5 style="font-size: 13px; font-weight: bold;">&nbspIMMEDIATE HIRING</h5>
+    <br>
+    
+    <h3 id="ad-P-heading"> Email Us :<a href="#">hiring@dcentmass.com</a></h3>  
+
+      <br>
+      <br>
+   <hr id="ad-hrline">
+    <h4 id="ad-P-heading2">Address: No.158, Near</h4>
+    <h4 id="ad-P-heading2"> Ashoka gardan.,
+     Dharwad Rd,</h4>
+    <h4 id="ad-P-heading2"> Haliyal, Karnataka 581329</h4>                   
+     <h4 id="ad-P-heading2">Open: 24 hours</h4>
+    <h4 id="ad-P-heading2">Phone: 084958 13777 </h4>
+       
+       </div>
+      
+   </div>
+
+   <div class="col-md-3 " style="min-height:780px;background-color: #0e5e96;">
+    <br>
+    <br>
+    <br>
+    <br>
+    
+   <center font-weight="bold">  <img class=" img-fluid" src="images/winnew.png" ></center>
+  <center id=" ad-P-heading"> <h3>  New begining.</h3>
+<h3 >New mindest.</h3>
+<h3>New focus.</h3>
+<h3>New start.</h3>
+<h3>New intenstion.</h3>
+<h3>New result.</h3></center>
+   </div>
+
+   </div>
+
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 
