@@ -11,4 +11,4 @@
 1. git push //Sync repo from computer to github
 1. git add . or git add .a //To stage all file status'
 1. git commit -m "message" //To commit your code(Locally) with message.
-1. git log // To brows previous commits
+1. git log // To browse previous commits
