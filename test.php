@@ -89,27 +89,16 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+<span class="bgtext">Test</span>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-
-
-
-
-<!-- WRITE MAIN CONTENT HERE -->
-
-
-
-<!-- NOTE: Please keep your code clean + readable and add comments -->
-
-
-
-
-
-
-
-
+<form action="#">
+  <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+    <input class="mdl-textfield__input" type="text" id="sample3">
+    <label class="mdl-textfield__label" for="sample3">Enter your name</label>
+  </div>
+</form>
 
 
 <!-- MAIN CONTENT ENDS -->
