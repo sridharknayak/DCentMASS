@@ -1,8 +1,8 @@
 <?php
 /*
-Author name: Asgar
-E-mail ID:   asagardesaisourceus@gmail.com
-Date:        18/12/17
+Author name: <Your name>;
+E-mail ID:   <Your E-mail ID>
+Date:        <dd-mm-yyyy>
 */
 /////////////////////////////////////////////////////////
 //include_once("variables.php");
@@ -16,7 +16,7 @@ Date:        18/12/17
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Job Fair</title>
+    <title>Title</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -25,7 +25,7 @@ Date:        18/12/17
       <div class="image1">
         <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
-     <ul>
+      <ul>
         <!-- User class="activeLink" to make links active -->
         <li class="activeLink"><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
         <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
@@ -53,9 +53,10 @@ Date:        18/12/17
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
+  </ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
@@ -88,71 +89,35 @@ Date:        18/12/17
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
+<span class="bgtext"> Projects </span>
 
 
-
-<span class="bgtext">jobFair</span>
 
 
 
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-   
-     <div  class="row">
-    
-       <div class="col-md-9 " id="ad-backgroundimg" style="min-height: 780px;" >
-      
-    
- 
-    
-    <br>
-    <br>
-    <br>
-  <div class="ad-container">
-        <h1 id="ad-h-font"> WE WANT TO</h1>
-   
-   <h1 id="ad-h-font">GIVE YOU </h1>
-   <hr id="ad-hrline">
-   
 
-   
-   <h1 id="ad-h-font"> A JOB!</h1>
-    <h5 style="font-size: 13px; font-weight: bold;">&nbspIMMEDIATE HIRING</h5>
-    <br>
-    
-    <h3 id="ad-P-heading"> Email Us :<a href="#">hiring@dcentmass.com</a></h3>  
 
-      <br>
-      <br>
-   <hr id="ad-hrline">
-    <h4 id="ad-P-heading2">Address: No.158, Near</h4>
-    <h4 id="ad-P-heading2"> Ashoka gardan.,
-     Dharwad Rd,</h4>
-    <h4 id="ad-P-heading2"> Haliyal, Karnataka 581329</h4>                   
-     <h4 id="ad-P-heading2">Open: 24 hours</h4>
-    <h4 id="ad-P-heading2">Phone: 084958 13777 </h4>
-       
-       </div>
-      
-   </div>
+<h1>Projects</h1>
 
-   <div class="col-md-3 " style="min-height:780px;background-color: #0e5e96;">
-    <br>
-    <br>
-    <br>
-    <br>
-    
-   <center font-weight="bold">  <img class=" img-fluid" src="images/winnew.png" ></center>
-  <center id=" ad-P-heading"> <h3>  New begining.</h3>
-<h3 >New mindest.</h3>
-<h3>New focus.</h3>
-<h3>New start.</h3>
-<h3>New intenstion.</h3>
-<h3>New result.</h3></center>
-   </div>
 
-   </div>
+
+
+
+We develop, guide and train students on their final year projects so that they score the best of marke in their final years. Our training is based on live projects and we ensure students get practical knowledge on the working and technical details of the project. We also provide a wide range of free projects for download online so that you may use them to practics at home. Developers at nevonprojects do their best to solve all queries and doubts regarding students final year projects. We excel at final year projects for eee or Ieee. We also make projects as per various ieee papers and suggestions.
+
+
+<div class="row stsiscards" >
+
+<h3>Project Categories</h3> 
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+
+
 
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
