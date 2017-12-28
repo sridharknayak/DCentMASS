@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+<span class="bgtext"> Interview services </span>
 
 
 
@@ -98,42 +98,63 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="row">
-<div class="col-md-10">
-
-  <span class="bgtext"> TALENT HUNT </span>
- <center><img src="images/th2.png"  class="img-fluid">  </center>  
-
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
 
 
-<iframe width="350" height="220" src="#">
-</iframe>
 
-<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
 
+<h1> Interview Services (RPO)</h1>
+<div class="row stsiscards" >
+
+<div class="col-md-6 stsiscardcol" >   
+
+Hudson RPO services allows both large and mid-sized companies to attain a world-class recruitment function. Our recruitment process outsourcing team works seamlessly within your HR management structure. A comprehensive HR solution can manage the entire recruitment lifecycle for your professional-level staff, or you can selectively use our expertise where your business needs it most.
+</div>
+
+<div class="col-md-6">
+   <img src="images/interview-services.jpg" class="img-fluid">
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+<h5>WHY USE RECRUITMENT PROCESS OUTSOURCING SERVICES?</h5>
+
+As business begins to pick up and your company is ready to grow again, your volume of requests for new hires can skyrocket. Most HR departments simply don't have enough bandwidth to cover all of their company's recruiting needs in this situation. Hudson RPO is ready to step into your existing structure to augment the recruitment process throughout the entire enterprise or wherever you need us.
+
+Using recruitment process outsourcing for a department where you have the heaviest need, such as Sales or R&D, can lower your cost and reduce time-to-fill while providing consistency and uniformity within the workforce. Hudson RPO can also manage all the sourcing, screening, and measurement tactics for your entire organization, while your existing HR team handles the interviewing, hiring and on boarding processes. Choosing which portions of the recruitment process you want to outsource, provides the flexibility to decide what is best for your business.
 </div>
 
 
-<div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
-
-    <br> <br>  <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> <br> <br> 
-
-    
-
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/th1.png" class="sridhar-imglast img-fluid"> 
+<div class="container stsiscards">
+<h5>BENEFITS OF RPO SOLUTIONS</h5>
 
 
+<ul style="padding:10px;">
+   <li>Measurable results — SLA and KPI driven metrics and outcomes</li>
+   <li>Lowered cost & shared risk — Flexible and scalable to accommodate your fluctuating needs</li>
+   <li>Reduced time-to-fill — Multi-tiered sourcing strategy accelerates the process</li>
+   <li>Optimized technology — Vendor neutral approach to assessing either existing or new systems</li>
+   <li>System-wide savings — Economies of scale reduce cost</li>
+   <li>Consistency — Streamlines recruiting functions across multiple regions / business units</li>
+   <li>Uniformity — Promotes and protects your branding worldwide</li>
+   <li>Elite talent — Global bandwidth and high-touch approach attract top talent</li>
+   <li>Compliance — Meet industry and governance regulations</li>
+   <li>Centralization — Global account management and vendor management</li>
+   <li>Quality — Use our proprietary assessment tools and interview techniques to find the best person for the job</li>
 
+</ul>
+
+
+
+<h5>ARE RECRUITMENT PROCESS OUTSOURCING SERVICES FOR YOU?</h5>
+<div class="row"    >
+   <div class="col-md-6"> 
+Upon review of your business goals and a formal assessment of your current recruitment management process, we'll recommend a plan of action with all key components tailored to your needs.
 </div>
-<!--   </div> -->
-
-</div>
+<div class="col-md-6">
+   <button class="btn btn-success ">Request a Proposal</button>
 </div> 
+</div>
 
 
 

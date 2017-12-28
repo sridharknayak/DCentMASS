@@ -1,0 +1,73 @@
+/* section video starts*/
+
+.video-section .pattern-overlay {
+background-color: rgba(71, 71, 71, 0.59);
+padding: 110px 0 32px;
+min-height: 496px; 
+
+/* Incase of overlay problems just increase the min-height*/
+
+}
+.video-section h1, .video-section h3{
+text-align:center;
+color:#fff;
+}
+.video-section h1{
+font-size:110px;
+font-family: 'Buenard', serif;
+font-weight:bold;
+text-transform: uppercase;
+margin: 40px auto 0px;
+text-shadow: 1px 1px 1px #000;
+-webkit-text-shadow: 1px 1px 1px #000;
+-moz-text-shadow: 1px 1px 1px #000;
+}
+.video-section h3{
+font-size: 25px;
+font-weight:lighter;
+margin: 0px auto 15px;
+}
+.video-section .buttonBar{display:none;}
+.player {font-size: 1px;}
+
+/* section video ends*/
+
+
+.modal-lg
+{
+	height: 400px;
+}
+
+
+
+/*onlinetraining */
+
+.sumaiya-card {
+  position: relative;
+  width: 15rem;
+  border: 1px solid #333;
+  margin: 2%;
+  overflow: hidden;
+  width: 540px;
+}
+.sumaiya-card{
+  max-width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.sumaiya-card:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+
+
+body {
+        
+      }
+
+.bs-example {
+  margin: 20px;
+}

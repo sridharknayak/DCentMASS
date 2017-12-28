@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+<span class="bgtext"> Projects </span>
 
 
 
@@ -98,42 +98,25 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="row">
-<div class="col-md-10">
-
-  <span class="bgtext"> TALENT HUNT </span>
- <center><img src="images/th2.png"  class="img-fluid">  </center>  
-
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
 
 
-<iframe width="350" height="220" src="#">
-</iframe>
-
-<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
-
-</div>
-
-
-<div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
-
-    <br> <br>  <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> <br> <br> 
-
-    
-
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/th1.png" class="sridhar-imglast img-fluid"> 
+<h1>Projects</h1>
 
 
 
-</div>
-<!--   </div> -->
 
-</div>
-</div> 
+
+We develop, guide and train students on their final year projects so that they score the best of marke in their final years. Our training is based on live projects and we ensure students get practical knowledge on the working and technical details of the project. We also provide a wide range of free projects for download online so that you may use them to practics at home. Developers at nevonprojects do their best to solve all queries and doubts regarding students final year projects. We excel at final year projects for eee or Ieee. We also make projects as per various ieee papers and suggestions.
+
+
+<div class="row stsiscards" >
+
+<h3>Project Categories</h3> 
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+
 
 
 

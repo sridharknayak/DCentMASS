@@ -1,0 +1,40 @@
+Content in:
+    Level 1;
+    Level 2;
+    Level 3;
+
+Level 1:
+    Techonical, Academic, General aptitude, Soft-skills, Market trends, Career paths, Awareness
+
+    Academic: Subjects in year 1: Develop logical thinking; } E Learning module
+
+    Lyllabus for year 1: Identify e learning tracking; example is zoom(is used for online training) site
+
+
+Awareness: Awareness of ALL the fields in IT market. List of stuff;
+
+List of freelance trainers
+
+For online trainign: zoom api
+
+Classroom training:
+1)trainers: Payroll of from DCentMASS
+
+----------------
+
+Best blog writers List
+
+-----
+
+SUCO is a developement company
+-Sports Analitics
+-BOP
+-Web developement
+-Softwarement developement
+-Digital marketin
+
+
+
+[credential]
+  helper = osxkeychain
+  useHttpPath = true

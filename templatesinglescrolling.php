@@ -1,4 +1,4 @@
-<?php
+ <?php
 /*
 Author name: <Your name>;
 E-mail ID:   <Your E-mail ID>
@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <title>Single Scrolling</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+<span class="bgtext"> Background Text </span>
 
 
 
@@ -98,44 +98,36 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="row">
-<div class="col-md-10">
 
-  <span class="bgtext"> TALENT HUNT </span>
- <center><img src="images/th2.png"  class="img-fluid">  </center>  
-
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
-
-
-<iframe width="350" height="220" src="#">
-</iframe>
-
-<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
-
-</div>
-
-
-<div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
-
-    <br> <br>  <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> <br> <br> 
-
-    
-
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/th1.png" class="sridhar-imglast img-fluid"> 
-
-
-
-</div>
-<!--   </div> -->
-
-</div>
-</div> 
-
-
+<nav id="section-menu">
+  <ul></ul>
+</nav>
+<section id="section-one" class="section scroll-item" title="One">
+  <div class="inner">
+    <h2>One</h2>
+  </div>
+</section>
+<section id="section-two" class="section scroll-item" title="Two">
+  <div class="inner">
+    <h2>Two</h2>
+  </div>
+</section>
+<section id="section-three" class="section scroll-item" title="Three">
+  <div class="inner">
+    <h2>Three</h2>
+  </div>
+</section>
+<section id="section-four" class="section scroll-item" title="Four">
+  <div class="inner">
+    <h2>Four</h2>
+  </div>
+</section>
+<section id="section-five" class="section scroll-item" title="Five">
+  <div class="inner">
+    <h2>Five</h2>
+  </div>
+</section>
+<script type="text/javascript" src="script.js"></script>
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 

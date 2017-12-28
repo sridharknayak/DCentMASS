@@ -92,13 +92,15 @@ Date:        15/12/17
 
 <span class="bgtext"> Must Know</span>
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="row">
-<div class="col-md-9">
-<h1 class="nad-h1">Must Know</h1>
-</div>
-<div class="col-md-3">
-<img src="images/i2.png" alt="" class="nad-img2 img-fluid float-right">
-</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-9 col-sm col-xs-6">
+      <span class="main-heading">Must Know</span>
+    </div>
+    <div class="col-md-3 col-sm col-xs-6">
+      <img src="images/i2.png" alt="" class="nad-img2 img-fluid float-right">
+    </div>
+  </div>
 </div>
 
 
@@ -106,12 +108,12 @@ Date:        15/12/17
  
 <div class="col-md-12">
 <hr>
- <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
+ <span class="para"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, aspernatur? Reprehenderit, facere animi voluptas eligendi, corporis rem quaerat dignissimos perspiciatis nemo dolore incidunt eum velit, perferendis sit nihil temporibus. Velit?
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel maxime quidem enim delectus labore similique at, obcaecati soluta tempora facilis, eum vitae? Sint eligendi cumque doloribus! Atque excepturi libero eaque!
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit optio delectus quidem veniam, ad excepturi incidunt, nisi non harum ut cumque ipsa, eum tempore et vitae doloremque? Aut, quia. Quas!
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati eligendi sed veritatis fugiat ipsa temporibus. Quasi aspernatur magnam doloremque, architecto harum deleniti nobis hic, expedita, inventore non ut et consequatur!
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut sint laborum maiores consequuntur error maxime? Officiis aspernatur provident consectetur. Ea voluptatum sit adipisci ipsum quaerat rem facere quos eius a.
-</p>
+</span>
 <hr>
 </div>
 </div>

@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+
 
 
 
@@ -98,46 +98,143 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="row">
-<div class="col-md-10">
+<br>
+<br>
+<br>
+<br>
+<h3>Careers Fair 2017</h3>
+<div class="container-fluid">
+  <hr>
+    <div class="row">
 
-  <span class="bgtext"> TALENT HUNT </span>
- <center><img src="images/th2.png"  class="img-fluid">  </center>  
 
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
+  <div class="col-md-8"> 
+      this is middle content
+      <h4>Why should I attend?s</h4>
+      <div class="container-fluid">
+        <ul>
+          <li>This is your chance to meet employers looking to recruit students and graduates like you</li>
+          <li>Speak to their representatives and see what it is like to work with them, get tips on your applications, and ask questions not covered by their websites</li>
+          <li>Nothing for you?</li>
+        </ul>
+        <li>
+        <strong>Don’t rule yourself out </strong>- lots of employers at the fair welcome applications from any discipline. If nothing appeals to you, come and speak to us at the Careers Service about how you can find out about other opportunities</li>
+       <li>
+        <strong>Don’t rule yourself out </strong>- lots of employers at the fair welcome applications from any discipline. If nothing appeals to you, come and speak to us at the Careers Service about how you can find out about other opportunities</li>
+   <br>
+        <div id="ad-hrverticle"  class="panel">
+          <span id="ad-comma">❝</span>
+          It was an excellent event, with many different employers. I was impressed 
+          by the variety and how many different opportunities I was presented with <span id="ad-comma">❞</span>
+        <br>
+        <br>
+        <cite>&nbsp&nbsp&nbsp-Student attendee 2016</cite>
 
 
-<iframe width="350" height="220" src="#">
-</iframe>
-
-<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
-
+     <div id="ad-boxshadow">
+<p>The inset keyword changes the shadow to one inside the frame.</p>
 </div>
 
 
-<div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
-
-    <br> <br>  <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> <br> <br> 
-
+        </div>
+      </div>
+    </div>
     
+  
 
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/th1.png" class="sridhar-imglast img-fluid"> 
+
+    <div  class="col-md-4" id="ad-hrverticle">
+      <div class="container-fluid" >
+      
+
+       <div class="row" id="ad-boxshadow"> 
+        <div class="col-md-2">
+        <div>
+                   <span id="ad-event-mont">oct</span><br>
+                    &nbsp<span class="event-day" id="ad-eventday" class="event-day">10  <br></span>
+                    <span id="ad-year" class="event-year">2017</span><br><hr><br>
+
+                    <span id="ad-eventtime" class="event-time">11.00</span>
+            
+
+</div>
+   </div> 
+         
+            <div class="col-md-2" id="ad-hrverticle2">
+            
+                <span id="ad-event-mont"" class="event-mont">oct</span><br>
+                    &nbsp<span class="event-day" id="ad-eventday" class="event-day">10  <br></span>
+                    <span id="ad-year" class="event-year">2017</span><br><hr id="ad-hrleftside"><br>
+
+                    <span id="ad-eventtime2" class="event-time">11.00</span>
+                
+              </div>
+              <div class="col-md-8 ">
+               <p align="center" id="ad-textcenet" "> Careers Fair 2017</p>
+
+              </div>
+              <div class="col-md-12">
+                <br>
+              <p align="justify">A two-day event with over 100 employers looking to recruit from the University of Edinburgh. Different exhibitors each day!</p>
+            </div>
+        
+              </div>   
+
+
+
+                 <br>
+                 <div class="panel row" id="ad-boxshadow">
+                    <div class="col-md-2" id="ad-hrverticle2">
+                     <i class="fa fa-home"></i>
+                   </div>
+                   <div class="col-md-10">
+                     <p>DCentMASS<br>
+
+Central Campus<br>
+EH8 9AG</p>
+</div>
+                   </div>
+                 </div>
+                 
+
+
+
+            </div>
+       
+             
+
+ 
+       </div>
+  
+
+
+
+
+
 
 
 
 </div>
-<!--   </div> -->
+ 
 
-</div>
-</div> 
+
+
+
+
+
+
+
+
+
+
 
 
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
+
+
+
+
 
 
 

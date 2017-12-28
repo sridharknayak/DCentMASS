@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+<span class="bgtext"> About Us </span>
 
 
 
@@ -98,42 +98,151 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="row">
-<div class="col-md-10">
-
-  <span class="bgtext"> TALENT HUNT </span>
- <center><img src="images/th2.png"  class="img-fluid">  </center>  
-
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
 
 
-<iframe width="350" height="220" src="#">
-</iframe>
 
-<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
 
+
+<h1>Welcome to DCent Mass</h1>  
+<p>
+There are countless online education marketplaces on the internet. And there’s us. We are not the biggest. We are not the cheapest. But we are the fastest growing. We have the highest course completion rate in the industry.
+</p>
+<p>
+And the reason is, we don’t give up. When a student commits to a course, we commit to the student. We are not going to sugar coat it - we will make you complete, come what may. You may not have given much thought to what you are signing up for, but we believe you are signing up for knowledge that is useful and complete. And what we do, we do to make that belief a reality. We are ridiculously committed to our students. Be it constant reminders, relentless masters or 24 x 7 online support - we will absolutely make sure that you run out of excuses to not complete the course.
+</p>
+
+
+<div class="row stscardrow">
+
+<div class="col-md-4 col-sm-12 col-lg-4 stscardcol " >
+  <div class="stscards" >
+  <h3>Our Mission</h3>
+  <img src="images/mission.png" class="img-circle img-fluid"  width="100%">   
+To create an alternate platform for students who wish to continue and complete courses by attending live online courses, using a team of ridiculously committed educators who will stop at nothing to impart education, helped by a 24 x 7 support system. By deploying our world class team of industry experts, we aim to educate our learners with the skills they need to advance their professional life to the next level.
+ </div>
+ </div>
+  
+ <div class="col-md-4 col-sm-12 col-lg-4 stscardcol ">
+ <div class="stscards" >
+ <h3>Our vision</h3>
+ <img src="images/mission.png" class=" img-circle img-fluid;"  width="100%">   
+To create an alternate platform for students who wish   to continue and complete courses by attending live online courses, using a team of ridiculously committed educators who will stop at nothing to impart education, helped by a 24 x 7 support system. By deploying our world class team of industry experts, we aim to educate our learners with the skills they need to advance their professional life to the next level.
+</div>
 </div>
 
+<div class="col-md-4 col-sm-12 col-lg-4 stscardcol" >
+<div class="stscards" >
+<h3>Our Values</h3>
+<img src="images/mission.png" class="img-circle img-fluid;"  width="100%" >   
+To create an alternate platform for students who wish to continue and complete courses by attending live online courses, using a team of ridiculously committed educators who will stop at nothing to impart education, helped by a 24 x 7 support system. By deploying our world class team of industry experts, we aim to educate our learners with the skills they need to advance their professional life to the next level.
+</div>
+</div>
+</div>
+                                                  <!--Our Team-->
+<h3>Our Team</h3>
+<div class="row ststcardrow" >
 
-<div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
+<div class="col-md-3 col-sm col-lg-3 ststcardcol" >
+  <div class="ststcards">
+  
+  <img src="images/team-name1.jpg" class="img-fluid;"  width="100%">   
+<h4>Jane Doe</h4>
 
-    <br> <br>  <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> <br> <br> 
+<p>CEO & Founder</p>
 
+
+<button class="btn btn-block btn-primary"> View Profile</button>
+ </div>
+ </div>
+
+
+
+ 
+ 
+ <div class="col-md-3 col-sm col-lg-3 ststcardcol" >
+   <div class="ststcards">
+   
+   <img src="images/team-name1.jpg" class="img-fluid;"  width="100%">   
+ <h4>Jane Doe</h4>
+ 
+ <p>CEO & Founder</p>
+ 
+ 
+ <button class="btn btn-block btn-primary"> View Profile</button>
+  </div>
+  </div>
+ 
+
+  
+  <div class="col-md-3 col-sm-1 col-lg-3 ststcardcol" >
+    <div class="ststcards">
     
+    <img src="images/team-name1.jpg" class="img-fluid;"  width="100%">   
+    <h4>Jane Doe</h4>
+  
+  <p>CEO & Founder</p>
+  
+  
+  <button class="btn btn-block btn-primary"> View Profile</button>
+   </div>
+   </div>
+  
 
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/th1.png" class="sridhar-imglast img-fluid"> 
-
-
-
+ 
+   
+   <div class="col-md-3 col-sm-6 col-lg-3 ststcardcol" >
+     <div class="ststcards">
+     
+     <img src="images/team-name1.jpg" class="img-fluid;" width="100%" >   
+     <h4>Jane Doe</h4>
+   
+   <p>CEO & Founder</p>
+   
+   
+   <button class="btn btn-block btn-primary"> View Profile</button>
+    </div>
+    </div>
 </div>
-<!--   </div> -->
 
+
+
+
+                       <!--Our Locations-->
+                       <h3>Our Locations</h3>
+<div class="row ststcardrow" >
+
+<div class="col-md-6  ststcardcol" >
+  <div class="ststcards">
+  
+  <img src="images/location1.jpg" style="width:100%;height:100%;" class=" img-fluid;">   
+<h4>Parris</h4>
+
+<p>CEO & Founder</p>
+
+
+<button class="btn btn-block btn-primary"> View Profile</button>
+ </div>
+ </div>
+
+
+
+ 
+ 
+ <div class="col-md-6 ststcardcol" >
+   <div class="ststcards">
+   
+   <img src="images/location1.jpg" style="width:100%;height:100%;" class=" img-fluid;" >   
+ <h4>San Francisco</h4>
+ 
+ <p>CEO & Founder</p>
+ 
+ 
+ <button class="btn btn-block btn-primary"> View Profile</button>
+  </div>
+  </div>
+ 
 </div>
-</div> 
+
 
 
 

@@ -18,12 +18,18 @@ Date:        <dd-mm-yyyy>
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Title</title>
     <?php include_once("stylesAndFont.php"); ?>
+
+     <style>
+  body {
+      position: relative; 
+  }
+  </style>
 </head>
-<body>
+<body data-spy="scroll" data-offset="50">
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
+        <img src="images/dcentmass_png.png"  class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
@@ -37,7 +43,7 @@ Date:        <dd-mm-yyyy>
         <!-- <li><a href="#">Forum</a></li> -->
         <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
         <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
-        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->    
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -89,7 +95,31 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+<div id="section1" class="container-fluid bg-success" style="padding-top:140px;padding-bottom:140px; height: 700px;">
+  <h1>Section 1</h1>
+
+</div>
+
+<div id="section2" class="container-fluid bg-warning" style="padding-top:140px;padding-bottom:140px; height: 700px;">
+  <h1>Section 2</h1>
+  
+</div>
+
+<div id="section3" class="container-fluid bg-secondary" style="padding-top:140px;padding-bottom:140px;height: 700px;">
+  <h1>Section 3</h1>
+
+</div>
+
+<div id="section41" class="container-fluid bg-danger" style="padding-top:140px;padding-bottom:140px;height:700px;">
+  <h1>Section 4 Submenu 1</h1>
+
+</div>
+
+<div id="section42" class="container-fluid bg-info" style="padding-top:140px;padding-bottom:140px;height: 700px;">
+  <h1>Section 4 Submenu 2</h1>
+  
+</div>                                   
+
 
 
 
@@ -98,42 +128,11 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="row">
-<div class="col-md-10">
-
-  <span class="bgtext"> TALENT HUNT </span>
- <center><img src="images/th2.png"  class="img-fluid">  </center>  
-
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
-
-
-<iframe width="350" height="220" src="#">
-</iframe>
-
-<p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
-
-</div>
-
-
-<div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
-
-    <br> <br>  <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> <br> <br> 
-
-    
-
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/th1.png" class="sridhar-imglast img-fluid"> 
 
 
 
-</div>
-<!--   </div> -->
 
-</div>
-</div> 
+
 
 
 
