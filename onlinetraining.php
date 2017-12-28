@@ -9,7 +9,6 @@ Date:        <dd-mm-yyyy>
 //include_once("checkLoginStatus.php");
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -181,7 +180,7 @@ Date:        <dd-mm-yyyy>
         <div class="card-body">
         <h4 class="card-title">Card title</h4>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Explore more</a>
+        <a href="#" class="btn btn-primary">Explore more </a>
       </div>
     </div>
   </div>
