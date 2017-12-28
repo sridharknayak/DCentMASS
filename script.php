@@ -10,7 +10,8 @@
 <script src="js/sumaiya.js"></script>
 
 <!-- MaterialDesign -->
-<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+<!-- <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 
 <!-- custom script -->
 <script src="js/script.js"></script>
