@@ -102,12 +102,121 @@ Date:        14/12/17
 <div class="row">
 <div class="col-md-12"><br/>
 <h1>How It Works</h1><hr>
-<img src="images/i1.png" class="img-fluid">
-<p>What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-</p>
+<img src="images/workflow.png" class="wfimg img-fluid"><br><hr>
+
+<div class="container-fluid">
+
+<div class="row">
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-4">
+<img src="images/h1.png" class="img-fluid">
+</div>
+<div class="col-md-8">
+<h5>Your Learning Manager Gets in Touch with You</h5>
+<p>Share your learning objectives and get oriented with our web and mobile platform. Talk to your personal learning 
+manager to clarify your doubts.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-4">
+<img src="images/h2.png" class="img-fluid">
+</div>
+<div class="col-md-8">
+<h5>Live Interactive Online Session with Your Instructor</h5>
+<p>Live screensharing, step-by-step live demonstrations and live Q&A led by industry experts. 
+Missed a class? Not an issue. We record the classes and upload them to your LMS.</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-8">
+<h5>Access our Extensive Learning Repository</h5>
+<p>We have pre-populated your learning platform with previous class recordings and presentations. 
+You will have life time access to Edureka's Learning Repository.</p>
+</div>
+<div class="col-md-4">
+<img src="images/h3.png" class="img-fluid">
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-8">
+<h5>It’s Not Just about the Classes, We Make Sure You Practice</h5>
+<p>Quizzes & Assignments help you understand the concepts and solve problems Weekly Assignments & Quizzes are pre-loaded 
+in your learning platform.</p>
+</div>
+<div class="col-md-4">
+<img src="images/h4.png" class="img-fluid">
+</div>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-4">
+<img src="images/h5.png" class="img-fluid">
+</div>
+<div class="col-md-8">
+<h5>Have a problem? Our Support Ninjas Are There to Help You 24 X 7</h5>
+<p>We have in-house expert Teaching Assistants to resolve all your queries. 
+Reach out to us by raising a ticket from your learning platform. Edureka provides life time learning assistance.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-4">
+<img src="images/h6.png" class="img-fluid">
+</div>
+<div class="col-md-8">
+<h5>Solve an Industry Live Use Case</h5>
+<p>Projects developed by industry experts gives you a experience 
+of the real-world problems you will be solving in the corporate world</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-8">
+<h5>Engage & Interact within Edureka's Learner Community</h5>
+<p>Your learning portal has a discussion forum for a lively interaction among learners across batches. 
+Get life time access to the Learner communtiy and make the most out it</p>
+</div>
+<div class="col-md-4">
+<img src="images/h7.png" class="img-fluid">
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-8">
+<h5>Get Certified and Fast Track Your Career Growth</h5>
+<p>Earn a valued certificate. 
+Get help in creation of a professionally written CV & Guidance for interview preparation & questions</p>
+</div>
+<div class="col-md-4">
+<img src="images/h8.png" class="img-fluid">
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+
 <div class="row">
 <div class="col-md-4">
 <div class="jumbotron nadj">
@@ -148,6 +257,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis voluptates qui dolorum quis nemo ratione eius praesentium, magni odio, est provident, veritatis enim nulla. Alias amet eaque quas repellat obcaecati!
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima optio illo, nisi blanditiis placeat iste? Maxime hic nemo doloribus accusantium, aspernatur magni soluta, fugit, quis mollitia expedita culpa nisi ab. 
 </p>
+</div>
+
+<div class="container-fluid">
+<h3>The SUCO Advantage</h3>
+<div class="col-md-6">
 </div>       
 <!-- MAIN CONTENT ENDS -->
 	
