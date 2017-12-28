@@ -16,7 +16,7 @@ Date:        16-12-2017
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <title>Career Counselling</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -94,17 +94,19 @@ Date:        16-12-2017
 
 <div class="row">
 <div class="col-md-10">
+
+  <span class="bgtext">Career Counselling</span>
  <img src="images/career counselling3.png"  class="img-fluid"> <br>  <br>  
  
     <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
-
+<hr>
 <div class="container-fluid">
 <div class="row">
 <hr>
 <div class="col-md-3">
-   <center><img src="images/cc12.png">
- <h5>Stream Selector</h5> 
- <h6>What to do after 10th?</h6><br>
+   <center> <img src="images/cc12.png" class="img-fluid"><br><br>
+<h5>Stream Selector</h5> 
+ <h6>What to do after 10th?</h6><br> 
   <!-- Button to Open the Modal -->
   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
     For 10th Class
@@ -112,9 +114,9 @@ Date:        16-12-2017
 </div>
 
 <div class="col-md-3">
-  <center><img src="images/cc13.png">
- <h5>Engineering Branch </h5>
- <h6>Why engineering branch ?</h6>
+  <center> <img src="images/cc13.png" class="img-fluid"><br><br>
+ <h5>Engg. Branch </h5>
+ <h6>Why engg. branch ?</h6><br>
   <!-- Button to Open the Modal -->
   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">
     For 11th&12th Class
@@ -122,9 +124,9 @@ Date:        16-12-2017
 </div>
 
 <div class="col-md-3">
-  <center><img src="images/cc14.png">
+  <center> <img src="images/cc14.png" class="img-fluid"><br><br>
   <h5>Ideal Career Test</h5> 
-  <h6>What career is right for me?</h6>
+  <h6>What career is right?</h6><br>
   <!-- Button to Open the Modal -->
   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">
     For all age groups
@@ -132,9 +134,9 @@ Date:        16-12-2017
 </div>
 
 <div class="col-md-3">
-  <center><img src="images/cc15.png">
- <h5>Skill Based Career Test</h5>     
-  <h6>What is my true skills?</h6> 
+ <center><img src="images/cc15.png" class="img-fluid"> <br><br>
+  <h5>Skill Based Career</h5>     
+  <h6>What is my true skills?</h6> <br>
   <!-- Button to Open the Modal -->
   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">
     For all age groups
@@ -286,13 +288,11 @@ Date:        16-12-2017
 <img src="images/career counselling4.png" class="sridhar-img1 img-fluid"/> <br><br>
 
 <!-- Videos -->
-<iframe width="320" height="250" src="https://www.youtube.com/embed/tqvSHqR7pjU?autoplay=1">
-</iframe><br><br>
-
+<center> <iframe width="320" height="250" src="https://www.youtube.com/embed/tqvSHqR7pjU?autoplay=1">
+</iframe></center><br>
 
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+</p>
 </div>
 
 
