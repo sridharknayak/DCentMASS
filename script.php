@@ -5,7 +5,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
 <!-- MaterialDesign -->
-<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+<!-- <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 
 <!-- custom script -->
 <script src="js/script.js"></script>
