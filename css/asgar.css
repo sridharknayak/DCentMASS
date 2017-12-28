@@ -1,0 +1,435 @@
+
+
+ /* font styles*/
+
+#ad-h-font
+{            
+              font-size: 50px;
+              font-family: Titillium Web;
+              color: #000;
+              font-weight: bold;
+              text-align: left;
+}
+
+#ad-Sub-h
+       {
+              font-size: 30px;
+              font-family: Poppins;
+              color: #000;
+              text-align: left;
+        }      
+#ad-P-heading
+{
+              font-size: 18px;
+              font-family: Roboto;
+              color: #000;
+             font-weight: bold;
+
+
+       line-height:22px;
+     vertical-align:baseline;
+    letter-spacing:normal;
+    word-spacing:0px;
+}
+
+#ad-icon-Paragraph
+{
+              font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align: center;
+            }
+
+  #ad-main-Para
+{
+              font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align:justify;
+            }
+                      
+            
+/* icons style 
+
+#icon-headding
+{
+	padding: 5px;
+	margin-left:-12px;
+}
+#icon-para
+{
+	padding-top:0px;
+	margin-left:-37px; 
+	text-align: center;
+}
+
+#icon-img
+{
+	margin-left:35px; 
+}
+*/
+#ad-back-img{
+   background: url("http://localhost/dcent/DCentMASS/images/background.png");
+  
+  top: 0;
+  left: 0;
+  bottom: 0.5;
+  right: 0;
+
+  z-index: -2;
+  margin:center; 
+  border-image-outset: 2px;
+  margin: auto; 
+  margin-right: 0px;
+ 
+ 
+}
+#ad-icon-img
+{
+  border: 3px solid #000;
+  border-radius: 100px; 
+}
+
+
+.ad-r-div{
+
+  background-color:#115a94; 
+  position: fixed; 
+   width: 304.7px;
+   height: 100%;
+
+
+}
+#ad-sub-h2
+{
+      margin-bottom:25px;
+      font-family: Poppins;
+    font-weight: bold;
+    line-height: 1.2;
+    color: #000;
+        font-size: 25px;
+        text-align: left;
+
+}
+
+
+
+
+
+
+
+
+#ad-buttonex
+{
+
+width: 375px;
+padding: 10px;
+cursor: pointer;
+font-weight: bold;
+font-size: 100%;
+background: ;
+color: #000;
+border: 2px solid #000;
+border-radius: 50px;
+}
+#ad-buttonex:hover {
+color:green;
+background: #d6d6d6;
+border: 2px solid #fff;
+}
+
+
+
+
+#ad-v-line
+{
+	border-left:3px red solid; 
+ padding-left: 5px;
+}
+
+/* contact form 
+input[type=text]
+ {
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid red;
+    background-color:#0FA581;
+    color: solid white;
+}*/
+#ad-form-line:focus
+{
+    outline: none;
+    line-height:24px
+vertical-align:baseline
+letter-spacing:0px
+word-spacing:0px
+}
+input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #ccc;
+}
+
+
+#ad-form-line 
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color:#115a94;
+    border-bottom: 1px white solid; 
+    color: #fff;
+    outline: none;
+    color: #ccc;
+    
+    
+}
+
+#ad-sub-button
+{
+	
+   padding: 10px;
+  width:150px;
+  float: center;
+
+}
+
+#ad-color1
+{
+  color:white ;
+  color:#a8cccc;
+}
+
+/* JobFair**/
+
+#ad-r-div
+{
+    min-height: 1445px;
+    background-color:#115a94;
+    position: fixed right;
+
+   }
+
+
+
+
+/*
+#ad-backgroundimg
+{ 
+  background: url('http://localhost/dcent/DCentMASS/images/meeting.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+*/
+
+
+
+
+#ad-container{
+padding: 25px;   
+}    
+
+
+
+
+
+#ad-hrline
+{
+  color: black solid;
+}
+
+
+#ad-P-heading2
+{
+              font-size: 20px;
+              font-family: Roboto;
+              color: #000;
+             font-weight: normal;
+}
+
+
+
+
+
+/* JOB FAIR ANOTHER ONE PAGE*/
+  
+#ad-hrstyle1{
+  border-top: 6px solid red;
+}
+#ad-hrverticle
+{
+  border-left:3px red solid; 
+ padding-left: 3px;
+ padding-top:0px;
+}
+#ad-Paragraph
+{
+              font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align: center;
+            }
+
+
+
+            #panel-event {
+    position: relative;
+    margin: 1em 0;
+    border-color: #ddd;
+    border-style: solid;
+    border-width: 1px;
+}
+/*#event-date-title {
+    display: table;
+    margin: 15px 20px 10px;
+}
+#event-date {
+    display: table-cell;
+    padding-right: .75em;
+    line-height: 1px;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-right: solid 2px #830065;
+    box-sizing: border-box;
+}*/
+/*
+
+.event-day {
+    font-size: 1.9em;
+    font-weight: 700;
+    color: #830065;
+}
+.event-year {
+    display: block;
+    font-weight: 600;
+    line-height: .8;
+    text-align: center;
+}
+.event-time {
+    display: block;
+    padding-top: .35em;
+    margin-top: .475em;
+    font-size: .9em;
+    line-height: .9em;
+    border-top: solid 1px #ddd;
+}
+.col-second-inner {
+    padding-left: 15px;
+    overflow: hidden;
+    border-left: solid 2px #830065;
+
+
+    box-sizing: border-box;
+  }
+  .panel
+  {
+  box-shadow: 0 4px 6px -5px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.1);
+}
+.event-date-separator {
+    font-size: 1.9em;
+    font-weight: 700;
+    line-height: 1.5em;
+    color: #830065;
+    vertical-align: top;
+}
+.event-month {
+    font-size: 1.05em;
+    text-transform: uppercase;
+}
+
+.event-day, .event-month, .event-year {
+    display: block;
+    font-weight: 600;
+    line-height: .8;
+    text-align: center;
+}
+*/
+
+#ad-boxshadow
+{
+  padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+}
+/*.event-date-seprator {
+    font-size: 1.9em;
+    font-weight: 700;
+    line-height: 0.5em;
+    margin-left: 8px;
+    
+    color: #830065;
+    vertical-align: top;
+}*/
+
+#ad-hrverticle2
+{
+  border-right:1px red solid; 
+ padding-left:5px;
+ padding-top:0px;
+}
+#ad-comma
+{
+  font-size:30px;
+  opacity:0.2;
+}
+#ad-boxshadow
+{
+    padding: 10px;
+    box-shadow: 5px 5px  #888888;
+  }
+  #ad-eventmont
+  {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left:1px;
+  }
+  #ad-fontweight
+  {
+    font-weight: bold;
+  }
+  #ad-hrstyle
+  {
+    width:50px; 
+    float: left;
+  }
+  #ad-eventtime
+  {
+    margin:0.8em;
+    line-height: -5px;
+     margin-top: 0;
+      text-indent: 2em;
+      padding: 0 5px 0 5px;
+  }
+  #ad-eventday
+  {
+    line-height: -5px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  #ad-year
+  {
+    font-weight: bold;
+  }
+  #ad-hrleftside
+  {
+    width: 50px;
+     float: left;
+  }
+  #ad-eventtime2
+  {
+    margin:0em;
+    line-height:0px;
+     margin-top:0; 
+    text-indent:  2em;
+                         padding: 0 5px 0 5px;
+  }
+  #ad-textcenet
+  {
+    padding-top:50px;
+    font-size:20px;
+  }
