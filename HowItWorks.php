@@ -257,6 +257,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis voluptates qui dolorum quis nemo ratione eius praesentium, magni odio, est provident, veritatis enim nulla. Alias amet eaque quas repellat obcaecati!
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima optio illo, nisi blanditiis placeat iste? Maxime hic nemo doloribus accusantium, aspernatur magni soluta, fugit, quis mollitia expedita culpa nisi ab. 
 </p>
+</div>
+
+<div class="container-fluid">
+<h3>The SUCO Advantage</h3>
+<div class="col-md-6">
 </div>       
 <!-- MAIN CONTENT ENDS -->
 	
