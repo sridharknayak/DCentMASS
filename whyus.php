@@ -129,7 +129,7 @@ Date:        15-12-2017
 
        
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/5Aawqth97fs?autoplay=1">
+        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/5Aawqth97fs?autoplay=0">
         </iframe></center>
 
           <br><br>
@@ -146,7 +146,7 @@ Date:        15-12-2017
       
 
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/BRlqDsDqQ3Q?autoplay=1">
+        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/BRlqDsDqQ3Q?autoplay=0">
         </iframe></center>
 
           <br><br>
@@ -164,7 +164,7 @@ Date:        15-12-2017
      
 
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/h4oWLjHHoDY?autoplay=1">
+        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/h4oWLjHHoDY?autoplay=0">
         </iframe></center>
 
         <br><br>
@@ -183,7 +183,7 @@ Date:        15-12-2017
      
      
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/3AnpN4IiAKw?autoplay=1">
+        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/3AnpN4IiAKw?autoplay=0">
         </iframe></center>
 
         <br><br>
@@ -202,7 +202,7 @@ Date:        15-12-2017
       
 
 
-        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/yWrQuenntOc?autoplay=1">
+        <center><iframe width="340" height="250" src="https://www.youtube.com/embed/yWrQuenntOc?autoplay=0">
         </iframe></center>
 
           <br><br><br><br><br>
@@ -213,12 +213,14 @@ Date:        15-12-2017
 
 
     <div class="col-md-2">
-      <div class="sridhar-card6 card">
-    <nav id="myScrollspy">
+      
+  
       <ul class="nav nav-pills flex-column">
          <li class="nav-item">
-          <img src="images\whyus2.png" height="65" width="184px"/> <br>
-          <br><a href="#section1" " class="btn btn-warning btn-block" > <font size="4px">Employee</font> </a> </p>
+           <div>
+          <img src="images\whyus2.png" height="65" width="189px"/> 
+        </div> <br>
+          <a href="#section1" " class="btn btn-warning btn-block" > <font size="4px">Employee</font> </a> </p>
          </li>
          
         <li class="nav-item">
@@ -238,7 +240,7 @@ Date:        15-12-2017
     </nav>
     </div>
     </div>
-  </div>
+
 </div>
 
 </body>

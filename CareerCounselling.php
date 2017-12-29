@@ -96,7 +96,7 @@ Date:        16-12-2017
 <div class="col-md-10">
 
   <span class="bgtext">Career Counselling</span>
- <img src="images/career counselling3.png"  class="img-fluid"> <br>  <br>  
+ <img src="images/career counselling3.png"  class="img-fluid"> <br><br>  
  
     <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> 
 <hr>
@@ -105,40 +105,40 @@ Date:        16-12-2017
 <hr>
 <div class="col-md-3">
    <center> <img src="images/cc12.png" class="img-fluid"><br><br>
-<h5>Stream Selector</h5> 
- <h6>What to do after 10th?</h6><br> 
+<span class=.text> Stream Selector </span><br>
+<span class=.text>What to do after 10th?</span><br> <br>
   <!-- Button to Open the Modal -->
-  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+  <button  type="button" class=" btn-primary" data-toggle="modal" data-target="#myModal">
     For 10th Class
   </button> </center>
 </div>
 
 <div class="col-md-3">
   <center> <img src="images/cc13.png" class="img-fluid"><br><br>
- <h5>Engg. Branch </h5>
- <h6>Why engg. branch ?</h6><br>
+  <span class=.text>Engineering Branch Selector</span>
+  <span class=.text>Which engg. branch is right?</span><br><br>
   <!-- Button to Open the Modal -->
-  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">
-    For 11th&12th Class
+  <button type="button" class="btn-primary" data-toggle="modal" data-target="#myModal1">
+    For 11th & 12th Class
   </button></center>
 </div>
 
 <div class="col-md-3">
   <center> <img src="images/cc14.png" class="img-fluid"><br><br>
-  <h5>Ideal Career Test</h5> 
-  <h6>What career is right?</h6><br>
+  <span class=.text>Ideal Career Test</span><br>
+  <span class=.text>What career is right for me?</span><br><br>
   <!-- Button to Open the Modal -->
-  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">
+  <button type="button" class="btn-primary" data-toggle="modal" data-target="#myModal2">
     For all age groups
   </button></center>
 </div>
 
 <div class="col-md-3">
  <center><img src="images/cc15.png" class="img-fluid"> <br><br>
-  <h5>Skill Based Career</h5>     
-  <h6>What is my true skills?</h6> <br>
+ <span class=.text>Skill Based Career</span><br>    
+ <span class=.text>What is my true skills?</span> <br><br>
   <!-- Button to Open the Modal -->
-  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">
+  <button type="button" class=" btn-primary" data-toggle="modal" data-target="#myModal3">
     For all age groups
   </button></center>
 </div>
@@ -162,7 +162,7 @@ Date:        16-12-2017
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <h4 class="modal-title">What to do after 10th?</h4> 
+          <span class=.text class="modal-title">What to do after 10th?</span> 
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         
@@ -195,7 +195,7 @@ Date:        16-12-2017
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <h4 class="modal-title">Why engineering branch is right for me?</h4>
+          <span class=.text class="modal-title">Why engineering branch is right for me?</span>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         
@@ -229,7 +229,7 @@ Date:        16-12-2017
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <h4 class="modal-title">What career is right for me?</h4>
+        <span class.text class="modal-title">What career is right for me?</span>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         
@@ -262,7 +262,7 @@ Date:        16-12-2017
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <h4 class="modal-title">What is my true skills?</h4>
+          <span class.text class="modal-title">What is my true skills?</span>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         
@@ -288,7 +288,7 @@ Date:        16-12-2017
 <img src="images/career counselling4.png" class="sridhar-img1 img-fluid"/> <br><br>
 
 <!-- Videos -->
-<center> <iframe width="320" height="250" src="https://www.youtube.com/embed/tqvSHqR7pjU?autoplay=1">
+<center> <iframe width="320" height="250" src="https://www.youtube.com/embed/tqvSHqR7pjU?autoplay=0">
 </iframe></center><br>
 
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -318,18 +318,6 @@ Date:        16-12-2017
 </div>
 
 
-
-
-
-<!-- NOTE: Please keep your code clean + readable and add comments -->
-
-
-
-
-
-
-</div>
-</div>
 
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
